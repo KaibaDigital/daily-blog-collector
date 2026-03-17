@@ -1,6 +1,6 @@
 {
   "date": "2026-03-17",
-  "generated": "2026-03-17T06:27:43.198425Z",
+  "generated": "2026-03-17T14:42:07.498381Z",
   "total_posts": 30,
   "by_topic": {
     "Marketing": [
@@ -89,6 +89,14 @@
       {
         "source": "Smashing Magazine",
         "topic": "Design",
+        "title": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow",
+        "url": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
+        "summary": "Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn’s Superman manage emotional shifts and translating those ideas into practical patterns for product de",
+        "published": "Tue, 17 Mar 2026 10:00:00 GMT"
+      },
+      {
+        "source": "Smashing Magazine",
+        "topic": "Design",
         "title": "Moving From Moment.js To The JS Temporal API",
         "url": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
         "summary": "The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attardi shares practical “recipes” for migrating Moment-",
@@ -119,134 +127,126 @@
         "published": "Mon, 09 Mar 2026 11:00:00 GMT"
       },
       {
-        "source": "Smashing Magazine",
+        "source": "Creative Bloq",
         "topic": "Design",
-        "title": "Human Strategy In An AI-Accelerated Workflow",
-        "url": "https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/",
-        "summary": "UX design is entering a new phase, with designers shifting from makers of outputs to directors of intent. AI can now generate wireframes, prototypes, and even design systems in minutes, but UX has never been only about creating interfaces. It’s about navigating ambiguity, advocating for humans in sy",
-        "published": "Fri, 06 Mar 2026 08:00:00 GMT"
+        "title": "This children's book appears blank in the daytime",
+        "url": "https://www.creativebloq.com/entertainment/books/this-childrens-book-appears-blank-in-the-daytime",
+        "summary": "But comes alive at night.",
+        "published": "Tue, 17 Mar 2026 14:00:00 +0000"
       },
       {
         "source": "Creative Bloq",
         "topic": "Design",
-        "title": "From Jaguar to HBO: should brands commit to a failed rebrand?",
-        "url": "https://www.creativebloq.com/design/branding/from-jaguar-to-hbo-should-brands-commit-to-a-failed-rebrand",
-        "summary": "To stick or quit, that is the question.",
-        "published": "Mon, 16 Mar 2026 16:00:24 +0000"
+        "title": "Firefox teases new logo WITHOUT iconic fox",
+        "url": "https://www.creativebloq.com/design/logos-icons/firefox-drops-its-fox-in-tease-for-new-logo",
+        "summary": "I think I know what's coming.",
+        "published": "Tue, 17 Mar 2026 13:29:35 +0000"
       },
       {
         "source": "Creative Bloq",
         "topic": "Design",
-        "title": "How we taught AI to understand light",
-        "url": "https://www.creativebloq.com/ai/we-taught-ai-to-understand-light-and-transformed-our-creative-process",
-        "summary": "It was transformational, and a major win for artists and filmmakers.",
-        "published": "Mon, 16 Mar 2026 14:59:40 +0000"
+        "title": "From Kpop Demon Hunters to Sinners: an honest ranking of Oscar winning movie posters",
+        "url": "https://www.creativebloq.com/design/poster-design/from-kpop-demon-hunters-to-sinners-an-honest-ranking-of-oscar-winning-movie-posters",
+        "summary": "Do big wins equal great design?",
+        "published": "Tue, 17 Mar 2026 13:00:00 +0000"
       },
       {
         "source": "Creative Bloq",
         "topic": "Design",
-        "title": "Wild new handwriting font is 'Comic Sans on steroids'",
-        "url": "https://www.creativebloq.com/design/fonts-typography/say-hello-to-the-worlds-most-random-font",
-        "summary": "Rando Sans solves the biggest problem with handwriting fonts.",
-        "published": "Mon, 16 Mar 2026 12:54:59 +0000"
+        "title": "DLSS 5 is Nvidia’s boldest graphics leap yet, and its most controversial",
+        "url": "https://www.creativebloq.com/3d/video-game-design/dlss-5-is-nvidias-boldest-graphics-leap-yet-and-its-most-controversial",
+        "summary": "The future of game graphics, or the end of artistic control?",
+        "published": "Tue, 17 Mar 2026 11:00:00 +0000"
       },
       {
         "source": "Creative Bloq",
         "topic": "Design",
-        "title": "Under Armour orders indie brand to change its logo",
-        "url": "https://www.creativebloq.com/design/logos-icons/under-armour-orders-indie-brand-to-change-its-logo",
-        "summary": "It alleges the design bears “undeniable similarity” to its trademarked identity.",
-        "published": "Mon, 16 Mar 2026 12:46:46 +0000"
-      },
-      {
-        "source": "Creative Bloq",
-        "topic": "Design",
-        "title": "Why KPop Demon Hunters' Oscars wins are a big deal",
-        "url": "https://www.creativebloq.com/art/animation/why-kpop-demon-hunterss-oscar-win-is-a-big-deal",
-        "summary": "4 reasons why this year’s Best Animated Feature matters.",
-        "published": "Mon, 16 Mar 2026 07:00:00 +0000"
+        "title": "From movies to video games, can fan art be genuinely creative?",
+        "url": "https://www.creativebloq.com/art/digital-art/can-fan-art-be-genuinely-creative",
+        "summary": "Artists and academics tackle an existential question of authenticity and originality.",
+        "published": "Tue, 17 Mar 2026 08:00:00 +0000"
       }
     ],
     "Tech": [
       {
         "source": "TechCrunch",
         "topic": "Tech",
-        "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
-        "url": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
-        "summary": "Picsart's AI agent marketplace will launch with four agents, then add more agents each week.",
-        "published": "Tue, 17 Mar 2026 04:01:00 +0000"
+        "title": "MacBook Neo, AirPods Max 2, iPhone 17e, and everything else Apple announced this month",
+        "url": "https://techcrunch.com/2026/03/17/everything-apple-announced-macbook-neo-iphone-17e-ipad-air/",
+        "summary": "From a new iPhone to a budget-friendly MacBook, Apple announced a series of new products this week.",
+        "published": "Tue, 17 Mar 2026 13:15:22 +0000"
       },
       {
         "source": "TechCrunch",
         "topic": "Tech",
-        "title": "SEC eyes shift to twice-yearly earnings reports",
-        "url": "https://techcrunch.com/2026/03/16/sec-eyes-shift-to-twice-yearly-earnings-reports/",
-        "summary": "The SEC is working on a proposal to allow public companies to release earnings reports twice a year instead of quarterly, per the WSJ.",
-        "published": "Tue, 17 Mar 2026 00:27:10 +0000"
+        "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
+        "url": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
+        "summary": "The company raised $12 million in seed funding to measure and manage GPU power surges.",
+        "published": "Tue, 17 Mar 2026 13:00:00 +0000"
       },
       {
         "source": "TechCrunch",
         "topic": "Tech",
-        "title": "Nvidia’s version of OpenClaw could solve its biggest problem: security",
-        "url": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
-        "summary": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw.",
-        "published": "Mon, 16 Mar 2026 22:45:51 +0000"
+        "title": "H&M wants to make clothing from CO2 using this startup’s tech",
+        "url": "https://techcrunch.com/2026/03/17/hm-wants-to-make-clothing-from-co2-using-this-startups-tech/",
+        "summary": "Rubi has developed an enzymatic process to turn carbon dioxide into cellulose that's ready to be spun into lyocell or viscose.",
+        "published": "Tue, 17 Mar 2026 13:00:00 +0000"
       },
       {
         "source": "TechCrunch",
         "topic": "Tech",
-        "title": "Jensen Huang just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
-        "url": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
-        "summary": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips.",
-        "published": "Mon, 16 Mar 2026 21:41:37 +0000"
+        "title": "Gamma adds AI image generation tools in bid to take on Canva and Adobe",
+        "url": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
+        "summary": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, and infographics.",
+        "published": "Tue, 17 Mar 2026 13:00:00 +0000"
       },
       {
         "source": "TechCrunch",
         "topic": "Tech",
-        "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
-        "url": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
-        "summary": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.",
-        "published": "Mon, 16 Mar 2026 20:58:36 +0000"
+        "title": "Amazon adds 1-hour and 3-hour delivery options in the US",
+        "url": "https://techcrunch.com/2026/03/17/amazon-adds-1-hour-and-3-hour-delivery-options-in-the-us/",
+        "summary": "Amazon Prime subscribers will be charged $9.99 for one-hour delivery and $4.99 for three-hour delivery. If you don't have a Prime subscription, you'll pay $19.99 for one-hour delivery and $14.99 for three-hour delivery.",
+        "published": "Tue, 17 Mar 2026 11:34:35 +0000"
       },
       {
         "source": "The Verge",
         "topic": "Tech",
-        "title": "The Live Nation trial restarts with a &#8216;velvet hammer&#8217;",
-        "url": "https://www.theverge.com/policy/895778/live-nation-ticketmaster-states-trial-continues",
-        "summary": "After a chaotic week following the Justice Department's mid-trial settlement with Live Nation-Ticketmaster, the antitrust trial picked back up surprisingly smoothly on Monday - this time, with dozens of states leading the case. This isn't the outcome the states originally wanted. Out of concerns abo",
-        "published": "2026-03-16T20:08:31-04:00"
+        "title": "Amazon&#8217;s new &#8216;getitfast&#8217; delivery page lists items you can have in 1 hour",
+        "url": "https://www.theverge.com/tech/895940/amazon-1-hour-3-hour-delivery",
+        "summary": "Amazon announced on Tuesday that it's making it easier for users to find products eligible for its 1-hour and 3-hour delivery options with a new \"getitfast\" page for same-day delivery products available in their area. Amazon is also introducing new search filters for 1-hour and 3-hour delivery, alon",
+        "published": "2026-03-17T10:17:56-04:00"
       },
       {
         "source": "The Verge",
         "topic": "Tech",
-        "title": "DLSS 5 looks like a real-time generative AI filter for video games",
-        "url": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
-        "summary": "Nvidia announced DLSS 5 on Monday during its GTC conference, and based on early reactions, it's going to be a divisive update, with some reactions calling it \"slop\" that unacceptably alters artistic intent. Nvidia CEO Jensen Huang is calling this the \"GPT moment for graphics - blending hand-crafted ",
-        "published": "2026-03-16T17:56:05-04:00"
+        "title": "Nintendo Switch 2 update adds &#8216;Handheld Boost Mode&#8217; for original Switch games",
+        "url": "https://www.theverge.com/games/895919/nintendo-switch-2-handheld-boost-mode-update",
+        "summary": "Nintendo's latest update for the Switch 2 will upgrade the performance of original Switch games played in handheld mode, as reported earlier by IGN. When you turn on the new Handheld Boost Mode, the Switch 2 will force original Switch games to run as if the console is connected to a TV, allowing for",
+        "published": "2026-03-17T10:04:26-04:00"
       },
       {
         "source": "The Verge",
         "topic": "Tech",
-        "title": "Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk",
-        "summary": "Three Tennessee teens are suing Elon Musk's xAI over claims that the company's Grok AI chatbot generated sexualized images and videos of themselves as minors, as reported earlier by The Washington Post. The proposed class action lawsuit, filed on Monday, accuses Musk and other xAI leaders of knowing",
-        "published": "2026-03-16T17:44:11-04:00"
+        "title": "Why Project Hail Mary’s creators were ‘scared’ about making the sci-fi adaptation",
+        "url": "https://www.theverge.com/entertainment/895508/project-hail-mary-interview-andy-weir-drew-goddard",
+        "summary": "Project Hail Mary is a natural follow-up to The Martian. Both movies are based on sci-fi novels by Andy Weir, and both have bankable stars in the lead role (Matt Damon for The Martian, Ryan Gosling for Project Hail Mary) and accomplished directors at the helm (Ridley Scott for the former, Phil Lord ",
+        "published": "2026-03-17T10:00:00-04:00"
       },
       {
         "source": "The Verge",
         "topic": "Tech",
-        "title": "Ecovacs’ Deebot X8 and X9 Pro Omni robovacs are nearly 50 percent off",
-        "url": "https://www.theverge.com/gadgets/895458/ecovacs-deebot-x8-x9-pro-omni-robot-vacuum-amazon-big-spring-sale-deal-2026",
-        "summary": "If you like the idea of spring cleaning but not the part where you actually have to clean, both the Ecovacs Deebot X8 Pro Omni and newer X9 Pro Omni have dropped to their lowest prices to date ahead of Amazon’s Big Spring Sale, which officially kicks off on March 25th. The X8 Pro Omni is available [",
-        "published": "2026-03-16T17:21:31-04:00"
+        "title": "Poco’s first Pro Max phone earns the name with an 8,500mAh battery",
+        "url": "https://www.theverge.com/tech/895884/poco-x8-pro-max-8500mah-battery-dynamic-rgb-lights-iron-man",
+        "summary": "Xiaomi subsidiary Poco has launched the X8 Pro and X8 Pro Max phones, both of which feature large silicon-carbon batteries, powerful chipsets, and 256GB of storage as standard, with stronger specs on paper than the recent Pixel 10A despite costing less. Both Poco phones also feature a surprisingly s",
+        "published": "2026-03-17T09:00:00-04:00"
       },
       {
         "source": "The Verge",
         "topic": "Tech",
-        "title": "Benjamin Netanyahu is struggling to prove he&#8217;s not an AI clone",
-        "url": "https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy",
-        "summary": "Social media platforms are currently awash with conspiracy theories claiming that Benjamin Netanyahu has been killed or injured and replaced by AI-generated deepfakes. Between clips that supposedly show the Israeli prime minister sporting extra fingers and drinking from a bottomless, gravity-defying",
-        "published": "2026-03-16T16:41:55-04:00"
+        "title": "Oppo’s nearly creaseless foldable isn’t launching in Europe after all",
+        "url": "https://www.theverge.com/tech/895859/oppo-find-n6-launch-release-markets-specs-battery",
+        "summary": "Oppo has launched its \"zero-feel crease\" foldable, the Find N6, but while we knew it was unlikely to launch in the US, it's a shame to discover that the promised \"global\" launch is also leaving Europe out in the cold. Instead, the Find N6 will go on sale from March 20th across what the company [&#82",
+        "published": "2026-03-17T08:00:00-04:00"
       }
     ]
   },
@@ -334,6 +334,14 @@
     {
       "source": "Smashing Magazine",
       "topic": "Design",
+      "title": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow",
+      "url": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
+      "summary": "Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn’s Superman manage emotional shifts and translating those ideas into practical patterns for product de",
+      "published": "Tue, 17 Mar 2026 10:00:00 GMT"
+    },
+    {
+      "source": "Smashing Magazine",
+      "topic": "Design",
       "title": "Moving From Moment.js To The JS Temporal API",
       "url": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
       "summary": "The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attardi shares practical “recipes” for migrating Moment-",
@@ -364,132 +372,124 @@
       "published": "Mon, 09 Mar 2026 11:00:00 GMT"
     },
     {
-      "source": "Smashing Magazine",
+      "source": "Creative Bloq",
       "topic": "Design",
-      "title": "Human Strategy In An AI-Accelerated Workflow",
-      "url": "https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/",
-      "summary": "UX design is entering a new phase, with designers shifting from makers of outputs to directors of intent. AI can now generate wireframes, prototypes, and even design systems in minutes, but UX has never been only about creating interfaces. It’s about navigating ambiguity, advocating for humans in sy",
-      "published": "Fri, 06 Mar 2026 08:00:00 GMT"
+      "title": "This children's book appears blank in the daytime",
+      "url": "https://www.creativebloq.com/entertainment/books/this-childrens-book-appears-blank-in-the-daytime",
+      "summary": "But comes alive at night.",
+      "published": "Tue, 17 Mar 2026 14:00:00 +0000"
     },
     {
       "source": "Creative Bloq",
       "topic": "Design",
-      "title": "From Jaguar to HBO: should brands commit to a failed rebrand?",
-      "url": "https://www.creativebloq.com/design/branding/from-jaguar-to-hbo-should-brands-commit-to-a-failed-rebrand",
-      "summary": "To stick or quit, that is the question.",
-      "published": "Mon, 16 Mar 2026 16:00:24 +0000"
+      "title": "Firefox teases new logo WITHOUT iconic fox",
+      "url": "https://www.creativebloq.com/design/logos-icons/firefox-drops-its-fox-in-tease-for-new-logo",
+      "summary": "I think I know what's coming.",
+      "published": "Tue, 17 Mar 2026 13:29:35 +0000"
     },
     {
       "source": "Creative Bloq",
       "topic": "Design",
-      "title": "How we taught AI to understand light",
-      "url": "https://www.creativebloq.com/ai/we-taught-ai-to-understand-light-and-transformed-our-creative-process",
-      "summary": "It was transformational, and a major win for artists and filmmakers.",
-      "published": "Mon, 16 Mar 2026 14:59:40 +0000"
+      "title": "From Kpop Demon Hunters to Sinners: an honest ranking of Oscar winning movie posters",
+      "url": "https://www.creativebloq.com/design/poster-design/from-kpop-demon-hunters-to-sinners-an-honest-ranking-of-oscar-winning-movie-posters",
+      "summary": "Do big wins equal great design?",
+      "published": "Tue, 17 Mar 2026 13:00:00 +0000"
     },
     {
       "source": "Creative Bloq",
       "topic": "Design",
-      "title": "Wild new handwriting font is 'Comic Sans on steroids'",
-      "url": "https://www.creativebloq.com/design/fonts-typography/say-hello-to-the-worlds-most-random-font",
-      "summary": "Rando Sans solves the biggest problem with handwriting fonts.",
-      "published": "Mon, 16 Mar 2026 12:54:59 +0000"
+      "title": "DLSS 5 is Nvidia’s boldest graphics leap yet, and its most controversial",
+      "url": "https://www.creativebloq.com/3d/video-game-design/dlss-5-is-nvidias-boldest-graphics-leap-yet-and-its-most-controversial",
+      "summary": "The future of game graphics, or the end of artistic control?",
+      "published": "Tue, 17 Mar 2026 11:00:00 +0000"
     },
     {
       "source": "Creative Bloq",
       "topic": "Design",
-      "title": "Under Armour orders indie brand to change its logo",
-      "url": "https://www.creativebloq.com/design/logos-icons/under-armour-orders-indie-brand-to-change-its-logo",
-      "summary": "It alleges the design bears “undeniable similarity” to its trademarked identity.",
-      "published": "Mon, 16 Mar 2026 12:46:46 +0000"
-    },
-    {
-      "source": "Creative Bloq",
-      "topic": "Design",
-      "title": "Why KPop Demon Hunters' Oscars wins are a big deal",
-      "url": "https://www.creativebloq.com/art/animation/why-kpop-demon-hunterss-oscar-win-is-a-big-deal",
-      "summary": "4 reasons why this year’s Best Animated Feature matters.",
-      "published": "Mon, 16 Mar 2026 07:00:00 +0000"
+      "title": "From movies to video games, can fan art be genuinely creative?",
+      "url": "https://www.creativebloq.com/art/digital-art/can-fan-art-be-genuinely-creative",
+      "summary": "Artists and academics tackle an existential question of authenticity and originality.",
+      "published": "Tue, 17 Mar 2026 08:00:00 +0000"
     },
     {
       "source": "TechCrunch",
       "topic": "Tech",
-      "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
-      "url": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
-      "summary": "Picsart's AI agent marketplace will launch with four agents, then add more agents each week.",
-      "published": "Tue, 17 Mar 2026 04:01:00 +0000"
+      "title": "MacBook Neo, AirPods Max 2, iPhone 17e, and everything else Apple announced this month",
+      "url": "https://techcrunch.com/2026/03/17/everything-apple-announced-macbook-neo-iphone-17e-ipad-air/",
+      "summary": "From a new iPhone to a budget-friendly MacBook, Apple announced a series of new products this week.",
+      "published": "Tue, 17 Mar 2026 13:15:22 +0000"
     },
     {
       "source": "TechCrunch",
       "topic": "Tech",
-      "title": "SEC eyes shift to twice-yearly earnings reports",
-      "url": "https://techcrunch.com/2026/03/16/sec-eyes-shift-to-twice-yearly-earnings-reports/",
-      "summary": "The SEC is working on a proposal to allow public companies to release earnings reports twice a year instead of quarterly, per the WSJ.",
-      "published": "Tue, 17 Mar 2026 00:27:10 +0000"
+      "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
+      "url": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
+      "summary": "The company raised $12 million in seed funding to measure and manage GPU power surges.",
+      "published": "Tue, 17 Mar 2026 13:00:00 +0000"
     },
     {
       "source": "TechCrunch",
       "topic": "Tech",
-      "title": "Nvidia’s version of OpenClaw could solve its biggest problem: security",
-      "url": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
-      "summary": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw.",
-      "published": "Mon, 16 Mar 2026 22:45:51 +0000"
+      "title": "H&M wants to make clothing from CO2 using this startup’s tech",
+      "url": "https://techcrunch.com/2026/03/17/hm-wants-to-make-clothing-from-co2-using-this-startups-tech/",
+      "summary": "Rubi has developed an enzymatic process to turn carbon dioxide into cellulose that's ready to be spun into lyocell or viscose.",
+      "published": "Tue, 17 Mar 2026 13:00:00 +0000"
     },
     {
       "source": "TechCrunch",
       "topic": "Tech",
-      "title": "Jensen Huang just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
-      "url": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
-      "summary": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips.",
-      "published": "Mon, 16 Mar 2026 21:41:37 +0000"
+      "title": "Gamma adds AI image generation tools in bid to take on Canva and Adobe",
+      "url": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
+      "summary": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, and infographics.",
+      "published": "Tue, 17 Mar 2026 13:00:00 +0000"
     },
     {
       "source": "TechCrunch",
       "topic": "Tech",
-      "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
-      "url": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
-      "summary": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.",
-      "published": "Mon, 16 Mar 2026 20:58:36 +0000"
+      "title": "Amazon adds 1-hour and 3-hour delivery options in the US",
+      "url": "https://techcrunch.com/2026/03/17/amazon-adds-1-hour-and-3-hour-delivery-options-in-the-us/",
+      "summary": "Amazon Prime subscribers will be charged $9.99 for one-hour delivery and $4.99 for three-hour delivery. If you don't have a Prime subscription, you'll pay $19.99 for one-hour delivery and $14.99 for three-hour delivery.",
+      "published": "Tue, 17 Mar 2026 11:34:35 +0000"
     },
     {
       "source": "The Verge",
       "topic": "Tech",
-      "title": "The Live Nation trial restarts with a &#8216;velvet hammer&#8217;",
-      "url": "https://www.theverge.com/policy/895778/live-nation-ticketmaster-states-trial-continues",
-      "summary": "After a chaotic week following the Justice Department's mid-trial settlement with Live Nation-Ticketmaster, the antitrust trial picked back up surprisingly smoothly on Monday - this time, with dozens of states leading the case. This isn't the outcome the states originally wanted. Out of concerns abo",
-      "published": "2026-03-16T20:08:31-04:00"
+      "title": "Amazon&#8217;s new &#8216;getitfast&#8217; delivery page lists items you can have in 1 hour",
+      "url": "https://www.theverge.com/tech/895940/amazon-1-hour-3-hour-delivery",
+      "summary": "Amazon announced on Tuesday that it's making it easier for users to find products eligible for its 1-hour and 3-hour delivery options with a new \"getitfast\" page for same-day delivery products available in their area. Amazon is also introducing new search filters for 1-hour and 3-hour delivery, alon",
+      "published": "2026-03-17T10:17:56-04:00"
     },
     {
       "source": "The Verge",
       "topic": "Tech",
-      "title": "DLSS 5 looks like a real-time generative AI filter for video games",
-      "url": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
-      "summary": "Nvidia announced DLSS 5 on Monday during its GTC conference, and based on early reactions, it's going to be a divisive update, with some reactions calling it \"slop\" that unacceptably alters artistic intent. Nvidia CEO Jensen Huang is calling this the \"GPT moment for graphics - blending hand-crafted ",
-      "published": "2026-03-16T17:56:05-04:00"
+      "title": "Nintendo Switch 2 update adds &#8216;Handheld Boost Mode&#8217; for original Switch games",
+      "url": "https://www.theverge.com/games/895919/nintendo-switch-2-handheld-boost-mode-update",
+      "summary": "Nintendo's latest update for the Switch 2 will upgrade the performance of original Switch games played in handheld mode, as reported earlier by IGN. When you turn on the new Handheld Boost Mode, the Switch 2 will force original Switch games to run as if the console is connected to a TV, allowing for",
+      "published": "2026-03-17T10:04:26-04:00"
     },
     {
       "source": "The Verge",
       "topic": "Tech",
-      "title": "Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk",
-      "summary": "Three Tennessee teens are suing Elon Musk's xAI over claims that the company's Grok AI chatbot generated sexualized images and videos of themselves as minors, as reported earlier by The Washington Post. The proposed class action lawsuit, filed on Monday, accuses Musk and other xAI leaders of knowing",
-      "published": "2026-03-16T17:44:11-04:00"
+      "title": "Why Project Hail Mary’s creators were ‘scared’ about making the sci-fi adaptation",
+      "url": "https://www.theverge.com/entertainment/895508/project-hail-mary-interview-andy-weir-drew-goddard",
+      "summary": "Project Hail Mary is a natural follow-up to The Martian. Both movies are based on sci-fi novels by Andy Weir, and both have bankable stars in the lead role (Matt Damon for The Martian, Ryan Gosling for Project Hail Mary) and accomplished directors at the helm (Ridley Scott for the former, Phil Lord ",
+      "published": "2026-03-17T10:00:00-04:00"
     },
     {
       "source": "The Verge",
       "topic": "Tech",
-      "title": "Ecovacs’ Deebot X8 and X9 Pro Omni robovacs are nearly 50 percent off",
-      "url": "https://www.theverge.com/gadgets/895458/ecovacs-deebot-x8-x9-pro-omni-robot-vacuum-amazon-big-spring-sale-deal-2026",
-      "summary": "If you like the idea of spring cleaning but not the part where you actually have to clean, both the Ecovacs Deebot X8 Pro Omni and newer X9 Pro Omni have dropped to their lowest prices to date ahead of Amazon’s Big Spring Sale, which officially kicks off on March 25th. The X8 Pro Omni is available [",
-      "published": "2026-03-16T17:21:31-04:00"
+      "title": "Poco’s first Pro Max phone earns the name with an 8,500mAh battery",
+      "url": "https://www.theverge.com/tech/895884/poco-x8-pro-max-8500mah-battery-dynamic-rgb-lights-iron-man",
+      "summary": "Xiaomi subsidiary Poco has launched the X8 Pro and X8 Pro Max phones, both of which feature large silicon-carbon batteries, powerful chipsets, and 256GB of storage as standard, with stronger specs on paper than the recent Pixel 10A despite costing less. Both Poco phones also feature a surprisingly s",
+      "published": "2026-03-17T09:00:00-04:00"
     },
     {
       "source": "The Verge",
       "topic": "Tech",
-      "title": "Benjamin Netanyahu is struggling to prove he&#8217;s not an AI clone",
-      "url": "https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy",
-      "summary": "Social media platforms are currently awash with conspiracy theories claiming that Benjamin Netanyahu has been killed or injured and replaced by AI-generated deepfakes. Between clips that supposedly show the Israeli prime minister sporting extra fingers and drinking from a bottomless, gravity-defying",
-      "published": "2026-03-16T16:41:55-04:00"
+      "title": "Oppo’s nearly creaseless foldable isn’t launching in Europe after all",
+      "url": "https://www.theverge.com/tech/895859/oppo-find-n6-launch-release-markets-specs-battery",
+      "summary": "Oppo has launched its \"zero-feel crease\" foldable, the Find N6, but while we knew it was unlikely to launch in the US, it's a shame to discover that the promised \"global\" launch is also leaving Europe out in the cold. Instead, the Find N6 will go on sale from March 20th across what the company [&#82",
+      "published": "2026-03-17T08:00:00-04:00"
     }
   ]
 }
