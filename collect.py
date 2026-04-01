@@ -11,6 +11,18 @@ BLOGS = [
     {"name": "Creative Bloq",      "rss": "https://www.creativebloq.com/rss",                 "topic": "Design"},
     {"name": "TechCrunch",         "rss": "https://techcrunch.com/feed/",                     "topic": "Tech"},
     {"name": "The Verge",          "rss": "https://www.theverge.com/rss/index.xml",            "topic": "Tech"},
+    {"name": "The Brick Fan",      "rss": "https://www.thebrickfan.com/feed/",           "topic": "Lego"},
+{"name": "Brickset",           "rss": "https://brickset.com/feed",                   "topic": "Lego"},
+{"name": "Brothers Brick",     "rss": "https://www.brothers-brick.com/feed/",        "topic": "Lego"},
+ {"name": "MIT Technology Review", "rss": "https://www.technologyreview.com/feed/",   "topic": "Innovation"},
+{"name": "Fast Company",          "rss": "https://www.fastcompany.com/latest/rss",   "topic": "Innovation"},
+{"name": "Wired",                 "rss": "https://www.wired.com/feed/rss",           "topic": "Innovation"},
+ {"name": "Treehugger",         "rss": "https://www.treehugger.com/feeds/all",        "topic": "Ecology"},
+{"name": "CleanTechnica",      "rss": "https://cleantechnica.com/feed/",             "topic": "Ecology"},
+{"name": "Electrek",           "rss": "https://electrek.co/feed/",                  "topic": "Ecology"},   
+{"name": "Seeking Alpha",      "rss": "https://seekingalpha.com/feed.xml",           "topic": "Investor"},
+{"name": "Bloomberg Markets",  "rss": "https://feeds.bloomberg.com/markets/news.rss","topic": "Investor"},
+{"name": "Reuters Business",   "rss": "https://feeds.reuters.com/reuters/businessNews","topic": "Investor"},
 ]
 
 POSTS_PER_BLOG = 5
