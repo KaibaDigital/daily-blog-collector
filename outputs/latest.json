@@ -1,9 +1,25 @@
 {
-  "date": "2026-11-03",
-  "generated": "2026-11-03T18:19:35.886785Z",
+  "date": "2026-11-04",
+  "generated": "2026-11-04T18:31:43.467374Z",
   "total_posts": 80,
   "by_topic": {
     "Marketing": [
+      {
+        "source": "HubSpot Marketing",
+        "topic": "Marketing",
+        "title": "How to find and fix your AEO keywords gap",
+        "url": "https://blog.hubspot.com/marketing/aeo-keyword-gap-analysis",
+        "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/aeo-keyword-gap-analysis\" title=\"\"> <img alt=\"aeo keyword gap\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/blogbot/aeo-keywords-gap-featured-5331406.webp\" style=\"wid",
+        "published": "Wed, 04 Nov 2026 14:50:06 GMT"
+      },
+      {
+        "source": "HubSpot Marketing",
+        "topic": "Marketing",
+        "title": "How do I benchmark my AI search performance against my industry?",
+        "url": "https://blog.hubspot.com/marketing/ai-search-industry-benchmarks",
+        "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/ai-search-industry-benchmarks\" title=\"\"> <img alt=\"ai search benchmarks\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/blogbot/how-do-i-benchmark-my-ai-search-performa",
+        "published": "Wed, 04 Nov 2026 14:40:07 GMT"
+      },
       {
         "source": "HubSpot Marketing",
         "topic": "Marketing",
@@ -27,22 +43,6 @@
         "url": "https://blog.hubspot.com/marketing/scrunch-vs-semrush",
         "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/scrunch-vs-semrush\" title=\"\"> <img alt=\"Woman comparing Scrunch vs. Semrush at her laptop\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/scrunch-vs-semrush-1-20261027-",
         "published": "Mon, 02 Nov 2026 17:45:05 GMT"
-      },
-      {
-        "source": "HubSpot Marketing",
-        "topic": "Marketing",
-        "title": "ChatGPT Ads vs. Google Search ads: 5 differences to consider in your strategy",
-        "url": "https://blog.hubspot.com/marketing/chatgpt-ads-vs-google-search-ads",
-        "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/chatgpt-ads-vs-google-search-ads\" title=\"\"> <img alt=\"ChatGPT ads vs. Google Search ads\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/chatgpt%20ads%20vs%20google%20se",
-        "published": "Thu, 29 Oct 2026 12:00:04 GMT"
-      },
-      {
-        "source": "HubSpot Marketing",
-        "topic": "Marketing",
-        "title": "Claude marketing plugins worth adding to your stack in 2026",
-        "url": "https://blog.hubspot.com/marketing/claude-marketing-plugin",
-        "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/claude-marketing-plugin\" title=\"\"> <img alt=\"claude marketing plugin\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/claude-marketing-plug-in-1-20261023-1654266.webp\" s",
-        "published": "Wed, 28 Oct 2026 16:00:05 GMT"
       },
       {
         "source": "Neil Patel",
@@ -129,127 +129,135 @@
       {
         "source": "Creative Bloq",
         "topic": "Design",
-        "title": "Is this the most controversial font since Comic Sans?",
-        "url": "https://www.creativebloq.com/news/is-this-the-most-controversial-font-since-comic-sans",
-        "summary": "AI's favourite typeface is loud, obnoxious, and everywhere.",
-        "published": "Tue, 03 Nov 2026 15:30:00 +0000"
+        "title": "This super-comfy higher-end budget ergonomic office chair has $70 off for Black Friday",
+        "url": "https://www.creativebloq.com/deals/this-super-comfy-higher-end-budget-ergonomic-office-chair-has-usd70-off-for-black-friday",
+        "summary": "The Doro C300 Pro offers comfort, ergonomics and great arm rest adjustments.",
+        "published": "Wed, 04 Nov 2026 18:00:00 +0000"
       },
       {
         "source": "Creative Bloq",
         "topic": "Design",
-        "title": "The most popular 3D printer of 2026 just got a record low price for early Black Friday",
-        "url": "https://www.creativebloq.com/deals/the-most-popular-3d-printer-of-2026-just-got-a-record-low-price-for-early-black-friday",
-        "summary": "It was down to $721 for Prime – now it's $699!",
-        "published": "Tue, 03 Nov 2026 15:13:45 +0000"
+        "title": "The Legend of Zelda: Ocarina of Time reviews are in, and critics agree on one thing",
+        "url": "https://www.creativebloq.com/news/the-legend-of-zelda-ocarina-of-time-switch-2-reviews-are-in-and-critics-agree-on-one-thing",
+        "summary": "Nintendo has worked its magic on a 28-year-old classic.",
+        "published": "Wed, 04 Nov 2026 16:30:00 +0000"
       },
       {
         "source": "Creative Bloq",
         "topic": "Design",
-        "title": "I'm blown away by the new Bambu Lab H3C - is this the best 3D printer of all time?",
-        "url": "https://www.creativebloq.com/news/im-blown-away-by-the-new-bambu-lab-h3c-is-this-the-best-3d-printer-of-all-time",
-        "summary": "A built-in AMS, 9 spools, filament drying, craft tools, multi-diameter prints, TPU-optimised, what else could you need?",
-        "published": "Tue, 03 Nov 2026 14:05:46 +0000"
+        "title": "Canva's mass layoffs are a warning sign for creative tech",
+        "url": "https://www.creativebloq.com/news/canvas-mass-layoffs-are-a-warning-sign-for-creative-tech",
+        "summary": "Nobody's immune to the impact.",
+        "published": "Wed, 04 Nov 2026 16:00:00 +0000"
       },
       {
         "source": "Creative Bloq",
         "topic": "Design",
-        "title": "10 top email newsletter tools to build your subscriber list",
-        "url": "https://www.creativebloq.com/buying-guides/10-top-email-newsletter-tools-to-build-your-subscriber-list",
-        "summary": "Covering a range of use cases and mailing list sizes, these are the best email newsletter platforms available today.",
-        "published": "Tue, 03 Nov 2026 13:30:00 +0000"
+        "title": "World of Warcraft: Forever is bringing Azeroth back to life, \"as it lives in our heads\", without losing what made it special",
+        "url": "https://www.creativebloq.com/features/world-of-warcraft-forever-is-bringing-azeroth-back-to-life-as-it-lives-in-our-heads-without-losing-what-made-it-special",
+        "summary": "Blizzard’s artists and engineers explain how volumetric fog, moonlit forests and flowing rivers will make the original Azeroth feel as players remember it.",
+        "published": "Wed, 04 Nov 2026 15:00:00 +0000"
       },
       {
         "source": "Creative Bloq",
         "topic": "Design",
-        "title": "Wacom MovinkPad Pro 14 vs XPPen Magic Pro 13: Which is the best Android drawing tablet?",
-        "url": "https://www.creativebloq.com/advice/wacom-movinkpad-pro-14-vs-xppen-magic-pro-13-which-is-the-best-android-drawing-tablet",
-        "summary": "I've spent time drawing on both Wacom's premium Android tablet and XPPen's new challenger, and the difference might surprise you.",
-        "published": "Tue, 03 Nov 2026 13:00:00 +0000"
+        "title": "These 4 SAD lamp deals will brighten up your winter",
+        "url": "https://www.creativebloq.com/deals/these-4-sad-lamp-deals-will-brighten-up-your-winter",
+        "summary": "It's time to finally do something about my dingy home office.",
+        "published": "Wed, 04 Nov 2026 14:30:00 +0000"
       }
     ],
     "Tech": [
       {
         "source": "TechCrunch",
         "topic": "Tech",
-        "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
-        "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
-        "summary": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
-        "published": "Tue, 03 Nov 2026 17:56:52 +0000"
+        "title": "Waymo confirms it will split with Uber in January 2028",
+        "url": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/",
+        "summary": "The split will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
+        "published": "Wed, 04 Nov 2026 18:12:30 +0000"
       },
       {
         "source": "TechCrunch",
         "topic": "Tech",
-        "title": "Anthropic is still grappling with the economics of compute",
-        "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-        "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
-        "published": "Tue, 03 Nov 2026 17:07:01 +0000"
+        "title": "‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet",
+        "url": "https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/",
+        "summary": "It is easier to watch the Elizabeth Holmes documentary \"You Can See Everything\" in low-Earth orbit than in London.",
+        "published": "Wed, 04 Nov 2026 18:10:11 +0000"
       },
       {
         "source": "TechCrunch",
         "topic": "Tech",
-        "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
-        "url": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
-        "summary": "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles.",
-        "published": "Tue, 03 Nov 2026 16:49:09 +0000"
+        "title": "Sequoia hits rewind, undoing 20 years of expansion",
+        "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
+        "summary": "Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.",
+        "published": "Wed, 04 Nov 2026 17:11:15 +0000"
       },
       {
         "source": "TechCrunch",
         "topic": "Tech",
-        "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-        "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-        "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
-        "published": "Tue, 03 Nov 2026 16:30:34 +0000"
+        "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+        "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+        "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+        "published": "Wed, 04 Nov 2026 16:51:35 +0000"
       },
       {
         "source": "TechCrunch",
         "topic": "Tech",
-        "title": "New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech",
-        "url": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/",
-        "summary": "The mayor's comments come after the entertainment giant's data breach last year, which exposed James Dolan's surveillance.",
-        "published": "Tue, 03 Nov 2026 16:04:55 +0000"
+        "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+        "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+        "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+        "published": "Wed, 04 Nov 2026 16:17:22 +0000"
       },
       {
         "source": "The Verge",
         "topic": "Tech",
-        "title": "Indie games are missing launch dates because Steam is backed up",
-        "url": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
-        "summary": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an upcoming title called Food",
-        "published": "2026-11-03T13:14:50-05:00"
+        "title": "Apple will check shared iCloud links for ‘harmful content’",
+        "url": "https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3",
+        "summary": "Apple will start checking iCloud items that are accessible to anyone who has the link for \"harmful content\" starting with iOS 27.3 and other 27.3 updates, the company says. \"When you share an item that can be accessed by Anyone with the Link in version 27.3 or later of iOS, iPadOS, macOS, and vision",
+        "published": "2026-11-04T13:23:37-05:00"
       },
       {
         "source": "The Verge",
         "topic": "Tech",
-        "title": "Google’s Gemini-powered Home Speaker is already on sale for 20 percent off",
-        "url": "https://www.theverge.com/gadgets/1025498/google-home-smart-speaker-holiday-2026-deal-sale",
-        "summary": "If you&#8217;re looking for a good smart speaker, the Google Home Speaker is down to around $79 ($20 off) in all four colors at Best Buy, Walmart, and Target. That&#8217;s the best price we&#8217;ve seen for the Gemini-powered speaker, which launched in June and represents Google’s first smart speak",
-        "published": "2026-11-03T13:11:49-05:00"
+        "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+        "url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+        "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in therapy. Plenty of life eve",
+        "published": "2026-11-04T13:00:00-05:00"
       },
       {
         "source": "The Verge",
         "topic": "Tech",
-        "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
-        "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
-        "summary": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.\" Whe",
-        "published": "2026-11-03T13:00:00-05:00"
+        "title": "ChatGPT will now make you animated GIFs",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+        "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively ",
+        "published": "2026-11-04T13:00:00-05:00"
       },
       {
         "source": "The Verge",
         "topic": "Tech",
-        "title": "Moft’s new origami case adds a kickstand and grip to the iPhone Duo",
-        "url": "https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo",
-        "summary": "Originally released in early 2025 as an accessory for the iPad, Moft has redesigned its Dynamic Folio as a case for the iPhone Duo that does more than just protect Apple's folding phone. You can use it to prop the Duo up at several different angles for hands-free use, or reconfigure the Dynamic Foli",
-        "published": "2026-11-03T12:27:52-05:00"
+        "title": "God of War Laufey delayed until May",
+        "url": "https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay",
+        "summary": "God of War Laufey's release date is being delayed to May 20th, 2027, developer Santa Monica Studio announced today. It was set to launch on PlayStation 5 on February 16th. Here is Santa Monica Studio's full message about the delay: Since the reveal of God of War Laufey in June, we've been deeply gra",
+        "published": "2026-11-04T12:10:31-05:00"
       },
       {
         "source": "The Verge",
         "topic": "Tech",
-        "title": "The Xbox Nano has a hidden cloud secret",
-        "url": "https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity",
-        "summary": "Microsoft is about to launch its new Xbox Nano controller tomorrow, and the tiny device has a little secret. The Nano can connect directly to Xbox Cloud Gaming over Wi-Fi to improve latency. It's a feature Microsoft hasn't officially announced yet, but one I've been anticipating since the Xbox Nano ",
-        "published": "2026-11-03T12:16:04-05:00"
+        "title": "Nintendo is losing a Switch cartridge supplier",
+        "url": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center",
+        "summary": "Nintendo is about to lose a major memory supplier for its Switch cartridges. The supplier, Macronix, announced during a recent quarterly earnings call that it would be gradually phasing out ROM production and is instead focusing on NOR flash memory for data centers, Taipei Times reports. Macronix's ",
+        "published": "2026-11-04T12:03:32-05:00"
       }
     ],
     "Lego": [
+      {
+        "source": "The Brick Fan",
+        "topic": "Lego",
+        "title": "LEGO Ideas Projects Currently Under Development – November 2026 Update",
+        "url": "https://www.thebrickfan.com/lego-ideas-projects-currently-under-development-november-2026-update/",
+        "summary": "<p><center><img src=\"https://ideascdn.lego.com/media/generate/lego_ci/d4d991f4-26fb-401d-ae5b-a9024cacf23f/resize:950:633/legacy\" width=\"600/\" /></center></p>\n<p>It&#8217;s been a few months since our last update for the LEGO Ideas projects that are still under development and there have been a lot ",
+        "published": "Wed, 04 Nov 2026 17:04:25 +0000"
+      },
       {
         "source": "The Brick Fan",
         "topic": "Lego",
@@ -283,12 +291,28 @@
         "published": "Sun, 01 Nov 2026 15:48:36 +0000"
       },
       {
-        "source": "The Brick Fan",
+        "source": "Brickset",
         "topic": "Lego",
-        "title": "LEGO November 2026 Sets Now Available on LEGO Shop",
-        "url": "https://www.thebrickfan.com/lego-november-2026-sets-now-available-on-lego-shop/",
-        "summary": "<p><center><a href=\"https://click.linksynergy.com/deeplink?id=LNtsWdwRzsQ&#038;mid=13923&#038;murl=https%3a%2f%2fwww.lego.com%2fen-us%2fproduct%2fdragon-ball-shenron-and-goku-11390\" target=\"_blank\"><img src=\"https://www.thebrickfan.com/wp-content/uploads/2026/09/LEGO-Icons-Dragon-Ball-Shenron-Goku-1",
-        "published": "Sun, 01 Nov 2026 03:54:37 +0000"
+        "title": "BuWizz 4.0 launches on KickStarter",
+        "url": "https://brickset.com/article/135926",
+        "summary": "<img alt=\"BuWizz 4.0 launches on KickStarter\" src=\"https://images.brickset.com/news/thumbs/large/135926_IRP_6951.jpg\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Ten years after the original BuWizz brick was launched, the team are back with a new, more powerful version on <a href=\"https://www.k",
+        "published": "Wed, 04 Nov 2026 16:00:00 GMT"
+      },
+      {
+        "source": "Brickset",
+        "topic": "Lego",
+        "title": "Random set of the day: Volcano Supply Helicopter",
+        "url": "https://brickset.com/article/135916",
+        "summary": "<img alt=\"Random set of the day: Volcano Supply Helicopter\" src=\"https://images.brickset.com/sets/small/60123-1.jpg\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Today's random set is <a href=\"https://brickset.com/sets/60123-1\">60123</a> Volcano Supply Helicopter, released during 2016. It's one ",
+        "published": "Wed, 04 Nov 2026 03:01:03 GMT"
+      },
+      {
+        "source": "Brickset",
+        "topic": "Lego",
+        "title": "Random figure of the day: cas370",
+        "url": "https://brickset.com/article/135915",
+        "summary": "<img alt=\"Random figure of the day: cas370\" src=\"https://img.bricklink.com/ItemImage/MN/0/cas370.png\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Today's random figure is <a href=\"https://brickset.com/minifigs/cas370\">cas370</a> <em>Fantasy Era - Crown Knight Scale Mail with Chest Strap, Helmet",
+        "published": "Wed, 04 Nov 2026 02:01:03 GMT"
       },
       {
         "source": "Brickset",
@@ -305,30 +329,6 @@
         "url": "https://brickset.com/article/135898",
         "summary": "<img alt=\"Mark's Magic display frame for 11380 Road Bike\" src=\"https://images.brickset.com/news/thumbs/large/135898_P1015470.jpg\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>If you're looking for cases or frames display your models in you are spoilt for choice nowadays, with numerous companies ",
         "published": "Tue, 03 Nov 2026 12:00:00 GMT"
-      },
-      {
-        "source": "Brickset",
-        "topic": "Lego",
-        "title": "Random set of the day: Golden Staff Guardians",
-        "url": "https://brickset.com/article/135893",
-        "summary": "<img alt=\"Random set of the day: Golden Staff Guardians\" src=\"https://images.brickset.com/sets/small/7306-1.jpg\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Today's random set is <a href=\"https://brickset.com/sets/7306-1\">7306</a> Golden Staff Guardians, released during 2011. It's one of <a hre",
-        "published": "Tue, 03 Nov 2026 03:01:02 GMT"
-      },
-      {
-        "source": "Brickset",
-        "topic": "Lego",
-        "title": "Random figure of the day: njo0782",
-        "url": "https://brickset.com/article/135892",
-        "summary": "<img alt=\"Random figure of the day: njo0782\" src=\"https://img.bricklink.com/ItemImage/MN/0/njo0782.png\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Today's random figure is <a href=\"https://brickset.com/minifigs/njo0782\">njo0782</a> <em>Cole - Crystalized</em>, a <a href=\"https://brickset.com/m",
-        "published": "Tue, 03 Nov 2026 02:01:02 GMT"
-      },
-      {
-        "source": "Brickset",
-        "topic": "Lego",
-        "title": "Review: 75642 Showdown with Captain Smoker",
-        "url": "https://brickset.com/article/135711",
-        "summary": "<img alt=\"Review: 75642 Showdown with Captain Smoker\" src=\"https://images.brickset.com/news/thumbs/large/135711_Smoker 1A.jpg\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Smoker is a popular character in ONE PIECE and made his live-action debut in the second season earlier this year. Famous for",
-        "published": "Mon, 02 Nov 2026 14:00:00 GMT"
       },
       {
         "source": "Brothers Brick",
@@ -375,6 +375,30 @@
       {
         "source": "MIT Technology Review",
         "topic": "Innovation",
+        "title": "What’s next for US energy policy after the midterm elections?",
+        "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+        "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump’s victory two",
+        "published": "Wed, 04 Nov 2026 17:08:00 +0000"
+      },
+      {
+        "source": "MIT Technology Review",
+        "topic": "Innovation",
+        "title": "The Download: blended meat, restored sight, and the agentic web",
+        "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat&#160; In the fall of 2025, Jeff Dodge served hungry students steaming marinara s",
+        "published": "Wed, 04 Nov 2026 13:10:00 +0000"
+      },
+      {
+        "source": "MIT Technology Review",
+        "topic": "Innovation",
+        "title": "Securing the agentic enterprise with data lineage",
+        "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+        "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No ",
+        "published": "Wed, 04 Nov 2026 13:00:00 +0000"
+      },
+      {
+        "source": "MIT Technology Review",
+        "topic": "Innovation",
         "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
         "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing ",
@@ -389,276 +413,268 @@
         "published": "Tue, 03 Nov 2026 10:43:41 +0000"
       },
       {
-        "source": "MIT Technology Review",
+        "source": "Fast Company",
         "topic": "Innovation",
-        "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-        "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c",
-        "published": "Tue, 03 Nov 2026 04:18:47 +0000"
-      },
-      {
-        "source": "MIT Technology Review",
-        "topic": "Innovation",
-        "title": "Raising the quality of insights in agentic analytics",
-        "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-        "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The qualit",
-        "published": "Mon, 02 Nov 2026 17:00:00 +0000"
-      },
-      {
-        "source": "MIT Technology Review",
-        "topic": "Innovation",
-        "title": "Stop counting tokens, start counting what ships",
-        "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-        "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;",
-        "published": "Mon, 02 Nov 2026 13:10:32 +0000"
+        "title": "Uber CEO Dara Khosrowshahi: Midterms sent a ‘very clear message’",
+        "url": "https://www.fastcompany.com/91635545/uber-ceo-dara-khosrowshahi-midterms-sent-a-very-clear-message",
+        "summary": "<p class=\"wp-block-paragraph\">Uber CEO Dara Khosrowshahi said this morning that Democrats’ sweeping midterm victory sent a “very clear message” about the damage inflation has done to American consumers.&nbsp;&nbsp;</p>\n\n\n\n<p class=\"wp-block-paragraph\">During an appearance on CNBC’s <em>Squawk Box</e",
+        "published": "2026-11-04T17:30:00"
       },
       {
         "source": "Fast Company",
         "topic": "Innovation",
-        "title": "Midterm voters to decide on these key ballot measures, putting Trump’s agenda to the test",
-        "url": "https://www.fastcompany.com/91634937/midterm-voters-decide-key-ballot-measures-putting-trumps-agenda-test",
-        "summary": "<p class=\"wp-block-paragraph\">A <a href=\"https://www.fastcompany.com/91141918/these-5-states-could-have-abortion-ballot-2024\">battle over abortion rights</a> is playing out in several states Tuesday <a href=\"https://www.fastcompany.com/91634932/election-day-unfolding-across-america-after-surge-early",
-        "published": "2026-11-03T16:31:33"
+        "title": "Outback Steakhouse store closures: See a list of doomed locations as franchisee files for bankruptcy",
+        "url": "https://www.fastcompany.com/91635468/outback-steakhouse-closing-stores-2026-list-of-doomed-locations",
+        "summary": "<p class=\"wp-block-paragraph\">A number of Outback Steakhouse locations closed their doors last month in the lead-up to a bankruptcy petition by one of the casual dining chain&#8217;s largest franchisees, court documents reveal. The store closures span four states. Here&#8217;s what to know:</p>\n\n\n\n<",
+        "published": "2026-11-04T17:26:00"
       },
       {
         "source": "Fast Company",
         "topic": "Innovation",
-        "title": "Hate hearing your own voice? Blame your skull",
-        "url": "https://www.fastcompany.com/91623648/hate-hearing-your-own-voice-blame-your-skull-public-speaking",
-        "summary": "<p class=\"wp-block-paragraph\">In the 20 years I’ve been a TV producer, media executive, and speaking coach, I cannot count the number of times I’ve seen people literally cringe upon hearing their own voice. Sometimes it’s a slight scrunch of the nose and sometimes it’s an audible sigh. Why do we hat",
-        "published": "2026-11-03T16:30:00"
+        "title": "How AI impacts solopreneurs’ relationships with their clients (and what to do about it)",
+        "url": "https://www.fastcompany.com/91629139/how-ai-impacts-solopreneurs-relationships-their-clients-what-to-do-about-it",
+        "summary": "<p class=\"wp-block-paragraph\" id=\"h-most-people-i-know-have-asked-themselves-some-version-of-is-ai-replacing-me-it-s-a-fair-question\">Most people I know have asked themselves some version of <a href=\"https://www.fastcompany.com/91350525/ai-replaced-me-so-i-decided-to-ride-the-ai-wave-replaced-work-a",
+        "published": "2026-11-04T17:15:00"
       },
       {
         "source": "Fast Company",
         "topic": "Innovation",
-        "title": "Apple just had its best year ever. So why is its stock falling?",
-        "url": "https://www.fastcompany.com/91635033/apple-just-had-its-best-year-ever-so-why-is-its-stock-falling",
-        "summary": "<p class=\"wp-block-paragraph\">Yesterday, Apple (Nasdaq: AAPL) reported its fourth-quarter results, which closed out its fiscal 2026 financial year. </p>\n\n\n\n<p class=\"wp-block-paragraph\">On the surface, the results were exceptionally strong, with Apple exceeding Wall Street’s expectations on the most",
-        "published": "2026-11-03T16:13:24"
+        "title": "CVS is splitting into two companies: Healthcare giant’s ‘Pharmacy’ breakup explained",
+        "url": "https://www.fastcompany.com/91635507/cvs-health-pharmacy-splitting-into-2-companies-break-up-explained",
+        "summary": "<p class=\"wp-block-paragraph\">CVS is breaking up.</p>\n\n\n\n<p class=\"wp-block-paragraph\">On Wednesday, t<a href=\"https://www.cvshealth.com/news/company-news/cvs-health-announces-intent-to-create-two-distinct-leaders-in-healthcare.html\">he healthcare giant announced plans</a> to split into two separate",
+        "published": "2026-11-04T17:00:00"
       },
       {
         "source": "Fast Company",
         "topic": "Innovation",
-        "title": "How soon will we know who controls Congress? It could be a while. Here’s why",
-        "url": "https://www.fastcompany.com/91634942/when-will-we-know-who-controls-congress-could-while",
-        "summary": "<p class=\"wp-block-paragraph\"><a href=\"https://www.fastcompany.com/91634259/stock-market-midterm-elections-2026-experts-warn-of-uniquely-difficult-year-despite-historical-rally-sp-500-dow-jones-nasdaq-stocks\">The stakes</a> in <a href=\"https://www.fastcompany.com/91634932/election-day-unfolding-acro",
-        "published": "2026-11-03T15:00:00"
-      },
-      {
-        "source": "Fast Company",
-        "topic": "Innovation",
-        "title": "‘Blue tsunami’ watch: 4 ways to track the midterm election results today",
-        "url": "https://www.fastcompany.com/91634890/blue-tsunami-watch-4-ways-to-track-the-midterm-election-results-today",
-        "summary": "<p class=\"wp-block-paragraph\">Election Day 2026 is here. By the end of today (Tuesday, November 3, 2026), the balance of power in Washington is almost certain to have shifted. But the big question is, by how much?</p>\n\n\n\n<p class=\"wp-block-paragraph\">Voting in the 2026 midterm elections across the c",
-        "published": "2026-11-03T14:56:00"
+        "title": "Jeff Bezos praised Raising Cane’s. Its founder built a $22 billion fortune by breaking 3 fast-food rules",
+        "url": "https://www.fastcompany.com/91632994/jeff-bezos-praised-raising-canes-founder-built-22-billion-fortune-breaking-3-fast-food-rules",
+        "summary": "<p class=\"wp-block-paragraph\"><a href=\"https://www.fastcompany.com/91375991/this-cult-brand-chicken-chain-is-gaining-on-chik-fil-a\">Raising Cane’s</a> isn’t following the standard fast-food playbook.</p>\n\n\n\n<p class=\"wp-block-paragraph\">From its limited menu to the employee dress code, founder Todd ",
+        "published": "2026-11-04T16:45:00"
       },
       {
         "source": "Wired",
         "topic": "Innovation",
-        "title": "Best Air Purifiers for Allergies Are on Sale: Levoit, BlueAir (2026)",
-        "url": "https://www.wired.com/story/air-purifier-sale-october-3-2026/",
-        "summary": "Save on WIRED-tested picks from Blueair, Levoit, and Air Doctor, including compact models for your bedroom.",
-        "published": "Tue, 03 Nov 2026 18:04:07 +0000"
+        "title": "The Lawyer Holding Big Tech Accountable by ‘Beating the Tar Out of Them’ in Court",
+        "url": "https://www.wired.com/story/wired-world-fair-2026-mark-lanier/",
+        "summary": "Mark Lanier led the first social media addiction case to go to trial, winning a verdict against Meta and Google in March. It’s just the beginning.",
+        "published": "Wed, 04 Nov 2026 18:21:26 +0000"
       },
       {
         "source": "Wired",
         "topic": "Innovation",
-        "title": "Here’s Why You Shouldn’t Use AI to Vote",
-        "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
-        "summary": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
-        "published": "Tue, 03 Nov 2026 14:45:08 +0000"
+        "title": "Small Phones Have Vanished. Enough Phone Wants to Bring Them Back",
+        "url": "https://www.wired.com/story/big-tech-abandoned-the-small-phone-the-enough-phone-wants-to-save-it/",
+        "summary": "As flagship smartphones balloon in size, the Enough Phone offers a 5.3-inch handset. Choose between stock Android or an anti-distraction operating system.",
+        "published": "Wed, 04 Nov 2026 18:00:00 +0000"
       },
       {
         "source": "Wired",
         "topic": "Innovation",
-        "title": "Roli Has Fallen Apart—and Left Customers Holding the Bag",
-        "url": "https://www.wired.com/story/roli-has-fallen-apart-and-left-customers-holding-the-bag/",
-        "summary": "The inventive instrument maker collapsed into insolvency, leaving buyers empty-handed and users scrambling to keep their musical gear alive.",
-        "published": "Tue, 03 Nov 2026 14:00:34 +0000"
+        "title": "The Results Are In: Voters Hate Data Centers",
+        "url": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
+        "summary": "From high-profile Senate races to local rezoning initiatives, data centers and their supporters did miserably on the ballot in the 2026 midterms.",
+        "published": "Wed, 04 Nov 2026 16:56:17 +0000"
       },
       {
         "source": "Wired",
         "topic": "Innovation",
-        "title": "Apple iPad Mini (2026) Review: A Dream Device, but Who Is It For?",
-        "url": "https://www.wired.com/review/ipad-mini-2026/",
-        "summary": "The iPad Mini’s impressive new features make it a better tablet than ever—only to be betrayed by its higher price.",
-        "published": "Tue, 03 Nov 2026 14:00:00 +0000"
+        "title": "‘You Don’t Put Your Head in the Sand for 4 Years’: Colossal CEO Ben Lamm on Working With Trump",
+        "url": "https://www.wired.com/story/wired-world-fair-2026-ben-lamm-colossal-biosciences/",
+        "summary": "The company’s cofounder recently convinced the Trump administration to support an initiative to gather DNA samples from endangered species.",
+        "published": "Wed, 04 Nov 2026 16:43:35 +0000"
       },
       {
         "source": "Wired",
         "topic": "Innovation",
-        "title": "The Endlessly Meme-able Steve Kornacki Is Not a Meme Person",
-        "url": "https://www.wired.com/story/steve-kornacki-user-behavior/",
-        "summary": "NBC’s go-to data guru also isn’t quite sure what a subreddit is.",
-        "published": "Tue, 03 Nov 2026 12:00:00 +0000"
+        "title": "Voters Set $400 Million of Elon Musk’s Money on Fire",
+        "url": "https://www.wired.com/story/voters-set-dollar400-million-of-elon-musks-money-on-fire/",
+        "summary": "Elon Musk almost single-handedly funded the Republican midterms push. But of every traceable dollar Musk put into races that have been decided, more than 99 cents went to a race he lost.",
+        "published": "Wed, 04 Nov 2026 16:06:12 +0000"
       }
     ],
     "Ecology": [
       {
         "source": "CleanTechnica",
         "topic": "Ecology",
-        "title": "I Checked Out Tesla’s New Model YL, Standard Y, Model 3 In Person — Here’s What Surprised Me",
-        "url": "https://cleantechnica.com/2026/11/03/i-checked-out-teslas-new-model-yl-standard-y-model-3-in-person-heres-what-surprised-me/",
-        "summary": "<p>I finally got to see the new Tesla Model YL, Model Y Standard, and Model 3 Standard in person a few weeks ago and wanted to give my thoughts on the three models. I drove the two Model Ys and just looked at the Model 3 Standard.  I was visiting   ... [continued]</p>\n<p>The post <a href=\"https://cl",
-        "published": "Tue, 03 Nov 2026 15:07:46 +0000"
+        "title": "“War” Secretary Pete Hegseth Endorses 15 Minute City Model",
+        "url": "https://cleantechnica.com/2026/11/04/15-minute-city-model-us-defense-department-hesgeth/",
+        "summary": "<p>The 15 Minute City model calls for walkable, bike-able access to basic services and resources, a concept that has been embraced by none other than the US Department of Defense.</p>\n<p>The post <a href=\"https://cleantechnica.com/2026/11/04/15-minute-city-model-us-defense-department-hesgeth/\">&#822",
+        "published": "Wed, 04 Nov 2026 17:29:13 +0000"
       },
       {
         "source": "CleanTechnica",
         "topic": "Ecology",
-        "title": "Trump Wants More Attention For His New Algae Biofuel Showcase",
-        "url": "https://cleantechnica.com/2026/11/03/reflecting-pool-algae-biofuel-trump-2026-elections-closing-message/",
-        "summary": "<p>The Lincoln Memorial Reflecting Pool has been host to thriving populations of algae ever since its construction in the 1920's, so why not transform it into a showcase for the algae biofuel industry?</p>\n<p>The post <a href=\"https://cleantechnica.com/2026/11/03/reflecting-pool-algae-biofuel-trump-",
-        "published": "Tue, 03 Nov 2026 14:06:00 +0000"
+        "title": "Blue Wave Not Climate Related, But Critical To Clean Energy & Electric Vehicles",
+        "url": "https://cleantechnica.com/2026/11/04/blue-wave-not-climate-related-but-critical-to-clean-energy-electric-vehicles/",
+        "summary": "<p>Democrats absolutely crushed Republicans during the US midterm elections. I saw that it was the biggest electoral win since 1974. Texas is blue! Not just one position in Texas either — the governor is now a Democrat, a Democrat was elected to the US Senate, and the whole Texas legislature   ... [",
+        "published": "Wed, 04 Nov 2026 17:25:57 +0000"
       },
       {
         "source": "CleanTechnica",
         "topic": "Ecology",
-        "title": "$150 Billion More Paid by Americans for Gas This Year Than Last",
-        "url": "https://cleantechnica.com/2026/11/03/150-billion-more-paid-by-americans-for-gas-this-year-than-last/",
-        "summary": "<p>Since the beginning of America’s war against Iran, Americans have paid an additional $150+ billion for gas and diesel than they did last year during the same time period, according to a study from Brown University. Global gas prices have risen because supply has been disrupted (Iran having one of",
-        "published": "Tue, 03 Nov 2026 05:35:38 +0000"
+        "title": "Sierra Club Response to Midterm Election Results",
+        "url": "https://cleantechnica.com/2026/11/04/sierra-club-response-to-midterm-election-results/",
+        "summary": "<p>Democrats must seize on this opportunity to take ambitious action for the climate and our democracy. Washington, DC — While votes are still being counted, election officials have called enough races that it’s clear that Democrats have retaken the US House of Representatives and are expected to re",
+        "published": "Wed, 04 Nov 2026 14:54:37 +0000"
       },
       {
         "source": "CleanTechnica",
         "topic": "Ecology",
-        "title": "Congress Is Cutting Off Transportation Investments that Help Families Save Money",
-        "url": "https://cleantechnica.com/2026/11/02/congress-is-cutting-off-transportation-investments-that-help-families-save-money/",
-        "summary": "<p>The loss of guaranteed federal funding could stall projects that make it easier and cheaper for Americans to get where they need to go. UPDATE: On October 27, 2026, an update to the Senate Commerce Committee’s Chopping Block report provided a state-by-state assessment of the harm to transportatio",
-        "published": "Tue, 03 Nov 2026 04:57:02 +0000"
+        "title": "Singapore Reveals Five-Year Energy Plan to Feed Data Center, Semicon Progress",
+        "url": "https://cleantechnica.com/2026/11/04/singapore-reveals-five-year-energy-plan-to-feed-data-center-semicon-progress/",
+        "summary": "<p>SINGAPORE — Singapore has launched a sweeping five-year energy infrastructure plan designed to meet surging power needs driven by data centers, semiconductor fabrication and the electrification of transit. The initiative, announced by the Energy Market Authority, sets out a multi-pronged overhaul",
+        "published": "Wed, 04 Nov 2026 12:38:12 +0000"
       },
       {
         "source": "CleanTechnica",
         "topic": "Ecology",
-        "title": "The Future of Buildings in Illinois Is Electric",
-        "url": "https://cleantechnica.com/2026/11/02/the-future-of-buildings-in-illinois-is-electric/",
-        "summary": "<p>The Illinois Commerce Commission authorized a study of the most affordable way for the state to meet its building decarbonization goals. The report has fundamental flaws but critical insights. Illinois’s landmark Climate and Equitable Jobs Act (CEJA) sets the goal of 100 percent clean energy acro",
-        "published": "Tue, 03 Nov 2026 01:58:27 +0000"
+        "title": "NIO’s October Sales Meh, But 2026 Sales Up 38.5%",
+        "url": "https://cleantechnica.com/2026/11/03/nios-october-sales-meh-but-2026-sales-up-38-5/",
+        "summary": "<p>NIO&#8217;s October sales were nothing like XPENG&#8217;s. Rather than soaring to record heights, they drooped. Rather than surpassing 50,000 sales (something NIO is yet to do and XPENG has done only this once), NIO scored 34,246 vehicle deliveries, the company&#8217;s lowest delivery total since",
+        "published": "Wed, 04 Nov 2026 03:40:10 +0000"
       },
       {
         "source": "Electrek",
         "topic": "Ecology",
-        "title": "Tesla cuts FSD’s speed margin from 50% to 10% over the limit in Europe",
-        "url": "https://electrek.co/2026/11/03/tesla-assisted-driving-rdw-speed-cap-10-percent-europe/",
-        "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Tesla’s driver-assistance system in Europe can no longer be set to drive 50% over the speed limi",
-        "published": "Tue, 03 Nov 2026 17:55:10 +0000"
+        "title": "Germany’s EV share hits record 37% as BEVs beat gas and diesel combined",
+        "url": "https://electrek.co/2026/11/04/germany-electric-car-sales-record-37-percent-share/",
+        "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2025/06/gas-vs-electric.png?w=1600\" /></div><p class=\"wp-block-paragraph\">Battery-electric cars took a record 37% of Germany’s new car market in October, according to data released today by the Kraftfahrt-Bundesamt (KBA",
+        "published": "Wed, 04 Nov 2026 18:20:03 +0000"
       },
       {
         "source": "Electrek",
         "topic": "Ecology",
-        "title": "BYD’s 3,000-hp EV crashes at about 280 mph — Watch the driver escape unharmed",
-        "url": "https://electrek.co/2026/11/03/byds-ev-crashes-at-280-mph-watch-driver-escape-unharmed/",
-        "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-EV-crashes-video.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\"><a href=\"https://electrek.co/guides/byd/\">BYD’s</a> electric supercar delivers an insane nearly 3,000 hp fro",
-        "published": "Tue, 03 Nov 2026 17:25:43 +0000"
+        "title": "BYD’s new luxury electric SUV has one big problem: It weighs over 8,200 lbs",
+        "url": "https://electrek.co/2026/11/04/byds-new-luxury-ev-suv-one-problem-weighs-8200-lbs/",
+        "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Denza-N9-EV.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\"><a href=\"https://electrek.co/guides/byd/\">BYD’s</a> new full-size electric SUV, the Denza N9 EV, was revealed in ",
+        "published": "Wed, 04 Nov 2026 17:14:58 +0000"
       },
       {
         "source": "Electrek",
         "topic": "Ecology",
-        "title": "Zero Motorcycles unveils $8K electric motorcycle, street-legal dirt bike, and much more",
-        "url": "https://electrek.co/2026/11/03/zero-motorcycles-unveils-8k-electric-motorcycle-street-legal-dirt-bike-and-much-more/",
-        "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/zero-ventura-motorcycle-header-1.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Zero Motorcycles is celebrating its 20th anniversary with a major wave of announcements at EICMA ",
-        "published": "Tue, 03 Nov 2026 15:30:00 +0000"
+        "title": "Xiaomi’s humanoid robots work a full 8-hour shift in its EV factory",
+        "url": "https://electrek.co/2026/11/04/xiaomi-humanoid-robot-8-hour-shift-ev-factory/",
+        "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/Xiaomi-humanoid-robot.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Xiaomi has released footage of its humanoid robots working a full 8-hour shift at its EV factory, sorting c",
+        "published": "Wed, 04 Nov 2026 16:23:06 +0000"
       },
       {
         "source": "Electrek",
         "topic": "Ecology",
-        "title": "This electric microcar just got a 50 mph upgrade, plus a secret Turbo mode",
-        "url": "https://electrek.co/2026/11/03/this-electric-microcar-just-got-a-50-mph-upgrade-plus-a-secret-turbo-mode/",
-        "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/eli-zero-mx-microcar-quadricycle-italy-head.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">The adorable little Eli ZERO electric microcar is growing up. At this year’s EICMA mot",
-        "published": "Tue, 03 Nov 2026 15:00:00 +0000"
+        "title": "Puerto Rico tapped Sunrun’s home batteries for 18 straight days",
+        "url": "https://electrek.co/2026/11/04/puerto-rico-tapped-sunruns-home-batteries-for-18-straight-days/",
+        "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2025/05/sunrun-tesla-battery-storage1.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\" id=\"h-\">Sunrun has doubled participation in its Puerto Rico virtual power plant to more than 60,000 ",
+        "published": "Wed, 04 Nov 2026 16:21:42 +0000"
       },
       {
         "source": "Electrek",
         "topic": "Ecology",
-        "title": "Kia racks up another record month as its new $30K electric SUV hits dealers",
-        "url": "https://electrek.co/2026/11/03/kia-racks-up-another-record-month-new-30k-ev3-hits-dealers/",
-        "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-record-US-sales-EV3.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\">Kia is eyeing its fourth consecutive annual US sales record after another record-breaking October. With t",
-        "published": "Tue, 03 Nov 2026 14:56:21 +0000"
+        "title": "Kia EV7 revealed as an upcoming midsize electric SUV",
+        "url": "https://electrek.co/2026/11/04/kia-ev7-revealed-upcoming-midsize-electric-suv/",
+        "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-EV7-electric-SUV.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\">Kia is crushing it with a full lineup of electric vehicles ranging from entry-level SUVs to the three-row EV",
+        "published": "Wed, 04 Nov 2026 15:15:08 +0000"
       }
     ],
     "Investor": [
       {
         "source": "Seeking Alpha",
         "topic": "Investor",
-        "title": "Ethos Technologies Inc. 2026 Q3 - Results - Earnings Call Presentation",
-        "url": "https://seekingalpha.com/article/4961688-ethos-technologies-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "title": "Owens Corning (OC) Q3 2026 Earnings Call Transcript",
+        "url": "https://seekingalpha.com/article/4962266-owens-corning-oc-q3-2026-earnings-call-transcript?source=feed_all_articles",
         "summary": "",
-        "published": "Tue, 03 Nov 2026 13:12:13 -0500"
+        "published": "Wed, 04 Nov 2026 13:24:40 -0500"
       },
       {
         "source": "Seeking Alpha",
         "topic": "Investor",
-        "title": "DigitalOcean Holdings, Inc. (DOCN) Q3 2026 Earnings Call Transcript",
-        "url": "https://seekingalpha.com/article/4961526-digitalocean-holdings-inc-docn-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "title": "Adient plc (ADNT) Q4 2026 Earnings Call Transcript",
+        "url": "https://seekingalpha.com/article/4962397-adient-plc-adnt-q4-2026-earnings-call-transcript?source=feed_all_articles",
         "summary": "",
-        "published": "Tue, 03 Nov 2026 13:05:56 -0500"
+        "published": "Wed, 04 Nov 2026 13:24:39 -0500"
       },
       {
         "source": "Seeking Alpha",
         "topic": "Investor",
-        "title": "Shopify Inc. (SHOP) Q3 2026 Earnings Call Transcript",
-        "url": "https://seekingalpha.com/article/4961576-shopify-inc-shop-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "title": "Burford Capital Limited (BUR) Q3 2026 Earnings Call Transcript",
+        "url": "https://seekingalpha.com/article/4962396-burford-capital-limited-bur-q3-2026-earnings-call-transcript?source=feed_all_articles",
         "summary": "",
-        "published": "Tue, 03 Nov 2026 13:05:55 -0500"
+        "published": "Wed, 04 Nov 2026 13:24:37 -0500"
       },
       {
         "source": "Seeking Alpha",
         "topic": "Investor",
-        "title": "Core Molding Technologies, Inc. (CMT) Q3 2026 Earnings Call Transcript",
-        "url": "https://seekingalpha.com/article/4961617-core-molding-technologies-inc-cmt-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "title": "Royalty Pharma plc (RPRX) Q3 2026 Earnings Call Transcript",
+        "url": "https://seekingalpha.com/article/4962216-royalty-pharma-plc-rprx-q3-2026-earnings-call-transcript?source=feed_all_articles",
         "summary": "",
-        "published": "Tue, 03 Nov 2026 13:05:53 -0500"
+        "published": "Wed, 04 Nov 2026 13:24:35 -0500"
       },
       {
         "source": "Seeking Alpha",
         "topic": "Investor",
-        "title": "Advanced Energy Industries, Inc. 2026 Q3 - Results - Earnings Call Presentation",
-        "url": "https://seekingalpha.com/article/4961687-advanced-energy-industries-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "title": "Avnet, Inc. (AVT) Q1 2027 Earnings Call Transcript",
+        "url": "https://seekingalpha.com/article/4962348-avnet-inc-avt-q1-2027-earnings-call-transcript?source=feed_all_articles",
         "summary": "",
-        "published": "Tue, 03 Nov 2026 13:04:38 -0500"
+        "published": "Wed, 04 Nov 2026 13:24:33 -0500"
       },
       {
         "source": "Bloomberg Markets",
         "topic": "Investor",
-        "title": "Chip Rally Powers Stock Gains on US Election Day: Markets Wrap",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
-        "summary": "A revival of the artificial-intelligence trade powered Wall Street gains as US voting got underway in the midterm elections.",
-        "published": "Mon, 02 Nov 2026 22:25:14 GMT"
+        "title": "Alcohol Jumps as Blue Wave Lifts Trade, Immigration Hope",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-04/alcohol-stocks-jump-as-blue-wave-lifts-tariff-immigration-hopes",
+        "summary": "Investors are betting alcohol companies are among the winners of last night’s midterm election landslide on views a new Congress will push back on the Trump administration’s immigration and trade policies that dented booze businesses.",
+        "published": "Wed, 04 Nov 2026 17:19:47 GMT"
       },
       {
         "source": "Bloomberg Markets",
         "topic": "Investor",
-        "title": "NextEra Offers New Safeguards for $67 Billion Dominion Deal",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-03/nextera-agrees-to-more-safeguards-for-67-billion-dominion-deal",
-        "summary": "NextEra Energy Inc. and Dominion Energy Inc. offered Virginia additional concessions in their latest bid to convince the state to approve its $67 billion merger, although the utilities didn’t bow to the biggest demand from Governor Abigail Spanberger.",
-        "published": "Tue, 03 Nov 2026 12:24:22 GMT"
+        "title": "Treasuries Gain as Oil Prices Tumble After Democrats Elected",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-04/treasuries-advance-as-traders-eye-us-votes-refinancing-plans",
+        "summary": "Treasuries rose as the outcome of the US midterm elections contributed to steep declines for oil prices based on the prospect of an end to the war in the Middle East.",
+        "published": "Wed, 04 Nov 2026 01:00:49 GMT"
       },
       {
         "source": "Bloomberg Markets",
         "topic": "Investor",
-        "title": "Latest Oil Market News and Analysis for Nov. 3",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-02/latest-oil-market-news-and-analysis-for-nov-3",
-        "summary": "Oil prices swung in a choppy session as traders parsed conflicting signs on the trajectory of peace talks between the US and Iran.",
-        "published": "Mon, 02 Nov 2026 23:01:19 GMT"
+        "title": "US Tweaks Debt-Sale Guidance, Spurring Auction-Forecast Changes",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-04/us-revamps-debt-sales-guidance-opening-path-to-auction-changes",
+        "summary": "The US Treasury Department revamped the guidance on sales of notes and bonds it has used since early 2024, in a move that spurred dealers to rethink their outlooks for auctions next year.",
+        "published": "Wed, 04 Nov 2026 13:34:13 GMT"
       },
       {
         "source": "Bloomberg Markets",
         "topic": "Investor",
-        "title": "Dollar Rises With US Yields as Focus on Iran Outweighs Election",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-03/dollar-rises-with-us-yields-as-focus-on-iran-outweighs-election",
-        "summary": "The dollar rose on Election Day in the US, buoyed by climbing Treasury yields and solid economic data, while traders monitored developments in the Middle East for a sense of the greenback’s direction.",
-        "published": "Tue, 03 Nov 2026 17:49:16 GMT"
+        "title": "Stocks, Bonds Climb After US Election as Oil Sinks: Markets Wrap",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates",
+        "summary": "A Democratic sweep of Congress that highlighted opposition of the Iran war extended this week’s plunge in oil prices, helping drive stocks and bonds to big post-election gains.",
+        "published": "Tue, 03 Nov 2026 22:20:22 GMT"
       },
       {
         "source": "Bloomberg Markets",
         "topic": "Investor",
-        "title": "JPMorgan’s Michele Urges Treasury to Ax ‘Orphan’ 20-Year Bond",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-03/jpmorgan-s-michele-urges-treasury-to-ax-orphan-20-year-bond",
-        "summary": "JPMorgan Asset Management’s Bob Michele has some advice for Treasury Secretary Scott Bessent: get rid of the 20-year bond.",
-        "published": "Tue, 03 Nov 2026 17:26:02 GMT"
+        "title": "DeSantis Calls GOP Midterm Wipeout ‘Extinction Level Event’",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-04/desantis-calls-gop-s-midterm-wipeout-extinction-level-event",
+        "summary": "Florida Governor Ron DeSantis said the blue wave that swept over just about every corner of the US on Election Day — except his state — was akin to a “meteor strike” for the Republican Party.",
+        "published": "Wed, 04 Nov 2026 16:02:09 GMT"
       }
     ]
   },
   "all_posts": [
+    {
+      "source": "HubSpot Marketing",
+      "topic": "Marketing",
+      "title": "How to find and fix your AEO keywords gap",
+      "url": "https://blog.hubspot.com/marketing/aeo-keyword-gap-analysis",
+      "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/aeo-keyword-gap-analysis\" title=\"\"> <img alt=\"aeo keyword gap\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/blogbot/aeo-keywords-gap-featured-5331406.webp\" style=\"wid",
+      "published": "Wed, 04 Nov 2026 14:50:06 GMT"
+    },
+    {
+      "source": "HubSpot Marketing",
+      "topic": "Marketing",
+      "title": "How do I benchmark my AI search performance against my industry?",
+      "url": "https://blog.hubspot.com/marketing/ai-search-industry-benchmarks",
+      "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/ai-search-industry-benchmarks\" title=\"\"> <img alt=\"ai search benchmarks\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/blogbot/how-do-i-benchmark-my-ai-search-performa",
+      "published": "Wed, 04 Nov 2026 14:40:07 GMT"
+    },
     {
       "source": "HubSpot Marketing",
       "topic": "Marketing",
@@ -682,22 +698,6 @@
       "url": "https://blog.hubspot.com/marketing/scrunch-vs-semrush",
       "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/scrunch-vs-semrush\" title=\"\"> <img alt=\"Woman comparing Scrunch vs. Semrush at her laptop\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/scrunch-vs-semrush-1-20261027-",
       "published": "Mon, 02 Nov 2026 17:45:05 GMT"
-    },
-    {
-      "source": "HubSpot Marketing",
-      "topic": "Marketing",
-      "title": "ChatGPT Ads vs. Google Search ads: 5 differences to consider in your strategy",
-      "url": "https://blog.hubspot.com/marketing/chatgpt-ads-vs-google-search-ads",
-      "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/chatgpt-ads-vs-google-search-ads\" title=\"\"> <img alt=\"ChatGPT ads vs. Google Search ads\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/chatgpt%20ads%20vs%20google%20se",
-      "published": "Thu, 29 Oct 2026 12:00:04 GMT"
-    },
-    {
-      "source": "HubSpot Marketing",
-      "topic": "Marketing",
-      "title": "Claude marketing plugins worth adding to your stack in 2026",
-      "url": "https://blog.hubspot.com/marketing/claude-marketing-plugin",
-      "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/claude-marketing-plugin\" title=\"\"> <img alt=\"claude marketing plugin\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/claude-marketing-plug-in-1-20261023-1654266.webp\" s",
-      "published": "Wed, 28 Oct 2026 16:00:05 GMT"
     },
     {
       "source": "Neil Patel",
@@ -782,122 +782,130 @@
     {
       "source": "Creative Bloq",
       "topic": "Design",
-      "title": "Is this the most controversial font since Comic Sans?",
-      "url": "https://www.creativebloq.com/news/is-this-the-most-controversial-font-since-comic-sans",
-      "summary": "AI's favourite typeface is loud, obnoxious, and everywhere.",
-      "published": "Tue, 03 Nov 2026 15:30:00 +0000"
+      "title": "This super-comfy higher-end budget ergonomic office chair has $70 off for Black Friday",
+      "url": "https://www.creativebloq.com/deals/this-super-comfy-higher-end-budget-ergonomic-office-chair-has-usd70-off-for-black-friday",
+      "summary": "The Doro C300 Pro offers comfort, ergonomics and great arm rest adjustments.",
+      "published": "Wed, 04 Nov 2026 18:00:00 +0000"
     },
     {
       "source": "Creative Bloq",
       "topic": "Design",
-      "title": "The most popular 3D printer of 2026 just got a record low price for early Black Friday",
-      "url": "https://www.creativebloq.com/deals/the-most-popular-3d-printer-of-2026-just-got-a-record-low-price-for-early-black-friday",
-      "summary": "It was down to $721 for Prime – now it's $699!",
-      "published": "Tue, 03 Nov 2026 15:13:45 +0000"
+      "title": "The Legend of Zelda: Ocarina of Time reviews are in, and critics agree on one thing",
+      "url": "https://www.creativebloq.com/news/the-legend-of-zelda-ocarina-of-time-switch-2-reviews-are-in-and-critics-agree-on-one-thing",
+      "summary": "Nintendo has worked its magic on a 28-year-old classic.",
+      "published": "Wed, 04 Nov 2026 16:30:00 +0000"
     },
     {
       "source": "Creative Bloq",
       "topic": "Design",
-      "title": "I'm blown away by the new Bambu Lab H3C - is this the best 3D printer of all time?",
-      "url": "https://www.creativebloq.com/news/im-blown-away-by-the-new-bambu-lab-h3c-is-this-the-best-3d-printer-of-all-time",
-      "summary": "A built-in AMS, 9 spools, filament drying, craft tools, multi-diameter prints, TPU-optimised, what else could you need?",
-      "published": "Tue, 03 Nov 2026 14:05:46 +0000"
+      "title": "Canva's mass layoffs are a warning sign for creative tech",
+      "url": "https://www.creativebloq.com/news/canvas-mass-layoffs-are-a-warning-sign-for-creative-tech",
+      "summary": "Nobody's immune to the impact.",
+      "published": "Wed, 04 Nov 2026 16:00:00 +0000"
     },
     {
       "source": "Creative Bloq",
       "topic": "Design",
-      "title": "10 top email newsletter tools to build your subscriber list",
-      "url": "https://www.creativebloq.com/buying-guides/10-top-email-newsletter-tools-to-build-your-subscriber-list",
-      "summary": "Covering a range of use cases and mailing list sizes, these are the best email newsletter platforms available today.",
-      "published": "Tue, 03 Nov 2026 13:30:00 +0000"
+      "title": "World of Warcraft: Forever is bringing Azeroth back to life, \"as it lives in our heads\", without losing what made it special",
+      "url": "https://www.creativebloq.com/features/world-of-warcraft-forever-is-bringing-azeroth-back-to-life-as-it-lives-in-our-heads-without-losing-what-made-it-special",
+      "summary": "Blizzard’s artists and engineers explain how volumetric fog, moonlit forests and flowing rivers will make the original Azeroth feel as players remember it.",
+      "published": "Wed, 04 Nov 2026 15:00:00 +0000"
     },
     {
       "source": "Creative Bloq",
       "topic": "Design",
-      "title": "Wacom MovinkPad Pro 14 vs XPPen Magic Pro 13: Which is the best Android drawing tablet?",
-      "url": "https://www.creativebloq.com/advice/wacom-movinkpad-pro-14-vs-xppen-magic-pro-13-which-is-the-best-android-drawing-tablet",
-      "summary": "I've spent time drawing on both Wacom's premium Android tablet and XPPen's new challenger, and the difference might surprise you.",
-      "published": "Tue, 03 Nov 2026 13:00:00 +0000"
+      "title": "These 4 SAD lamp deals will brighten up your winter",
+      "url": "https://www.creativebloq.com/deals/these-4-sad-lamp-deals-will-brighten-up-your-winter",
+      "summary": "It's time to finally do something about my dingy home office.",
+      "published": "Wed, 04 Nov 2026 14:30:00 +0000"
     },
     {
       "source": "TechCrunch",
       "topic": "Tech",
-      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
-      "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
-      "summary": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
-      "published": "Tue, 03 Nov 2026 17:56:52 +0000"
+      "title": "Waymo confirms it will split with Uber in January 2028",
+      "url": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/",
+      "summary": "The split will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
+      "published": "Wed, 04 Nov 2026 18:12:30 +0000"
     },
     {
       "source": "TechCrunch",
       "topic": "Tech",
-      "title": "Anthropic is still grappling with the economics of compute",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
-      "published": "Tue, 03 Nov 2026 17:07:01 +0000"
+      "title": "‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet",
+      "url": "https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/",
+      "summary": "It is easier to watch the Elizabeth Holmes documentary \"You Can See Everything\" in low-Earth orbit than in London.",
+      "published": "Wed, 04 Nov 2026 18:10:11 +0000"
     },
     {
       "source": "TechCrunch",
       "topic": "Tech",
-      "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
-      "url": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
-      "summary": "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles.",
-      "published": "Tue, 03 Nov 2026 16:49:09 +0000"
+      "title": "Sequoia hits rewind, undoing 20 years of expansion",
+      "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
+      "summary": "Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.",
+      "published": "Wed, 04 Nov 2026 17:11:15 +0000"
     },
     {
       "source": "TechCrunch",
       "topic": "Tech",
-      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
-      "published": "Tue, 03 Nov 2026 16:30:34 +0000"
+      "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+      "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+      "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+      "published": "Wed, 04 Nov 2026 16:51:35 +0000"
     },
     {
       "source": "TechCrunch",
       "topic": "Tech",
-      "title": "New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech",
-      "url": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/",
-      "summary": "The mayor's comments come after the entertainment giant's data breach last year, which exposed James Dolan's surveillance.",
-      "published": "Tue, 03 Nov 2026 16:04:55 +0000"
+      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+      "published": "Wed, 04 Nov 2026 16:17:22 +0000"
     },
     {
       "source": "The Verge",
       "topic": "Tech",
-      "title": "Indie games are missing launch dates because Steam is backed up",
-      "url": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
-      "summary": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an upcoming title called Food",
-      "published": "2026-11-03T13:14:50-05:00"
+      "title": "Apple will check shared iCloud links for ‘harmful content’",
+      "url": "https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3",
+      "summary": "Apple will start checking iCloud items that are accessible to anyone who has the link for \"harmful content\" starting with iOS 27.3 and other 27.3 updates, the company says. \"When you share an item that can be accessed by Anyone with the Link in version 27.3 or later of iOS, iPadOS, macOS, and vision",
+      "published": "2026-11-04T13:23:37-05:00"
     },
     {
       "source": "The Verge",
       "topic": "Tech",
-      "title": "Google’s Gemini-powered Home Speaker is already on sale for 20 percent off",
-      "url": "https://www.theverge.com/gadgets/1025498/google-home-smart-speaker-holiday-2026-deal-sale",
-      "summary": "If you&#8217;re looking for a good smart speaker, the Google Home Speaker is down to around $79 ($20 off) in all four colors at Best Buy, Walmart, and Target. That&#8217;s the best price we&#8217;ve seen for the Gemini-powered speaker, which launched in June and represents Google’s first smart speak",
-      "published": "2026-11-03T13:11:49-05:00"
+      "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+      "url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in therapy. Plenty of life eve",
+      "published": "2026-11-04T13:00:00-05:00"
     },
     {
       "source": "The Verge",
       "topic": "Tech",
-      "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
-      "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
-      "summary": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.\" Whe",
-      "published": "2026-11-03T13:00:00-05:00"
+      "title": "ChatGPT will now make you animated GIFs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively ",
+      "published": "2026-11-04T13:00:00-05:00"
     },
     {
       "source": "The Verge",
       "topic": "Tech",
-      "title": "Moft’s new origami case adds a kickstand and grip to the iPhone Duo",
-      "url": "https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo",
-      "summary": "Originally released in early 2025 as an accessory for the iPad, Moft has redesigned its Dynamic Folio as a case for the iPhone Duo that does more than just protect Apple's folding phone. You can use it to prop the Duo up at several different angles for hands-free use, or reconfigure the Dynamic Foli",
-      "published": "2026-11-03T12:27:52-05:00"
+      "title": "God of War Laufey delayed until May",
+      "url": "https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay",
+      "summary": "God of War Laufey's release date is being delayed to May 20th, 2027, developer Santa Monica Studio announced today. It was set to launch on PlayStation 5 on February 16th. Here is Santa Monica Studio's full message about the delay: Since the reveal of God of War Laufey in June, we've been deeply gra",
+      "published": "2026-11-04T12:10:31-05:00"
     },
     {
       "source": "The Verge",
       "topic": "Tech",
-      "title": "The Xbox Nano has a hidden cloud secret",
-      "url": "https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity",
-      "summary": "Microsoft is about to launch its new Xbox Nano controller tomorrow, and the tiny device has a little secret. The Nano can connect directly to Xbox Cloud Gaming over Wi-Fi to improve latency. It's a feature Microsoft hasn't officially announced yet, but one I've been anticipating since the Xbox Nano ",
-      "published": "2026-11-03T12:16:04-05:00"
+      "title": "Nintendo is losing a Switch cartridge supplier",
+      "url": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center",
+      "summary": "Nintendo is about to lose a major memory supplier for its Switch cartridges. The supplier, Macronix, announced during a recent quarterly earnings call that it would be gradually phasing out ROM production and is instead focusing on NOR flash memory for data centers, Taipei Times reports. Macronix's ",
+      "published": "2026-11-04T12:03:32-05:00"
+    },
+    {
+      "source": "The Brick Fan",
+      "topic": "Lego",
+      "title": "LEGO Ideas Projects Currently Under Development – November 2026 Update",
+      "url": "https://www.thebrickfan.com/lego-ideas-projects-currently-under-development-november-2026-update/",
+      "summary": "<p><center><img src=\"https://ideascdn.lego.com/media/generate/lego_ci/d4d991f4-26fb-401d-ae5b-a9024cacf23f/resize:950:633/legacy\" width=\"600/\" /></center></p>\n<p>It&#8217;s been a few months since our last update for the LEGO Ideas projects that are still under development and there have been a lot ",
+      "published": "Wed, 04 Nov 2026 17:04:25 +0000"
     },
     {
       "source": "The Brick Fan",
@@ -932,12 +940,28 @@
       "published": "Sun, 01 Nov 2026 15:48:36 +0000"
     },
     {
-      "source": "The Brick Fan",
+      "source": "Brickset",
       "topic": "Lego",
-      "title": "LEGO November 2026 Sets Now Available on LEGO Shop",
-      "url": "https://www.thebrickfan.com/lego-november-2026-sets-now-available-on-lego-shop/",
-      "summary": "<p><center><a href=\"https://click.linksynergy.com/deeplink?id=LNtsWdwRzsQ&#038;mid=13923&#038;murl=https%3a%2f%2fwww.lego.com%2fen-us%2fproduct%2fdragon-ball-shenron-and-goku-11390\" target=\"_blank\"><img src=\"https://www.thebrickfan.com/wp-content/uploads/2026/09/LEGO-Icons-Dragon-Ball-Shenron-Goku-1",
-      "published": "Sun, 01 Nov 2026 03:54:37 +0000"
+      "title": "BuWizz 4.0 launches on KickStarter",
+      "url": "https://brickset.com/article/135926",
+      "summary": "<img alt=\"BuWizz 4.0 launches on KickStarter\" src=\"https://images.brickset.com/news/thumbs/large/135926_IRP_6951.jpg\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Ten years after the original BuWizz brick was launched, the team are back with a new, more powerful version on <a href=\"https://www.k",
+      "published": "Wed, 04 Nov 2026 16:00:00 GMT"
+    },
+    {
+      "source": "Brickset",
+      "topic": "Lego",
+      "title": "Random set of the day: Volcano Supply Helicopter",
+      "url": "https://brickset.com/article/135916",
+      "summary": "<img alt=\"Random set of the day: Volcano Supply Helicopter\" src=\"https://images.brickset.com/sets/small/60123-1.jpg\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Today's random set is <a href=\"https://brickset.com/sets/60123-1\">60123</a> Volcano Supply Helicopter, released during 2016. It's one ",
+      "published": "Wed, 04 Nov 2026 03:01:03 GMT"
+    },
+    {
+      "source": "Brickset",
+      "topic": "Lego",
+      "title": "Random figure of the day: cas370",
+      "url": "https://brickset.com/article/135915",
+      "summary": "<img alt=\"Random figure of the day: cas370\" src=\"https://img.bricklink.com/ItemImage/MN/0/cas370.png\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Today's random figure is <a href=\"https://brickset.com/minifigs/cas370\">cas370</a> <em>Fantasy Era - Crown Knight Scale Mail with Chest Strap, Helmet",
+      "published": "Wed, 04 Nov 2026 02:01:03 GMT"
     },
     {
       "source": "Brickset",
@@ -954,30 +978,6 @@
       "url": "https://brickset.com/article/135898",
       "summary": "<img alt=\"Mark's Magic display frame for 11380 Road Bike\" src=\"https://images.brickset.com/news/thumbs/large/135898_P1015470.jpg\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>If you're looking for cases or frames display your models in you are spoilt for choice nowadays, with numerous companies ",
       "published": "Tue, 03 Nov 2026 12:00:00 GMT"
-    },
-    {
-      "source": "Brickset",
-      "topic": "Lego",
-      "title": "Random set of the day: Golden Staff Guardians",
-      "url": "https://brickset.com/article/135893",
-      "summary": "<img alt=\"Random set of the day: Golden Staff Guardians\" src=\"https://images.brickset.com/sets/small/7306-1.jpg\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Today's random set is <a href=\"https://brickset.com/sets/7306-1\">7306</a> Golden Staff Guardians, released during 2011. It's one of <a hre",
-      "published": "Tue, 03 Nov 2026 03:01:02 GMT"
-    },
-    {
-      "source": "Brickset",
-      "topic": "Lego",
-      "title": "Random figure of the day: njo0782",
-      "url": "https://brickset.com/article/135892",
-      "summary": "<img alt=\"Random figure of the day: njo0782\" src=\"https://img.bricklink.com/ItemImage/MN/0/njo0782.png\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Today's random figure is <a href=\"https://brickset.com/minifigs/njo0782\">njo0782</a> <em>Cole - Crystalized</em>, a <a href=\"https://brickset.com/m",
-      "published": "Tue, 03 Nov 2026 02:01:02 GMT"
-    },
-    {
-      "source": "Brickset",
-      "topic": "Lego",
-      "title": "Review: 75642 Showdown with Captain Smoker",
-      "url": "https://brickset.com/article/135711",
-      "summary": "<img alt=\"Review: 75642 Showdown with Captain Smoker\" src=\"https://images.brickset.com/news/thumbs/large/135711_Smoker 1A.jpg\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Smoker is a popular character in ONE PIECE and made his live-action debut in the second season earlier this year. Famous for",
-      "published": "Mon, 02 Nov 2026 14:00:00 GMT"
     },
     {
       "source": "Brothers Brick",
@@ -1022,6 +1022,30 @@
     {
       "source": "MIT Technology Review",
       "topic": "Innovation",
+      "title": "What’s next for US energy policy after the midterm elections?",
+      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+      "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump’s victory two",
+      "published": "Wed, 04 Nov 2026 17:08:00 +0000"
+    },
+    {
+      "source": "MIT Technology Review",
+      "topic": "Innovation",
+      "title": "The Download: blended meat, restored sight, and the agentic web",
+      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat&#160; In the fall of 2025, Jeff Dodge served hungry students steaming marinara s",
+      "published": "Wed, 04 Nov 2026 13:10:00 +0000"
+    },
+    {
+      "source": "MIT Technology Review",
+      "topic": "Innovation",
+      "title": "Securing the agentic enterprise with data lineage",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No ",
+      "published": "Wed, 04 Nov 2026 13:00:00 +0000"
+    },
+    {
+      "source": "MIT Technology Review",
+      "topic": "Innovation",
       "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
       "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing ",
@@ -1036,268 +1060,244 @@
       "published": "Tue, 03 Nov 2026 10:43:41 +0000"
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Fast Company",
       "topic": "Innovation",
-      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c",
-      "published": "Tue, 03 Nov 2026 04:18:47 +0000"
-    },
-    {
-      "source": "MIT Technology Review",
-      "topic": "Innovation",
-      "title": "Raising the quality of insights in agentic analytics",
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The qualit",
-      "published": "Mon, 02 Nov 2026 17:00:00 +0000"
-    },
-    {
-      "source": "MIT Technology Review",
-      "topic": "Innovation",
-      "title": "Stop counting tokens, start counting what ships",
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;",
-      "published": "Mon, 02 Nov 2026 13:10:32 +0000"
+      "title": "Uber CEO Dara Khosrowshahi: Midterms sent a ‘very clear message’",
+      "url": "https://www.fastcompany.com/91635545/uber-ceo-dara-khosrowshahi-midterms-sent-a-very-clear-message",
+      "summary": "<p class=\"wp-block-paragraph\">Uber CEO Dara Khosrowshahi said this morning that Democrats’ sweeping midterm victory sent a “very clear message” about the damage inflation has done to American consumers.&nbsp;&nbsp;</p>\n\n\n\n<p class=\"wp-block-paragraph\">During an appearance on CNBC’s <em>Squawk Box</e",
+      "published": "2026-11-04T17:30:00"
     },
     {
       "source": "Fast Company",
       "topic": "Innovation",
-      "title": "Midterm voters to decide on these key ballot measures, putting Trump’s agenda to the test",
-      "url": "https://www.fastcompany.com/91634937/midterm-voters-decide-key-ballot-measures-putting-trumps-agenda-test",
-      "summary": "<p class=\"wp-block-paragraph\">A <a href=\"https://www.fastcompany.com/91141918/these-5-states-could-have-abortion-ballot-2024\">battle over abortion rights</a> is playing out in several states Tuesday <a href=\"https://www.fastcompany.com/91634932/election-day-unfolding-across-america-after-surge-early",
-      "published": "2026-11-03T16:31:33"
+      "title": "Outback Steakhouse store closures: See a list of doomed locations as franchisee files for bankruptcy",
+      "url": "https://www.fastcompany.com/91635468/outback-steakhouse-closing-stores-2026-list-of-doomed-locations",
+      "summary": "<p class=\"wp-block-paragraph\">A number of Outback Steakhouse locations closed their doors last month in the lead-up to a bankruptcy petition by one of the casual dining chain&#8217;s largest franchisees, court documents reveal. The store closures span four states. Here&#8217;s what to know:</p>\n\n\n\n<",
+      "published": "2026-11-04T17:26:00"
     },
     {
       "source": "Fast Company",
       "topic": "Innovation",
-      "title": "Hate hearing your own voice? Blame your skull",
-      "url": "https://www.fastcompany.com/91623648/hate-hearing-your-own-voice-blame-your-skull-public-speaking",
-      "summary": "<p class=\"wp-block-paragraph\">In the 20 years I’ve been a TV producer, media executive, and speaking coach, I cannot count the number of times I’ve seen people literally cringe upon hearing their own voice. Sometimes it’s a slight scrunch of the nose and sometimes it’s an audible sigh. Why do we hat",
-      "published": "2026-11-03T16:30:00"
+      "title": "How AI impacts solopreneurs’ relationships with their clients (and what to do about it)",
+      "url": "https://www.fastcompany.com/91629139/how-ai-impacts-solopreneurs-relationships-their-clients-what-to-do-about-it",
+      "summary": "<p class=\"wp-block-paragraph\" id=\"h-most-people-i-know-have-asked-themselves-some-version-of-is-ai-replacing-me-it-s-a-fair-question\">Most people I know have asked themselves some version of <a href=\"https://www.fastcompany.com/91350525/ai-replaced-me-so-i-decided-to-ride-the-ai-wave-replaced-work-a",
+      "published": "2026-11-04T17:15:00"
     },
     {
       "source": "Fast Company",
       "topic": "Innovation",
-      "title": "Apple just had its best year ever. So why is its stock falling?",
-      "url": "https://www.fastcompany.com/91635033/apple-just-had-its-best-year-ever-so-why-is-its-stock-falling",
-      "summary": "<p class=\"wp-block-paragraph\">Yesterday, Apple (Nasdaq: AAPL) reported its fourth-quarter results, which closed out its fiscal 2026 financial year. </p>\n\n\n\n<p class=\"wp-block-paragraph\">On the surface, the results were exceptionally strong, with Apple exceeding Wall Street’s expectations on the most",
-      "published": "2026-11-03T16:13:24"
+      "title": "CVS is splitting into two companies: Healthcare giant’s ‘Pharmacy’ breakup explained",
+      "url": "https://www.fastcompany.com/91635507/cvs-health-pharmacy-splitting-into-2-companies-break-up-explained",
+      "summary": "<p class=\"wp-block-paragraph\">CVS is breaking up.</p>\n\n\n\n<p class=\"wp-block-paragraph\">On Wednesday, t<a href=\"https://www.cvshealth.com/news/company-news/cvs-health-announces-intent-to-create-two-distinct-leaders-in-healthcare.html\">he healthcare giant announced plans</a> to split into two separate",
+      "published": "2026-11-04T17:00:00"
     },
     {
       "source": "Fast Company",
       "topic": "Innovation",
-      "title": "How soon will we know who controls Congress? It could be a while. Here’s why",
-      "url": "https://www.fastcompany.com/91634942/when-will-we-know-who-controls-congress-could-while",
-      "summary": "<p class=\"wp-block-paragraph\"><a href=\"https://www.fastcompany.com/91634259/stock-market-midterm-elections-2026-experts-warn-of-uniquely-difficult-year-despite-historical-rally-sp-500-dow-jones-nasdaq-stocks\">The stakes</a> in <a href=\"https://www.fastcompany.com/91634932/election-day-unfolding-acro",
-      "published": "2026-11-03T15:00:00"
-    },
-    {
-      "source": "Fast Company",
-      "topic": "Innovation",
-      "title": "‘Blue tsunami’ watch: 4 ways to track the midterm election results today",
-      "url": "https://www.fastcompany.com/91634890/blue-tsunami-watch-4-ways-to-track-the-midterm-election-results-today",
-      "summary": "<p class=\"wp-block-paragraph\">Election Day 2026 is here. By the end of today (Tuesday, November 3, 2026), the balance of power in Washington is almost certain to have shifted. But the big question is, by how much?</p>\n\n\n\n<p class=\"wp-block-paragraph\">Voting in the 2026 midterm elections across the c",
-      "published": "2026-11-03T14:56:00"
+      "title": "Jeff Bezos praised Raising Cane’s. Its founder built a $22 billion fortune by breaking 3 fast-food rules",
+      "url": "https://www.fastcompany.com/91632994/jeff-bezos-praised-raising-canes-founder-built-22-billion-fortune-breaking-3-fast-food-rules",
+      "summary": "<p class=\"wp-block-paragraph\"><a href=\"https://www.fastcompany.com/91375991/this-cult-brand-chicken-chain-is-gaining-on-chik-fil-a\">Raising Cane’s</a> isn’t following the standard fast-food playbook.</p>\n\n\n\n<p class=\"wp-block-paragraph\">From its limited menu to the employee dress code, founder Todd ",
+      "published": "2026-11-04T16:45:00"
     },
     {
       "source": "Wired",
       "topic": "Innovation",
-      "title": "Best Air Purifiers for Allergies Are on Sale: Levoit, BlueAir (2026)",
-      "url": "https://www.wired.com/story/air-purifier-sale-october-3-2026/",
-      "summary": "Save on WIRED-tested picks from Blueair, Levoit, and Air Doctor, including compact models for your bedroom.",
-      "published": "Tue, 03 Nov 2026 18:04:07 +0000"
+      "title": "The Lawyer Holding Big Tech Accountable by ‘Beating the Tar Out of Them’ in Court",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-mark-lanier/",
+      "summary": "Mark Lanier led the first social media addiction case to go to trial, winning a verdict against Meta and Google in March. It’s just the beginning.",
+      "published": "Wed, 04 Nov 2026 18:21:26 +0000"
     },
     {
       "source": "Wired",
       "topic": "Innovation",
-      "title": "Here’s Why You Shouldn’t Use AI to Vote",
-      "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
-      "summary": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
-      "published": "Tue, 03 Nov 2026 14:45:08 +0000"
+      "title": "Small Phones Have Vanished. Enough Phone Wants to Bring Them Back",
+      "url": "https://www.wired.com/story/big-tech-abandoned-the-small-phone-the-enough-phone-wants-to-save-it/",
+      "summary": "As flagship smartphones balloon in size, the Enough Phone offers a 5.3-inch handset. Choose between stock Android or an anti-distraction operating system.",
+      "published": "Wed, 04 Nov 2026 18:00:00 +0000"
     },
     {
       "source": "Wired",
       "topic": "Innovation",
-      "title": "Roli Has Fallen Apart—and Left Customers Holding the Bag",
-      "url": "https://www.wired.com/story/roli-has-fallen-apart-and-left-customers-holding-the-bag/",
-      "summary": "The inventive instrument maker collapsed into insolvency, leaving buyers empty-handed and users scrambling to keep their musical gear alive.",
-      "published": "Tue, 03 Nov 2026 14:00:34 +0000"
+      "title": "The Results Are In: Voters Hate Data Centers",
+      "url": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
+      "summary": "From high-profile Senate races to local rezoning initiatives, data centers and their supporters did miserably on the ballot in the 2026 midterms.",
+      "published": "Wed, 04 Nov 2026 16:56:17 +0000"
     },
     {
       "source": "Wired",
       "topic": "Innovation",
-      "title": "Apple iPad Mini (2026) Review: A Dream Device, but Who Is It For?",
-      "url": "https://www.wired.com/review/ipad-mini-2026/",
-      "summary": "The iPad Mini’s impressive new features make it a better tablet than ever—only to be betrayed by its higher price.",
-      "published": "Tue, 03 Nov 2026 14:00:00 +0000"
+      "title": "‘You Don’t Put Your Head in the Sand for 4 Years’: Colossal CEO Ben Lamm on Working With Trump",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-ben-lamm-colossal-biosciences/",
+      "summary": "The company’s cofounder recently convinced the Trump administration to support an initiative to gather DNA samples from endangered species.",
+      "published": "Wed, 04 Nov 2026 16:43:35 +0000"
     },
     {
       "source": "Wired",
       "topic": "Innovation",
-      "title": "The Endlessly Meme-able Steve Kornacki Is Not a Meme Person",
-      "url": "https://www.wired.com/story/steve-kornacki-user-behavior/",
-      "summary": "NBC’s go-to data guru also isn’t quite sure what a subreddit is.",
-      "published": "Tue, 03 Nov 2026 12:00:00 +0000"
+      "title": "Voters Set $400 Million of Elon Musk’s Money on Fire",
+      "url": "https://www.wired.com/story/voters-set-dollar400-million-of-elon-musks-money-on-fire/",
+      "summary": "Elon Musk almost single-handedly funded the Republican midterms push. But of every traceable dollar Musk put into races that have been decided, more than 99 cents went to a race he lost.",
+      "published": "Wed, 04 Nov 2026 16:06:12 +0000"
     },
     {
       "source": "CleanTechnica",
       "topic": "Ecology",
-      "title": "I Checked Out Tesla’s New Model YL, Standard Y, Model 3 In Person — Here’s What Surprised Me",
-      "url": "https://cleantechnica.com/2026/11/03/i-checked-out-teslas-new-model-yl-standard-y-model-3-in-person-heres-what-surprised-me/",
-      "summary": "<p>I finally got to see the new Tesla Model YL, Model Y Standard, and Model 3 Standard in person a few weeks ago and wanted to give my thoughts on the three models. I drove the two Model Ys and just looked at the Model 3 Standard.  I was visiting   ... [continued]</p>\n<p>The post <a href=\"https://cl",
-      "published": "Tue, 03 Nov 2026 15:07:46 +0000"
+      "title": "“War” Secretary Pete Hegseth Endorses 15 Minute City Model",
+      "url": "https://cleantechnica.com/2026/11/04/15-minute-city-model-us-defense-department-hesgeth/",
+      "summary": "<p>The 15 Minute City model calls for walkable, bike-able access to basic services and resources, a concept that has been embraced by none other than the US Department of Defense.</p>\n<p>The post <a href=\"https://cleantechnica.com/2026/11/04/15-minute-city-model-us-defense-department-hesgeth/\">&#822",
+      "published": "Wed, 04 Nov 2026 17:29:13 +0000"
     },
     {
       "source": "CleanTechnica",
       "topic": "Ecology",
-      "title": "Trump Wants More Attention For His New Algae Biofuel Showcase",
-      "url": "https://cleantechnica.com/2026/11/03/reflecting-pool-algae-biofuel-trump-2026-elections-closing-message/",
-      "summary": "<p>The Lincoln Memorial Reflecting Pool has been host to thriving populations of algae ever since its construction in the 1920's, so why not transform it into a showcase for the algae biofuel industry?</p>\n<p>The post <a href=\"https://cleantechnica.com/2026/11/03/reflecting-pool-algae-biofuel-trump-",
-      "published": "Tue, 03 Nov 2026 14:06:00 +0000"
+      "title": "Blue Wave Not Climate Related, But Critical To Clean Energy & Electric Vehicles",
+      "url": "https://cleantechnica.com/2026/11/04/blue-wave-not-climate-related-but-critical-to-clean-energy-electric-vehicles/",
+      "summary": "<p>Democrats absolutely crushed Republicans during the US midterm elections. I saw that it was the biggest electoral win since 1974. Texas is blue! Not just one position in Texas either — the governor is now a Democrat, a Democrat was elected to the US Senate, and the whole Texas legislature   ... [",
+      "published": "Wed, 04 Nov 2026 17:25:57 +0000"
     },
     {
       "source": "CleanTechnica",
       "topic": "Ecology",
-      "title": "$150 Billion More Paid by Americans for Gas This Year Than Last",
-      "url": "https://cleantechnica.com/2026/11/03/150-billion-more-paid-by-americans-for-gas-this-year-than-last/",
-      "summary": "<p>Since the beginning of America’s war against Iran, Americans have paid an additional $150+ billion for gas and diesel than they did last year during the same time period, according to a study from Brown University. Global gas prices have risen because supply has been disrupted (Iran having one of",
-      "published": "Tue, 03 Nov 2026 05:35:38 +0000"
+      "title": "Sierra Club Response to Midterm Election Results",
+      "url": "https://cleantechnica.com/2026/11/04/sierra-club-response-to-midterm-election-results/",
+      "summary": "<p>Democrats must seize on this opportunity to take ambitious action for the climate and our democracy. Washington, DC — While votes are still being counted, election officials have called enough races that it’s clear that Democrats have retaken the US House of Representatives and are expected to re",
+      "published": "Wed, 04 Nov 2026 14:54:37 +0000"
     },
     {
       "source": "CleanTechnica",
       "topic": "Ecology",
-      "title": "Congress Is Cutting Off Transportation Investments that Help Families Save Money",
-      "url": "https://cleantechnica.com/2026/11/02/congress-is-cutting-off-transportation-investments-that-help-families-save-money/",
-      "summary": "<p>The loss of guaranteed federal funding could stall projects that make it easier and cheaper for Americans to get where they need to go. UPDATE: On October 27, 2026, an update to the Senate Commerce Committee’s Chopping Block report provided a state-by-state assessment of the harm to transportatio",
-      "published": "Tue, 03 Nov 2026 04:57:02 +0000"
+      "title": "Singapore Reveals Five-Year Energy Plan to Feed Data Center, Semicon Progress",
+      "url": "https://cleantechnica.com/2026/11/04/singapore-reveals-five-year-energy-plan-to-feed-data-center-semicon-progress/",
+      "summary": "<p>SINGAPORE — Singapore has launched a sweeping five-year energy infrastructure plan designed to meet surging power needs driven by data centers, semiconductor fabrication and the electrification of transit. The initiative, announced by the Energy Market Authority, sets out a multi-pronged overhaul",
+      "published": "Wed, 04 Nov 2026 12:38:12 +0000"
     },
     {
       "source": "CleanTechnica",
       "topic": "Ecology",
-      "title": "The Future of Buildings in Illinois Is Electric",
-      "url": "https://cleantechnica.com/2026/11/02/the-future-of-buildings-in-illinois-is-electric/",
-      "summary": "<p>The Illinois Commerce Commission authorized a study of the most affordable way for the state to meet its building decarbonization goals. The report has fundamental flaws but critical insights. Illinois’s landmark Climate and Equitable Jobs Act (CEJA) sets the goal of 100 percent clean energy acro",
-      "published": "Tue, 03 Nov 2026 01:58:27 +0000"
+      "title": "NIO’s October Sales Meh, But 2026 Sales Up 38.5%",
+      "url": "https://cleantechnica.com/2026/11/03/nios-october-sales-meh-but-2026-sales-up-38-5/",
+      "summary": "<p>NIO&#8217;s October sales were nothing like XPENG&#8217;s. Rather than soaring to record heights, they drooped. Rather than surpassing 50,000 sales (something NIO is yet to do and XPENG has done only this once), NIO scored 34,246 vehicle deliveries, the company&#8217;s lowest delivery total since",
+      "published": "Wed, 04 Nov 2026 03:40:10 +0000"
     },
     {
       "source": "Electrek",
       "topic": "Ecology",
-      "title": "Tesla cuts FSD’s speed margin from 50% to 10% over the limit in Europe",
-      "url": "https://electrek.co/2026/11/03/tesla-assisted-driving-rdw-speed-cap-10-percent-europe/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Tesla’s driver-assistance system in Europe can no longer be set to drive 50% over the speed limi",
-      "published": "Tue, 03 Nov 2026 17:55:10 +0000"
+      "title": "Germany’s EV share hits record 37% as BEVs beat gas and diesel combined",
+      "url": "https://electrek.co/2026/11/04/germany-electric-car-sales-record-37-percent-share/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2025/06/gas-vs-electric.png?w=1600\" /></div><p class=\"wp-block-paragraph\">Battery-electric cars took a record 37% of Germany’s new car market in October, according to data released today by the Kraftfahrt-Bundesamt (KBA",
+      "published": "Wed, 04 Nov 2026 18:20:03 +0000"
     },
     {
       "source": "Electrek",
       "topic": "Ecology",
-      "title": "BYD’s 3,000-hp EV crashes at about 280 mph — Watch the driver escape unharmed",
-      "url": "https://electrek.co/2026/11/03/byds-ev-crashes-at-280-mph-watch-driver-escape-unharmed/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-EV-crashes-video.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\"><a href=\"https://electrek.co/guides/byd/\">BYD’s</a> electric supercar delivers an insane nearly 3,000 hp fro",
-      "published": "Tue, 03 Nov 2026 17:25:43 +0000"
+      "title": "BYD’s new luxury electric SUV has one big problem: It weighs over 8,200 lbs",
+      "url": "https://electrek.co/2026/11/04/byds-new-luxury-ev-suv-one-problem-weighs-8200-lbs/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Denza-N9-EV.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\"><a href=\"https://electrek.co/guides/byd/\">BYD’s</a> new full-size electric SUV, the Denza N9 EV, was revealed in ",
+      "published": "Wed, 04 Nov 2026 17:14:58 +0000"
     },
     {
       "source": "Electrek",
       "topic": "Ecology",
-      "title": "Zero Motorcycles unveils $8K electric motorcycle, street-legal dirt bike, and much more",
-      "url": "https://electrek.co/2026/11/03/zero-motorcycles-unveils-8k-electric-motorcycle-street-legal-dirt-bike-and-much-more/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/zero-ventura-motorcycle-header-1.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Zero Motorcycles is celebrating its 20th anniversary with a major wave of announcements at EICMA ",
-      "published": "Tue, 03 Nov 2026 15:30:00 +0000"
+      "title": "Xiaomi’s humanoid robots work a full 8-hour shift in its EV factory",
+      "url": "https://electrek.co/2026/11/04/xiaomi-humanoid-robot-8-hour-shift-ev-factory/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/Xiaomi-humanoid-robot.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Xiaomi has released footage of its humanoid robots working a full 8-hour shift at its EV factory, sorting c",
+      "published": "Wed, 04 Nov 2026 16:23:06 +0000"
     },
     {
       "source": "Electrek",
       "topic": "Ecology",
-      "title": "This electric microcar just got a 50 mph upgrade, plus a secret Turbo mode",
-      "url": "https://electrek.co/2026/11/03/this-electric-microcar-just-got-a-50-mph-upgrade-plus-a-secret-turbo-mode/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/eli-zero-mx-microcar-quadricycle-italy-head.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">The adorable little Eli ZERO electric microcar is growing up. At this year’s EICMA mot",
-      "published": "Tue, 03 Nov 2026 15:00:00 +0000"
+      "title": "Puerto Rico tapped Sunrun’s home batteries for 18 straight days",
+      "url": "https://electrek.co/2026/11/04/puerto-rico-tapped-sunruns-home-batteries-for-18-straight-days/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2025/05/sunrun-tesla-battery-storage1.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\" id=\"h-\">Sunrun has doubled participation in its Puerto Rico virtual power plant to more than 60,000 ",
+      "published": "Wed, 04 Nov 2026 16:21:42 +0000"
     },
     {
       "source": "Electrek",
       "topic": "Ecology",
-      "title": "Kia racks up another record month as its new $30K electric SUV hits dealers",
-      "url": "https://electrek.co/2026/11/03/kia-racks-up-another-record-month-new-30k-ev3-hits-dealers/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-record-US-sales-EV3.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\">Kia is eyeing its fourth consecutive annual US sales record after another record-breaking October. With t",
-      "published": "Tue, 03 Nov 2026 14:56:21 +0000"
+      "title": "Kia EV7 revealed as an upcoming midsize electric SUV",
+      "url": "https://electrek.co/2026/11/04/kia-ev7-revealed-upcoming-midsize-electric-suv/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-EV7-electric-SUV.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\">Kia is crushing it with a full lineup of electric vehicles ranging from entry-level SUVs to the three-row EV",
+      "published": "Wed, 04 Nov 2026 15:15:08 +0000"
     },
     {
       "source": "Seeking Alpha",
       "topic": "Investor",
-      "title": "Ethos Technologies Inc. 2026 Q3 - Results - Earnings Call Presentation",
-      "url": "https://seekingalpha.com/article/4961688-ethos-technologies-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+      "title": "Owens Corning (OC) Q3 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4962266-owens-corning-oc-q3-2026-earnings-call-transcript?source=feed_all_articles",
       "summary": "",
-      "published": "Tue, 03 Nov 2026 13:12:13 -0500"
+      "published": "Wed, 04 Nov 2026 13:24:40 -0500"
     },
     {
       "source": "Seeking Alpha",
       "topic": "Investor",
-      "title": "DigitalOcean Holdings, Inc. (DOCN) Q3 2026 Earnings Call Transcript",
-      "url": "https://seekingalpha.com/article/4961526-digitalocean-holdings-inc-docn-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "title": "Adient plc (ADNT) Q4 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4962397-adient-plc-adnt-q4-2026-earnings-call-transcript?source=feed_all_articles",
       "summary": "",
-      "published": "Tue, 03 Nov 2026 13:05:56 -0500"
+      "published": "Wed, 04 Nov 2026 13:24:39 -0500"
     },
     {
       "source": "Seeking Alpha",
       "topic": "Investor",
-      "title": "Shopify Inc. (SHOP) Q3 2026 Earnings Call Transcript",
-      "url": "https://seekingalpha.com/article/4961576-shopify-inc-shop-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "title": "Burford Capital Limited (BUR) Q3 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4962396-burford-capital-limited-bur-q3-2026-earnings-call-transcript?source=feed_all_articles",
       "summary": "",
-      "published": "Tue, 03 Nov 2026 13:05:55 -0500"
+      "published": "Wed, 04 Nov 2026 13:24:37 -0500"
     },
     {
       "source": "Seeking Alpha",
       "topic": "Investor",
-      "title": "Core Molding Technologies, Inc. (CMT) Q3 2026 Earnings Call Transcript",
-      "url": "https://seekingalpha.com/article/4961617-core-molding-technologies-inc-cmt-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "title": "Royalty Pharma plc (RPRX) Q3 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4962216-royalty-pharma-plc-rprx-q3-2026-earnings-call-transcript?source=feed_all_articles",
       "summary": "",
-      "published": "Tue, 03 Nov 2026 13:05:53 -0500"
+      "published": "Wed, 04 Nov 2026 13:24:35 -0500"
     },
     {
       "source": "Seeking Alpha",
       "topic": "Investor",
-      "title": "Advanced Energy Industries, Inc. 2026 Q3 - Results - Earnings Call Presentation",
-      "url": "https://seekingalpha.com/article/4961687-advanced-energy-industries-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+      "title": "Avnet, Inc. (AVT) Q1 2027 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4962348-avnet-inc-avt-q1-2027-earnings-call-transcript?source=feed_all_articles",
       "summary": "",
-      "published": "Tue, 03 Nov 2026 13:04:38 -0500"
+      "published": "Wed, 04 Nov 2026 13:24:33 -0500"
     },
     {
       "source": "Bloomberg Markets",
       "topic": "Investor",
-      "title": "Chip Rally Powers Stock Gains on US Election Day: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
-      "summary": "A revival of the artificial-intelligence trade powered Wall Street gains as US voting got underway in the midterm elections.",
-      "published": "Mon, 02 Nov 2026 22:25:14 GMT"
+      "title": "Alcohol Jumps as Blue Wave Lifts Trade, Immigration Hope",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/alcohol-stocks-jump-as-blue-wave-lifts-tariff-immigration-hopes",
+      "summary": "Investors are betting alcohol companies are among the winners of last night’s midterm election landslide on views a new Congress will push back on the Trump administration’s immigration and trade policies that dented booze businesses.",
+      "published": "Wed, 04 Nov 2026 17:19:47 GMT"
     },
     {
       "source": "Bloomberg Markets",
       "topic": "Investor",
-      "title": "NextEra Offers New Safeguards for $67 Billion Dominion Deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-03/nextera-agrees-to-more-safeguards-for-67-billion-dominion-deal",
-      "summary": "NextEra Energy Inc. and Dominion Energy Inc. offered Virginia additional concessions in their latest bid to convince the state to approve its $67 billion merger, although the utilities didn’t bow to the biggest demand from Governor Abigail Spanberger.",
-      "published": "Tue, 03 Nov 2026 12:24:22 GMT"
+      "title": "Treasuries Gain as Oil Prices Tumble After Democrats Elected",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/treasuries-advance-as-traders-eye-us-votes-refinancing-plans",
+      "summary": "Treasuries rose as the outcome of the US midterm elections contributed to steep declines for oil prices based on the prospect of an end to the war in the Middle East.",
+      "published": "Wed, 04 Nov 2026 01:00:49 GMT"
     },
     {
       "source": "Bloomberg Markets",
       "topic": "Investor",
-      "title": "Latest Oil Market News and Analysis for Nov. 3",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-02/latest-oil-market-news-and-analysis-for-nov-3",
-      "summary": "Oil prices swung in a choppy session as traders parsed conflicting signs on the trajectory of peace talks between the US and Iran.",
-      "published": "Mon, 02 Nov 2026 23:01:19 GMT"
+      "title": "US Tweaks Debt-Sale Guidance, Spurring Auction-Forecast Changes",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/us-revamps-debt-sales-guidance-opening-path-to-auction-changes",
+      "summary": "The US Treasury Department revamped the guidance on sales of notes and bonds it has used since early 2024, in a move that spurred dealers to rethink their outlooks for auctions next year.",
+      "published": "Wed, 04 Nov 2026 13:34:13 GMT"
     },
     {
       "source": "Bloomberg Markets",
       "topic": "Investor",
-      "title": "Dollar Rises With US Yields as Focus on Iran Outweighs Election",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-03/dollar-rises-with-us-yields-as-focus-on-iran-outweighs-election",
-      "summary": "The dollar rose on Election Day in the US, buoyed by climbing Treasury yields and solid economic data, while traders monitored developments in the Middle East for a sense of the greenback’s direction.",
-      "published": "Tue, 03 Nov 2026 17:49:16 GMT"
+      "title": "Stocks, Bonds Climb After US Election as Oil Sinks: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates",
+      "summary": "A Democratic sweep of Congress that highlighted opposition of the Iran war extended this week’s plunge in oil prices, helping drive stocks and bonds to big post-election gains.",
+      "published": "Tue, 03 Nov 2026 22:20:22 GMT"
     },
     {
       "source": "Bloomberg Markets",
       "topic": "Investor",
-      "title": "JPMorgan’s Michele Urges Treasury to Ax ‘Orphan’ 20-Year Bond",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-03/jpmorgan-s-michele-urges-treasury-to-ax-orphan-20-year-bond",
-      "summary": "JPMorgan Asset Management’s Bob Michele has some advice for Treasury Secretary Scott Bessent: get rid of the 20-year bond.",
-      "published": "Tue, 03 Nov 2026 17:26:02 GMT"
+      "title": "DeSantis Calls GOP Midterm Wipeout ‘Extinction Level Event’",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/desantis-calls-gop-s-midterm-wipeout-extinction-level-event",
+      "summary": "Florida Governor Ron DeSantis said the blue wave that swept over just about every corner of the US on Election Day — except his state — was akin to a “meteor strike” for the Republican Party.",
+      "published": "Wed, 04 Nov 2026 16:02:09 GMT"
     }
   ]
 }
