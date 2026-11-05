@@ -1,0 +1,1303 @@
+{
+  "date": "2026-11-05",
+  "generated": "2026-11-05T18:37:45.028818Z",
+  "total_posts": 80,
+  "by_topic": {
+    "Marketing": [
+      {
+        "source": "HubSpot Marketing",
+        "topic": "Marketing",
+        "title": "What is RAG in AI? A plain-English guide for marketers",
+        "url": "https://blog.hubspot.com/marketing/rag-in-ai",
+        "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/rag-in-ai\" title=\"\"> <img alt=\"what is retrieval augmented generation (rag) and why should marketers care\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/blogbot/what-i",
+        "published": "Thu, 05 Nov 2026 16:15:05 GMT"
+      },
+      {
+        "source": "HubSpot Marketing",
+        "topic": "Marketing",
+        "title": "How to find and fix your AEO keywords gap",
+        "url": "https://blog.hubspot.com/marketing/aeo-keyword-gap-analysis",
+        "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/aeo-keyword-gap-analysis\" title=\"\"> <img alt=\"aeo keyword gap\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/blogbot/aeo-keywords-gap-featured-5331406.webp\" style=\"wid",
+        "published": "Wed, 04 Nov 2026 14:50:06 GMT"
+      },
+      {
+        "source": "HubSpot Marketing",
+        "topic": "Marketing",
+        "title": "How do I benchmark my AI search performance against my industry?",
+        "url": "https://blog.hubspot.com/marketing/ai-search-industry-benchmarks",
+        "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/ai-search-industry-benchmarks\" title=\"\"> <img alt=\"ai search benchmarks\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/blogbot/how-do-i-benchmark-my-ai-search-performa",
+        "published": "Wed, 04 Nov 2026 14:40:07 GMT"
+      },
+      {
+        "source": "HubSpot Marketing",
+        "topic": "Marketing",
+        "title": "Claude integrations worth adding to your GTM stack",
+        "url": "https://blog.hubspot.com/marketing/claude-integrations",
+        "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/claude-integrations\" title=\"\"> <img alt=\"Illustrated hands working on a design layout with Claude integrations text overlay\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hu",
+        "published": "Tue, 03 Nov 2026 14:40:06 GMT"
+      },
+      {
+        "source": "HubSpot Marketing",
+        "topic": "Marketing",
+        "title": "AI maturity in marketing: What the research reveals",
+        "url": "https://blog.hubspot.com/marketing/ai-maturity",
+        "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/ai-maturity\" title=\"\"> <img alt=\"ai maturity\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/blogbot/ai-maturity-featured-3697605.webp\" style=\"width: auto !important; f",
+        "published": "Mon, 02 Nov 2026 17:50:05 GMT"
+      },
+      {
+        "source": "Neil Patel",
+        "topic": "Marketing",
+        "title": "XML Sitemap Optimization: How to Improve Crawlability",
+        "url": "https://neilpatel.com/blog/xml-sitemap/",
+        "summary": "Key Takeaways Most websites have an XML sitemap. A lot of those sitemaps aren’t optimized, though.&#160; That means site owners are missing a golden opportunity to improve their SEO and gain an edge over competing brands. Your sitemap gives search engines a roadmap to the content you want them to fi",
+        "published": "Wed, 04 Nov 2026 20:00:00 +0000"
+      },
+      {
+        "source": "Neil Patel",
+        "topic": "Marketing",
+        "title": "Answer Engine Optimization: How to Improve AI Visibility",
+        "url": "https://neilpatel.com/blog/answer-engine-optimization/",
+        "summary": "Key Takeaways More than half of searches in 2025 don’t lead anywhere. People get answers from ChatGPT, Perplexity, Google AI Overviews, and Gemini without clicking a single link. Google’s AI Mode takes this even further. It turns search into a full conversation and already has more than 1 billion mo",
+        "published": "Fri, 30 Oct 2026 07:00:00 +0000"
+      },
+      {
+        "source": "Neil Patel",
+        "topic": "Marketing",
+        "title": "How to Teach Content Strategy to Stakeholders Who Don’t Speak Marketing",
+        "url": "https://neilpatel.com/blog/teach-content-strategy-to-stakeholders/",
+        "summary": "Key Takeaways Most content strategies don&#8217;t fail on their merits. They stall out because content strategy buy-in never arrives from the person who funds the work, approves it, or executes part of it. That might be a client-side VP, your own executive team, a sales director, or a legal reviewer",
+        "published": "Wed, 28 Oct 2026 16:00:00 +0000"
+      },
+      {
+        "source": "Neil Patel",
+        "topic": "Marketing",
+        "title": "Ubersuggest Now Lives Inside Claude. Here’s What It Can Actually Do",
+        "url": "https://neilpatel.com/blog/ubersuggest-inside-claude/",
+        "summary": "Key Takeaways You already use Claude to write, think, and plan. You draft the content brief, outline the client report, work through a strategy question out loud. But the moment you need a real number: search volume, a competitor&#8217;s ranking keywords, what&#8217;s actually broken on a site, you ",
+        "published": "Mon, 26 Oct 2026 16:00:00 +0000"
+      },
+      {
+        "source": "Neil Patel",
+        "topic": "Marketing",
+        "title": "The 4 Ps of Marketing: Product, Price, Place, and Promotion",
+        "url": "https://neilpatel.com/blog/4-ps-of-marketing/",
+        "summary": "Key Takeaways The 4 Ps of marketing (product, price, place, and promotion) have been around for decades, and they still drive decisions around every successful product launch. Also known as the “marketing mix,” they help you think through how to bring a product to market and reach the customers most",
+        "published": "Fri, 23 Oct 2026 16:00:00 +0000"
+      }
+    ],
+    "Design": [
+      {
+        "source": "Smashing Magazine",
+        "topic": "Design",
+        "title": "Making Immersive LLM Chat Experiences More Accessible",
+        "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+        "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more acce",
+        "published": "Thu, 05 Nov 2026 13:00:00 GMT"
+      },
+      {
+        "source": "Smashing Magazine",
+        "topic": "Design",
+        "title": "Modern CSS Might Make Your Front-End More Complex",
+        "url": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
+        "summary": "Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migrati",
+        "published": "Tue, 03 Nov 2026 10:00:00 GMT"
+      },
+      {
+        "source": "Smashing Magazine",
+        "topic": "Design",
+        "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
+        "url": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
+        "summary": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
+        "published": "Sat, 31 Oct 2026 08:00:00 GMT"
+      },
+      {
+        "source": "Smashing Magazine",
+        "topic": "Design",
+        "title": "Accordion Icons: Which Work Best?",
+        "url": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
+        "summary": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](ht",
+        "published": "Fri, 23 Oct 2026 13:00:00 GMT"
+      },
+      {
+        "source": "Smashing Magazine",
+        "topic": "Design",
+        "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+        "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+        "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loop",
+        "published": "Tue, 20 Oct 2026 10:00:00 GMT"
+      },
+      {
+        "source": "Creative Bloq",
+        "topic": "Design",
+        "title": "Some of the best-rated markers for art are reduced by up to 26% for Black Friday",
+        "url": "https://www.creativebloq.com/deals/some-of-the-best-rated-markers-for-art-are-reduced-by-up-to-26-percent-for-black-friday",
+        "summary": "Ohuhu's sets are a Creative Bloq favourite, suitable for both kids and pro artists.",
+        "published": "Thu, 05 Nov 2026 18:00:00 +0000"
+      },
+      {
+        "source": "Creative Bloq",
+        "topic": "Design",
+        "title": "“If we loved him, we had a movie”: the directors who had to make the Cat in the Hat likeable",
+        "url": "https://www.creativebloq.com/news/the-cat-in-the-hat-2026-warner-bros-animation-3d-look",
+        "summary": "Alessandro Carloni and Erica Rivinoja on reinventing a book everyone thinks they know, and the one problem that could have sunk the whole film.",
+        "published": "Thu, 05 Nov 2026 16:00:00 +0000"
+      },
+      {
+        "source": "Creative Bloq",
+        "topic": "Design",
+        "title": "Dior's Christmas ad is the opposite to Prada's classy animation",
+        "url": "https://www.creativebloq.com/news/diors-christmas-ad-is-the-opposite-to-pradas-classy-animation",
+        "summary": "An all star cast and leading director aren’t enough to distract eagle eyed critics.",
+        "published": "Thu, 05 Nov 2026 15:00:00 +0000"
+      },
+      {
+        "source": "Creative Bloq",
+        "topic": "Design",
+        "title": "Nvidia DLSS 5 AI in Hogwarts Legacy is the opposite of what everyone expected",
+        "url": "https://www.creativebloq.com/news/nvidia-dlss-5-in-hogwarts-legacy-has-sparked-a-whole-different-controversy",
+        "summary": "Did the backlash make Nvidia nerf the AI tech?",
+        "published": "Thu, 05 Nov 2026 14:31:46 +0000"
+      },
+      {
+        "source": "Creative Bloq",
+        "topic": "Design",
+        "title": "Get 87% off Hostinger web builder with this exclusive Black Friday code",
+        "url": "https://www.creativebloq.com/deals/get-87-percent-off-hostinger-web-builder-with-this-exclusive-black-friday-code",
+        "summary": "There's a $133 upfront fee, then you pay £2.50 every month!",
+        "published": "Thu, 05 Nov 2026 14:03:39 +0000"
+      }
+    ],
+    "Tech": [
+      {
+        "source": "TechCrunch",
+        "topic": "Tech",
+        "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+        "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+        "summary": "OpenAI President Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
+        "published": "Thu, 05 Nov 2026 18:02:27 +0000"
+      },
+      {
+        "source": "TechCrunch",
+        "topic": "Tech",
+        "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+        "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+        "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+        "published": "Thu, 05 Nov 2026 18:00:00 +0000"
+      },
+      {
+        "source": "TechCrunch",
+        "topic": "Tech",
+        "title": "Claude can now analyze your spending with its new Personal Finance tool",
+        "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+        "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+        "published": "Thu, 05 Nov 2026 18:00:00 +0000"
+      },
+      {
+        "source": "TechCrunch",
+        "topic": "Tech",
+        "title": "Harbinger raises $240M after expanding into defense",
+        "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+        "summary": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
+        "published": "Thu, 05 Nov 2026 17:52:44 +0000"
+      },
+      {
+        "source": "TechCrunch",
+        "topic": "Tech",
+        "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+        "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+        "summary": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
+        "published": "Thu, 05 Nov 2026 17:11:48 +0000"
+      },
+      {
+        "source": "The Verge",
+        "topic": "Tech",
+        "title": "EA is bringing 25 classic PC games to Steam",
+        "url": "https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition",
+        "summary": "Electronic Arts is launching 25 classic games on Steam, including \"Anniversary Editions\" of the motorcycle racer Road Rash and six Wing Commander titles. These Anniversary Editions preserve \"the original look, feel and creative intent of the game\" but also have quality-of-life updates to support mod",
+        "published": "2026-11-05T13:30:00-05:00"
+      },
+      {
+        "source": "The Verge",
+        "topic": "Tech",
+        "title": "Claude AI can plug directly into your bank account",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+        "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create",
+        "published": "2026-11-05T13:00:00-05:00"
+      },
+      {
+        "source": "The Verge",
+        "topic": "Tech",
+        "title": "‘Total repudiation’: The blue wave is about to hit AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+        "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico, and",
+        "published": "2026-11-05T12:51:52-05:00"
+      },
+      {
+        "source": "The Verge",
+        "topic": "Tech",
+        "title": "Ember’s smallest self-heating mug is on sale for just $33",
+        "url": "https://www.theverge.com/gadgets/1027689/ember-cup-6-ounce-woot-kitchen-sale-deal",
+        "summary": "We’ve been fans of Ember’s temperature-controlled mugs for years, though given the price tag, we admit that they’re somewhat of a luxury purchase. Thankfully, if you&#8217;ve been looking for a more affordable option, Woot is selling the Ember Cup in black for $32.99 ($67 off) with a 90-day warranty",
+        "published": "2026-11-05T12:34:23-05:00"
+      },
+      {
+        "source": "The Verge",
+        "topic": "Tech",
+        "title": "TikTok launched a dedicated TikTok Shop app",
+        "url": "https://www.theverge.com/tech/1027772/tiktok-shop-app",
+        "summary": "TikTok has released a standalone app for TikTok Shop in a few countries, as spotted by social media consultant Matt Navarra. According to its App Store listing, the TikTok Shop app offers: - Personalized picks inspired by your interests - LIVE streams &#38; short videos to see products in action - A",
+        "published": "2026-11-05T12:27:36-05:00"
+      }
+    ],
+    "Lego": [
+      {
+        "source": "The Brick Fan",
+        "topic": "Lego",
+        "title": "LEGO Reindeer Make & Take – November 13",
+        "url": "https://www.thebrickfan.com/lego-reindeer-make-take-november-13/",
+        "summary": "<p><center><a href=\"https://click.linksynergy.com/deeplink?id=LNtsWdwRzsQ&#038;mid=13923&#038;murl=https%3a%2f%2fwww.lego.com%2fen-us%2fstores%2fevents%2flbr-26-make-and-take-reindeer\" target=\"_blank\"><img src=\"https://www.lego.com/cdn/cs/set/assets/blt0a2b76d4541e01c7/LBR2625_Holiday_Reindeer_M&#03",
+        "published": "Thu, 05 Nov 2026 15:52:19 +0000"
+      },
+      {
+        "source": "The Brick Fan",
+        "topic": "Lego",
+        "title": "LEGO Ideas Projects Currently Under Development – November 2026 Update",
+        "url": "https://www.thebrickfan.com/lego-ideas-projects-currently-under-development-november-2026-update/",
+        "summary": "<p><center><img src=\"https://ideascdn.lego.com/media/generate/lego_ci/d4d991f4-26fb-401d-ae5b-a9024cacf23f/resize:950:633/legacy\" width=\"600/\" /></center></p>\n<p>It&#8217;s been a few months since our last update for the LEGO Ideas projects that are still under development and there have been a lot ",
+        "published": "Wed, 04 Nov 2026 17:04:25 +0000"
+      },
+      {
+        "source": "The Brick Fan",
+        "topic": "Lego",
+        "title": "LEGO Ideas Godzilla (21375) Officially Announced",
+        "url": "https://www.thebrickfan.com/lego-ideas-godzilla-21375-officially-announced/",
+        "summary": "<p><center><a href=\"https://click.linksynergy.com/deeplink?id=LNtsWdwRzsQ&#038;mid=13923&#038;murl=https%3a%2f%2fwww.lego.com%2fen-us%2fproduct%2fgodzilla-21375\" target=\"_blank\"><img src=\"https://www.thebrickfan.com/wp-content/uploads/2026/11/LEGO-Ideas-Godzilla-21375.jpg\" width=\"600/\" /></a></cente",
+        "published": "Tue, 03 Nov 2026 14:01:12 +0000"
+      },
+      {
+        "source": "The Brick Fan",
+        "topic": "Lego",
+        "title": "LEGO Gabby’s Dollhouse and Doozie’s Doghouse (11227) Revealed",
+        "url": "https://www.thebrickfan.com/lego-gabbys-dollhouse-and-doozies-doghouse-11227-revealed/",
+        "summary": "<p><center><a href=\"https://click.linksynergy.com/deeplink?id=LNtsWdwRzsQ&#038;mid=13923&#038;murl=https%3a%2f%2fwww.lego.com%2fen-us%2fproduct%2fgabbys-dollhouse-and-doozies-doghouse-11227\" target=\"_blank\"><img src=\"https://www.thebrickfan.com/wp-content/uploads/2026/11/LEGO-Gabbys-Dollhouse-and-Do",
+        "published": "Mon, 02 Nov 2026 14:54:22 +0000"
+      },
+      {
+        "source": "The Brick Fan",
+        "topic": "Lego",
+        "title": "LEGO One Piece Battle at Drum Castle (75645) Review",
+        "url": "https://www.thebrickfan.com/lego-one-piece-battle-at-drum-castle-75645-review/",
+        "summary": "<p><center><a href=\"https://www.flickr.com/photos/tormentalous/55625815413/in/dateposted/\" target=\"_blank\" title=\"LEGO One Piece Battle at Drum Castle (75645)\"><img alt=\"LEGO One Piece Battle at Drum Castle (75645)\" height=\"640\" src=\"https://live.staticflickr.com/65535/55625815413_cab4045825_z.jpg\" ",
+        "published": "Sun, 01 Nov 2026 20:43:28 +0000"
+      },
+      {
+        "source": "Brickset",
+        "topic": "Lego",
+        "title": "Poll: Which is your favourite modular building?",
+        "url": "https://brickset.com/article/135935",
+        "summary": "<img alt=\"Poll: Which is your favourite modular building?\" src=\"https://images.brickset.com/news/thumbs/large/135935_mbc.jpg\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>It's approaching the time of year when the next modular building will be revealed, so ahead of that we are going to find out ",
+        "published": "Thu, 05 Nov 2026 14:00:00 GMT"
+      },
+      {
+        "source": "Brickset",
+        "topic": "Lego",
+        "title": "Random set of the day: FXX",
+        "url": "https://brickset.com/article/135928",
+        "summary": "<img alt=\"Random set of the day: FXX\" src=\"https://images.brickset.com/sets/small/30195-1.jpg\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Today's random set is <a href=\"https://brickset.com/sets/30195-1\">30195</a> FXX, released during 2012. It's one of <a href=\"https://brickset.com/sets/theme-",
+        "published": "Thu, 05 Nov 2026 03:01:02 GMT"
+      },
+      {
+        "source": "Brickset",
+        "topic": "Lego",
+        "title": "Random figure of the day: njo0812",
+        "url": "https://brickset.com/article/135927",
+        "summary": "<img alt=\"Random figure of the day: njo0812\" src=\"https://img.bricklink.com/ItemImage/MN/0/njo0812.png\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Today's random figure is <a href=\"https://brickset.com/minifigs/njo0812\">njo0812</a> <em>Lord Ras - Dark Red Robe, Pearl Gold Shoulder Armor</em>, ",
+        "published": "Thu, 05 Nov 2026 02:01:02 GMT"
+      },
+      {
+        "source": "Brickset",
+        "topic": "Lego",
+        "title": "BuWizz 4.0 launches on KickStarter",
+        "url": "https://brickset.com/article/135926",
+        "summary": "<img alt=\"BuWizz 4.0 launches on KickStarter\" src=\"https://images.brickset.com/news/thumbs/large/135926_IRP_6951.jpg\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Ten years after the original BuWizz brick was launched, the team are back with a new, more powerful version on <a href=\"https://www.k",
+        "published": "Wed, 04 Nov 2026 16:00:00 GMT"
+      },
+      {
+        "source": "Brickset",
+        "topic": "Lego",
+        "title": "Random set of the day: Volcano Supply Helicopter",
+        "url": "https://brickset.com/article/135916",
+        "summary": "<img alt=\"Random set of the day: Volcano Supply Helicopter\" src=\"https://images.brickset.com/sets/small/60123-1.jpg\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Today's random set is <a href=\"https://brickset.com/sets/60123-1\">60123</a> Volcano Supply Helicopter, released during 2016. It's one ",
+        "published": "Wed, 04 Nov 2026 03:01:03 GMT"
+      },
+      {
+        "source": "Brothers Brick",
+        "topic": "Lego",
+        "title": "Rounding up a year of The Legend of Zelda builds in preparation for Ocarina of Time",
+        "url": "https://www.brothers-brick.com/2026/11/04/rounding-up-a-year-of-the-legend-of-zelda-builds-in-preparation-for-ocarina-of-time/",
+        "summary": "<p>With the long-awaited remake of The Legend of Zelda: Ocarina of Time releasing this week, there&#8217;s no better time to take a look at just a handful of the incredible Zelda builds we&#8217;ve marveled at this year. Despite the franchise&#8217;s popularity, it&#8217;s been surprisingly under-re",
+        "published": "Wed, 04 Nov 2026 20:01:41 +0000"
+      },
+      {
+        "source": "Brothers Brick",
+        "topic": "Lego",
+        "title": "LEGO Ideas 21375 Godzilla: Size does matter [Review]",
+        "url": "https://www.brothers-brick.com/2026/11/04/lego-ideas-21375-godzilla-size-does-matter-review/",
+        "summary": "<p>Few movie monsters command a screen quite like Godzilla. There&#8217;s the colossal bulk, the jagged row of dorsal fins, and that blue-white atomic breath: an image so iconic it has been flattening cinema&#8217;s skylines, and its insurance premiums, for decades. Now the King of the Monsters arri",
+        "published": "Wed, 04 Nov 2026 14:30:12 +0000"
+      },
+      {
+        "source": "Brothers Brick",
+        "topic": "Lego",
+        "title": "The return of the King (of the Lizards): LEGO reveals 5,000-piece Godzilla set [News]",
+        "url": "https://www.brothers-brick.com/2026/11/03/the-return-of-the-king-of-the-lizards-lego-reveals-5000-piece-godzilla-set-news/",
+        "summary": "<p>Are you the owner of a LEGO town or cityscape, perhaps lovingly tended over years of collecting and building? If so, beware! There&#8217;s a new LEGO kaiju on the horizon &#8211; the kaiju, in fact. 21375 Godzilla is the next set to come from the LEGO Ideas platform. With 5,363 pieces, this new s",
+        "published": "Tue, 03 Nov 2026 14:00:43 +0000"
+      },
+      {
+        "source": "Brothers Brick",
+        "topic": "Lego",
+        "title": "This lean, mean, green LEGO machine will have you looking twice",
+        "url": "https://www.brothers-brick.com/2026/11/02/this-lean-mean-green-lego-machine-will-have-you-looking-twice/",
+        "summary": "<p>LEGO builder Vince Toulouse has been honing their style for years, perfecting the art of smooth, swooping curves and luxurious colors to create vehicles with a retro-futuristic flair. This latest build, an insect-inspired steampunk flying machine is jaw-dropping not only in scale, but also brilli",
+        "published": "Mon, 02 Nov 2026 14:00:54 +0000"
+      },
+      {
+        "source": "Brothers Brick",
+        "topic": "Lego",
+        "title": "LEGO Icons 11388 Venetian Neighbourhood & 40898 Venetian Water Taxi GWP [Review]",
+        "url": "https://www.brothers-brick.com/2026/11/01/lego-icons-11388-venetian-neighbourhood-40898-venetian-water-taxi-gwp-review/",
+        "summary": "<p>Tourists really are spoilt for choice when it comes to visiting Italy. Great food, wonderful nature, millennia of history that you can sometimes literally walk through &#8211; there are fantastic destinations all over the country. Even with this embarassment of riches, the city of Venice stands o",
+        "published": "Sun, 01 Nov 2026 20:00:24 +0000"
+      }
+    ],
+    "Innovation": [
+      {
+        "source": "MIT Technology Review",
+        "topic": "Innovation",
+        "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+        "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground ",
+        "published": "Thu, 05 Nov 2026 13:10:00 +0000"
+      },
+      {
+        "source": "MIT Technology Review",
+        "topic": "Innovation",
+        "title": "A new bill could change how the US builds energy infrastructure",
+        "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+        "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan th",
+        "published": "Thu, 05 Nov 2026 10:00:00 +0000"
+      },
+      {
+        "source": "MIT Technology Review",
+        "topic": "Innovation",
+        "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+        "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+        "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for govern",
+        "published": "Wed, 04 Nov 2026 18:50:55 +0000"
+      },
+      {
+        "source": "MIT Technology Review",
+        "topic": "Innovation",
+        "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+        "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+        "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring pos",
+        "published": "Wed, 04 Nov 2026 18:21:40 +0000"
+      },
+      {
+        "source": "MIT Technology Review",
+        "topic": "Innovation",
+        "title": "What’s next for US energy policy after the midterm elections?",
+        "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+        "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump’s victory two",
+        "published": "Wed, 04 Nov 2026 17:08:00 +0000"
+      },
+      {
+        "source": "Fast Company",
+        "topic": "Innovation",
+        "title": "7 ways the midterms may affect the AI boom",
+        "url": "https://www.fastcompany.com/91635796/7-ways-the-midterms-may-affect-the-ai-boom",
+        "summary": "<p class=\"wp-block-paragraph\"><em>Welcome to</em> <a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">AI</a> Decoded<em>, </em>Fast Company<em>&#8216;s weekly newsletter that breaks down the most important news in the world of AI. I&#8217;m Mark Sullivan, a senior writer",
+        "published": "2026-11-05T17:00:00"
+      },
+      {
+        "source": "Fast Company",
+        "topic": "Innovation",
+        "title": "Nintendo reports profit is up 11%, but sales slipped for the first half of the fiscal year",
+        "url": "https://www.fastcompany.com/91636371/nintendo-reports-profit-up-11-but-sales-slipped-first-half-fiscal-year",
+        "summary": "<p class=\"wp-block-paragraph\"><a href=\"https://www.fastcompany.com/91622966/why-nintendo-is-sticking-with-physical-video-games-for-now\">Japanese video-game maker Nintendo</a> reported Thursday an 11% improvement in its net profit in the first half of the fiscal year, although its sales declined duri",
+        "published": "2026-11-05T16:32:17"
+      },
+      {
+        "source": "Fast Company",
+        "topic": "Innovation",
+        "title": "100,000 polled voters delivered a midterm verdict on Trump’s economy. Here are 4 takeaways",
+        "url": "https://www.fastcompany.com/91636357/100000-polled-voters-delivered-midterm-verdict-trumps-economy-here-4-takeaways",
+        "summary": "<p class=\"wp-block-paragraph\">President Donald Trump was publicly <a href=\"https://www.fastcompany.com/91420903/trump-declares-inflation-defeated-but-many-americans-are-feeling-the-burden-of-high-prices\">humbled by inflation</a> in the <a href=\"https://www.fastcompany.com/91635441/how-trump-gop-lost",
+        "published": "2026-11-05T15:30:42"
+      },
+      {
+        "source": "Fast Company",
+        "topic": "Innovation",
+        "title": "Chase Sapphire Reserve is making a major change to its luxury travel perks in 2027",
+        "url": "https://www.fastcompany.com/91634577/chase-sapphire-reserve-is-making-a-major-change-to-its-luxury-travel-perks-in-2027",
+        "summary": "<p class=\"wp-block-paragraph\">Chase is giving its premium credit cardholders a new way to use their travel benefits for stays: vacation homes.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Starting January, Chase Travel will expand The Edit, its curated collection of luxury hotels and resorts, to include mor",
+        "published": "2026-11-05T15:13:15"
+      },
+      {
+        "source": "Fast Company",
+        "topic": "Innovation",
+        "title": "The blue heart is the unofficial emoji of libbing out",
+        "url": "https://www.fastcompany.com/91635781/the-blue-heart-is-the-unofficial-emoji-of-libbing-out",
+        "summary": "<p class=\"wp-block-paragraph\">The blue heart emoji is having a moment among those celebrating <a href=\"https://www.fastcompany.com/91635531/this-map-shows-just-how-big-democrats-won-the-midterms\" rel=\"noreferrer noopener\" target=\"_blank\">Democrats&#8217; midterm election results</a>, and while you c",
+        "published": "2026-11-05T14:30:09"
+      },
+      {
+        "source": "Wired",
+        "topic": "Innovation",
+        "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
+        "url": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
+        "summary": "Alexis Ohanian is trying to figure out what’s next for user-generated content now that so much of the internet is “compromised.”",
+        "published": "Thu, 05 Nov 2026 16:26:57 +0000"
+      },
+      {
+        "source": "Wired",
+        "topic": "Innovation",
+        "title": "Area Man Feels Joy Online for First Time in Years",
+        "url": "https://www.wired.com/story/wired-world-fair-2026-ben-collins-the-onion/",
+        "summary": "A day after the US midterm elections gave Democrats control of Congress, Onion CEO Ben Collins and comedian Patti Harrison spoke to WIRED about the salve of satire during politically fraught times.",
+        "published": "Thu, 05 Nov 2026 15:38:07 +0000"
+      },
+      {
+        "source": "Wired",
+        "topic": "Innovation",
+        "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+        "url": "https://www.wired.com/story/aina-smart-ring/",
+        "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
+        "published": "Thu, 05 Nov 2026 14:00:00 +0000"
+      },
+      {
+        "source": "Wired",
+        "topic": "Innovation",
+        "title": "Apple MacBook Pro OLED (2026) Review: The Best Comes at a Cost",
+        "url": "https://www.wired.com/review/apple-macbook-pro-oled-2026/",
+        "summary": "The new OLED MacBook Pro comes with an incredible-looking touchscreen display—and an equally eye-popping price.",
+        "published": "Thu, 05 Nov 2026 14:00:00 +0000"
+      },
+      {
+        "source": "Wired",
+        "topic": "Innovation",
+        "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+        "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+        "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
+        "published": "Thu, 05 Nov 2026 13:00:00 +0000"
+      }
+    ],
+    "Ecology": [
+      {
+        "source": "CleanTechnica",
+        "topic": "Ecology",
+        "title": "Electric Buses Need a Plan for the Next Operating Contract",
+        "url": "https://cleantechnica.com/2026/11/05/electric-bus-contract-depot-access-second-operator/",
+        "summary": "<p>Greater Manchester is entering a new stage of bus franchising. In September 2026, Go-Ahead announced that Go North West had won two Bee Network operating contracts covering 38 routes and approximately 60 buses, with service beginning in March 2027. Eighteen of those routes will operate from a new",
+        "published": "Thu, 05 Nov 2026 15:35:25 +0000"
+      },
+      {
+        "source": "CleanTechnica",
+        "topic": "Ecology",
+        "title": "Because Women: Rethinking What Freedom of Movement Can Feel Like",
+        "url": "https://cleantechnica.com/2026/11/05/because-women-rethinking-what-freedom-of-movement-can-feel-like/",
+        "summary": "<p>Most women know the unspoken checklist before getting into a car. They consider their surroundings, decide whether to chat or pretend to be on a phone call, and send a quick text to a friend with their live location, just in case. Getting from one place to another is rarely   ... [continued]</p>\n",
+        "published": "Thu, 05 Nov 2026 14:44:35 +0000"
+      },
+      {
+        "source": "CleanTechnica",
+        "topic": "Ecology",
+        "title": "The US Midterm Election Results Remind Us To Focus On The “Foundation Of Our Democracy”",
+        "url": "https://cleantechnica.com/2026/11/05/the-us-midterm-election-results-remind-us-to-focus-on-the-foundation-of-our-democracy/",
+        "summary": "<p>The country feels different as the US midterm election results come rolling in. When all of the votes are counted, Democrats are set to win the national popular vote in all House races by about 13 percentage points. The voters have spoken in huge numbers: they want leaders who make   ... [continu",
+        "published": "Thu, 05 Nov 2026 12:03:39 +0000"
+      },
+      {
+        "source": "CleanTechnica",
+        "topic": "Ecology",
+        "title": "Latin America EV Sales Report: With Over 200,000 Units Sold in Q3, EVs Now Stand at 12% Market Share!",
+        "url": "https://cleantechnica.com/2026/11/04/latin-america-ev-sales-report-with-over-200000-units-sold-in-q3-evs-now-stand-at-12-market-share/",
+        "summary": "<p>Through 2026, EVs have gained significant momentum all over the world (safe for the US), and Latin America has been no exception. Sales grew by almost 140% in the third quarter, and clock in at a very healthy 120% growth through 2026, bringing the yearly total to more than half   ... [continued]<",
+        "published": "Thu, 05 Nov 2026 04:57:51 +0000"
+      },
+      {
+        "source": "CleanTechnica",
+        "topic": "Ecology",
+        "title": "Elon Musk Threw Away $474 Million (Or More) … But May Benefit From Failing",
+        "url": "https://cleantechnica.com/2026/11/04/elon-musk-threw-away-474-million-or-more-but-may-benefit-from-failing/",
+        "summary": "<p>Some people think Elon Musk has lost his mind. Others think he&#8217;s always been a charlatan and has just had an insane amount of luck. Some people think he&#8217;s a genius and that everything he touches will turn to gold. And then there&#8217;s also a decent portion of folks who   ... [contin",
+        "published": "Thu, 05 Nov 2026 04:53:03 +0000"
+      },
+      {
+        "source": "Electrek",
+        "topic": "Ecology",
+        "title": "Tesla wants its sworn Cybercab answers to NHTSA kept entirely secret",
+        "url": "https://electrek.co/2026/11/05/tesla-cybercab-nhtsa-sworn-answers-confidential/",
+        "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Tesla has answered NHTSA’s Special Order demanding it prove, under oath, that the Cybercab meets federal safet",
+        "published": "Thu, 05 Nov 2026 18:32:57 +0000"
+      },
+      {
+        "source": "Electrek",
+        "topic": "Ecology",
+        "title": "BYD’s newest EV is about as big as a Toyota Camry, but brings a lot more tech for $23K",
+        "url": "https://electrek.co/2026/11/05/byds-newest-ev-big-as-toyota-camry-a-lot-more-tech-for-23k/",
+        "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-new-Seal-07-EV.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\"><a href=\"https://electrek.co/guides/byd/\">BYD</a> launched the new Seal 07 in China, where it starts at around",
+        "published": "Thu, 05 Nov 2026 17:52:20 +0000"
+      },
+      {
+        "source": "Electrek",
+        "topic": "Ecology",
+        "title": "Segway launches new electric motorcycle that’s so safe it has seatbelts",
+        "url": "https://electrek.co/2026/11/05/segway-launches-new-electric-motorcycle-thats-so-safe-it-has-seatbelts/",
+        "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/segway-X-cruiser-scooters-head-1.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Segway came to EICMA this year with a surprisingly broad lineup of new electric motorcycles, rang",
+        "published": "Thu, 05 Nov 2026 17:13:27 +0000"
+      },
+      {
+        "source": "Electrek",
+        "topic": "Ecology",
+        "title": "New Jersey is putting 10 MW of community solar on warehouse roofs",
+        "url": "https://electrek.co/2026/11/05/new-jersey-is-putting-10-mw-of-community-solar-on-warehouse-roofs/",
+        "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/Panel-Installation-Underway-at-Nevins-Road-Fairlawn-NJ.jpg?quality=82&#038;strip=all&#038;w=1449\" /></div><p class=\"wp-block-paragraph\" id=\"h-\">Warehouse roofs are prime real estate for solar, and Faropoint is p",
+        "published": "Thu, 05 Nov 2026 16:23:00 +0000"
+      },
+      {
+        "source": "Electrek",
+        "topic": "Ecology",
+        "title": "Toyota updates the 2027 RAV4 PHEV with an NACS port and up to 52 miles of EV range",
+        "url": "https://electrek.co/2026/11/05/toyota-updates-rav4-phev-nacs-port-52-miles-ev-range/",
+        "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/Toyota-2027-RAV4-PHEV-NACS-price.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\">The 2027 <a href=\"https://electrek.co/guides/toyota/\">Toyota</a> RAV4 is bringing a few major up",
+        "published": "Thu, 05 Nov 2026 15:40:08 +0000"
+      }
+    ],
+    "Investor": [
+      {
+        "source": "Seeking Alpha",
+        "topic": "Investor",
+        "title": "Brilliant Earth Group, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+        "url": "https://seekingalpha.com/article/4963353-brilliant-earth-group-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "summary": "",
+        "published": "Thu, 05 Nov 2026 13:32:54 -0500"
+      },
+      {
+        "source": "Seeking Alpha",
+        "topic": "Investor",
+        "title": "CS Disco, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+        "url": "https://seekingalpha.com/article/4963352-cs-disco-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "summary": "",
+        "published": "Thu, 05 Nov 2026 13:30:58 -0500"
+      },
+      {
+        "source": "Seeking Alpha",
+        "topic": "Investor",
+        "title": "Sunoco: Long-Term Distribution Growth Makes Units Attractive (Rating Upgrade)",
+        "url": "https://seekingalpha.com/article/4963297-sunoco-long-term-distribution-growth-makes-units-attractive-upgrade?source=feed_all_articles",
+        "summary": "",
+        "published": "Thu, 05 Nov 2026 13:28:07 -0500"
+      },
+      {
+        "source": "Seeking Alpha",
+        "topic": "Investor",
+        "title": "CrowdStrike: Flawless Execution, But The Price Of Admission Is High",
+        "url": "https://seekingalpha.com/article/4963296-crowdstrike-flawless-execution-but-the-price-of-admission-is-high?source=feed_all_articles",
+        "summary": "",
+        "published": "Thu, 05 Nov 2026 13:27:05 -0500"
+      },
+      {
+        "source": "Seeking Alpha",
+        "topic": "Investor",
+        "title": "Gold Royalty Corp. (GROY) Q3 2026 Earnings Call Transcript",
+        "url": "https://seekingalpha.com/article/4963283-gold-royalty-corp-groy-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "summary": "",
+        "published": "Thu, 05 Nov 2026 13:25:02 -0500"
+      },
+      {
+        "source": "Bloomberg Markets",
+        "topic": "Investor",
+        "title": "Hedge Fund Adviser LB Macro Sees US Midterms Boosting Dollar",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-05/hedge-fund-adviser-lb-macro-sees-us-midterms-boosting-the-dollar",
+        "summary": "Dollar bears may be misinterpreting the impact of US President Donald Trump’s setback in the midterm elections, according to a former head of strategy at Brevan Howard Asset Management.",
+        "published": "Thu, 05 Nov 2026 13:27:17 GMT"
+      },
+      {
+        "source": "Bloomberg Markets",
+        "topic": "Investor",
+        "title": "S&P 500 Sinks 4% as AI Washout Rattles Wall Street: Markets Wrap",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates",
+        "summary": "A post-election slide in chipmakers snowballed as investors bailed from technology shares on speculation that congressional Democrats will clamp down on the artificial-intelligence industry.",
+        "published": "Wed, 04 Nov 2026 22:15:04 GMT"
+      },
+      {
+        "source": "Bloomberg Markets",
+        "topic": "Investor",
+        "title": "US Selloff Deepens as Democrat Sweep Sparks AI Exposure Worries",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day",
+        "summary": "Technology stocks plunged on Thursday as traders assessed the implication of a Democratic sweep in the US midterm elections on artificial intelligence.",
+        "published": "Thu, 05 Nov 2026 12:54:02 GMT"
+      },
+      {
+        "source": "Bloomberg Markets",
+        "topic": "Investor",
+        "title": "Argentina Bonds Drop as Market Flags Intervention in Peso Debt",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-05/argentina-bonds-drop-as-market-flags-intervention-in-peso-debt",
+        "summary": "Argentina’s sovereign peso bonds fell Thursday after a surge in trading and prices the day before raised speculation that the government was intervening to push down borrowing costs ahead of key Treasury auctions.",
+        "published": "Thu, 05 Nov 2026 18:17:34 GMT"
+      },
+      {
+        "source": "Bloomberg Markets",
+        "topic": "Investor",
+        "title": "Treasuries Soar as Tech-Stock Selloff Stokes Haven Demand",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-05/treasuries-extend-advance-as-technology-shares-resume-slide",
+        "summary": "Treasuries surged as a Democratic sweep in the US midterms led to a selloff in shares of large US technology companies, stoking demand for havens.",
+        "published": "Thu, 05 Nov 2026 15:54:44 GMT"
+      }
+    ]
+  },
+  "all_posts": [
+    {
+      "source": "HubSpot Marketing",
+      "topic": "Marketing",
+      "title": "What is RAG in AI? A plain-English guide for marketers",
+      "url": "https://blog.hubspot.com/marketing/rag-in-ai",
+      "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/rag-in-ai\" title=\"\"> <img alt=\"what is retrieval augmented generation (rag) and why should marketers care\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/blogbot/what-i",
+      "published": "Thu, 05 Nov 2026 16:15:05 GMT"
+    },
+    {
+      "source": "HubSpot Marketing",
+      "topic": "Marketing",
+      "title": "How to find and fix your AEO keywords gap",
+      "url": "https://blog.hubspot.com/marketing/aeo-keyword-gap-analysis",
+      "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/aeo-keyword-gap-analysis\" title=\"\"> <img alt=\"aeo keyword gap\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/blogbot/aeo-keywords-gap-featured-5331406.webp\" style=\"wid",
+      "published": "Wed, 04 Nov 2026 14:50:06 GMT"
+    },
+    {
+      "source": "HubSpot Marketing",
+      "topic": "Marketing",
+      "title": "How do I benchmark my AI search performance against my industry?",
+      "url": "https://blog.hubspot.com/marketing/ai-search-industry-benchmarks",
+      "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/ai-search-industry-benchmarks\" title=\"\"> <img alt=\"ai search benchmarks\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/blogbot/how-do-i-benchmark-my-ai-search-performa",
+      "published": "Wed, 04 Nov 2026 14:40:07 GMT"
+    },
+    {
+      "source": "HubSpot Marketing",
+      "topic": "Marketing",
+      "title": "Claude integrations worth adding to your GTM stack",
+      "url": "https://blog.hubspot.com/marketing/claude-integrations",
+      "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/claude-integrations\" title=\"\"> <img alt=\"Illustrated hands working on a design layout with Claude integrations text overlay\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hu",
+      "published": "Tue, 03 Nov 2026 14:40:06 GMT"
+    },
+    {
+      "source": "HubSpot Marketing",
+      "topic": "Marketing",
+      "title": "AI maturity in marketing: What the research reveals",
+      "url": "https://blog.hubspot.com/marketing/ai-maturity",
+      "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/ai-maturity\" title=\"\"> <img alt=\"ai maturity\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/blogbot/ai-maturity-featured-3697605.webp\" style=\"width: auto !important; f",
+      "published": "Mon, 02 Nov 2026 17:50:05 GMT"
+    },
+    {
+      "source": "Neil Patel",
+      "topic": "Marketing",
+      "title": "XML Sitemap Optimization: How to Improve Crawlability",
+      "url": "https://neilpatel.com/blog/xml-sitemap/",
+      "summary": "Key Takeaways Most websites have an XML sitemap. A lot of those sitemaps aren’t optimized, though.&#160; That means site owners are missing a golden opportunity to improve their SEO and gain an edge over competing brands. Your sitemap gives search engines a roadmap to the content you want them to fi",
+      "published": "Wed, 04 Nov 2026 20:00:00 +0000"
+    },
+    {
+      "source": "Neil Patel",
+      "topic": "Marketing",
+      "title": "Answer Engine Optimization: How to Improve AI Visibility",
+      "url": "https://neilpatel.com/blog/answer-engine-optimization/",
+      "summary": "Key Takeaways More than half of searches in 2025 don’t lead anywhere. People get answers from ChatGPT, Perplexity, Google AI Overviews, and Gemini without clicking a single link. Google’s AI Mode takes this even further. It turns search into a full conversation and already has more than 1 billion mo",
+      "published": "Fri, 30 Oct 2026 07:00:00 +0000"
+    },
+    {
+      "source": "Neil Patel",
+      "topic": "Marketing",
+      "title": "How to Teach Content Strategy to Stakeholders Who Don’t Speak Marketing",
+      "url": "https://neilpatel.com/blog/teach-content-strategy-to-stakeholders/",
+      "summary": "Key Takeaways Most content strategies don&#8217;t fail on their merits. They stall out because content strategy buy-in never arrives from the person who funds the work, approves it, or executes part of it. That might be a client-side VP, your own executive team, a sales director, or a legal reviewer",
+      "published": "Wed, 28 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "source": "Neil Patel",
+      "topic": "Marketing",
+      "title": "Ubersuggest Now Lives Inside Claude. Here’s What It Can Actually Do",
+      "url": "https://neilpatel.com/blog/ubersuggest-inside-claude/",
+      "summary": "Key Takeaways You already use Claude to write, think, and plan. You draft the content brief, outline the client report, work through a strategy question out loud. But the moment you need a real number: search volume, a competitor&#8217;s ranking keywords, what&#8217;s actually broken on a site, you ",
+      "published": "Mon, 26 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "source": "Neil Patel",
+      "topic": "Marketing",
+      "title": "The 4 Ps of Marketing: Product, Price, Place, and Promotion",
+      "url": "https://neilpatel.com/blog/4-ps-of-marketing/",
+      "summary": "Key Takeaways The 4 Ps of marketing (product, price, place, and promotion) have been around for decades, and they still drive decisions around every successful product launch. Also known as the “marketing mix,” they help you think through how to bring a product to market and reach the customers most",
+      "published": "Fri, 23 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "source": "Smashing Magazine",
+      "topic": "Design",
+      "title": "Making Immersive LLM Chat Experiences More Accessible",
+      "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+      "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more acce",
+      "published": "Thu, 05 Nov 2026 13:00:00 GMT"
+    },
+    {
+      "source": "Smashing Magazine",
+      "topic": "Design",
+      "title": "Modern CSS Might Make Your Front-End More Complex",
+      "url": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
+      "summary": "Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migrati",
+      "published": "Tue, 03 Nov 2026 10:00:00 GMT"
+    },
+    {
+      "source": "Smashing Magazine",
+      "topic": "Design",
+      "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
+      "url": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
+      "summary": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
+      "published": "Sat, 31 Oct 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Smashing Magazine",
+      "topic": "Design",
+      "title": "Accordion Icons: Which Work Best?",
+      "url": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
+      "summary": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](ht",
+      "published": "Fri, 23 Oct 2026 13:00:00 GMT"
+    },
+    {
+      "source": "Smashing Magazine",
+      "topic": "Design",
+      "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+      "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+      "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loop",
+      "published": "Tue, 20 Oct 2026 10:00:00 GMT"
+    },
+    {
+      "source": "Creative Bloq",
+      "topic": "Design",
+      "title": "Some of the best-rated markers for art are reduced by up to 26% for Black Friday",
+      "url": "https://www.creativebloq.com/deals/some-of-the-best-rated-markers-for-art-are-reduced-by-up-to-26-percent-for-black-friday",
+      "summary": "Ohuhu's sets are a Creative Bloq favourite, suitable for both kids and pro artists.",
+      "published": "Thu, 05 Nov 2026 18:00:00 +0000"
+    },
+    {
+      "source": "Creative Bloq",
+      "topic": "Design",
+      "title": "“If we loved him, we had a movie”: the directors who had to make the Cat in the Hat likeable",
+      "url": "https://www.creativebloq.com/news/the-cat-in-the-hat-2026-warner-bros-animation-3d-look",
+      "summary": "Alessandro Carloni and Erica Rivinoja on reinventing a book everyone thinks they know, and the one problem that could have sunk the whole film.",
+      "published": "Thu, 05 Nov 2026 16:00:00 +0000"
+    },
+    {
+      "source": "Creative Bloq",
+      "topic": "Design",
+      "title": "Dior's Christmas ad is the opposite to Prada's classy animation",
+      "url": "https://www.creativebloq.com/news/diors-christmas-ad-is-the-opposite-to-pradas-classy-animation",
+      "summary": "An all star cast and leading director aren’t enough to distract eagle eyed critics.",
+      "published": "Thu, 05 Nov 2026 15:00:00 +0000"
+    },
+    {
+      "source": "Creative Bloq",
+      "topic": "Design",
+      "title": "Nvidia DLSS 5 AI in Hogwarts Legacy is the opposite of what everyone expected",
+      "url": "https://www.creativebloq.com/news/nvidia-dlss-5-in-hogwarts-legacy-has-sparked-a-whole-different-controversy",
+      "summary": "Did the backlash make Nvidia nerf the AI tech?",
+      "published": "Thu, 05 Nov 2026 14:31:46 +0000"
+    },
+    {
+      "source": "Creative Bloq",
+      "topic": "Design",
+      "title": "Get 87% off Hostinger web builder with this exclusive Black Friday code",
+      "url": "https://www.creativebloq.com/deals/get-87-percent-off-hostinger-web-builder-with-this-exclusive-black-friday-code",
+      "summary": "There's a $133 upfront fee, then you pay £2.50 every month!",
+      "published": "Thu, 05 Nov 2026 14:03:39 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "topic": "Tech",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "summary": "OpenAI President Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
+      "published": "Thu, 05 Nov 2026 18:02:27 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "topic": "Tech",
+      "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+      "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "published": "Thu, 05 Nov 2026 18:00:00 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "topic": "Tech",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+      "published": "Thu, 05 Nov 2026 18:00:00 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "topic": "Tech",
+      "title": "Harbinger raises $240M after expanding into defense",
+      "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+      "summary": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
+      "published": "Thu, 05 Nov 2026 17:52:44 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "topic": "Tech",
+      "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+      "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+      "summary": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
+      "published": "Thu, 05 Nov 2026 17:11:48 +0000"
+    },
+    {
+      "source": "The Verge",
+      "topic": "Tech",
+      "title": "EA is bringing 25 classic PC games to Steam",
+      "url": "https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition",
+      "summary": "Electronic Arts is launching 25 classic games on Steam, including \"Anniversary Editions\" of the motorcycle racer Road Rash and six Wing Commander titles. These Anniversary Editions preserve \"the original look, feel and creative intent of the game\" but also have quality-of-life updates to support mod",
+      "published": "2026-11-05T13:30:00-05:00"
+    },
+    {
+      "source": "The Verge",
+      "topic": "Tech",
+      "title": "Claude AI can plug directly into your bank account",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create",
+      "published": "2026-11-05T13:00:00-05:00"
+    },
+    {
+      "source": "The Verge",
+      "topic": "Tech",
+      "title": "‘Total repudiation’: The blue wave is about to hit AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+      "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico, and",
+      "published": "2026-11-05T12:51:52-05:00"
+    },
+    {
+      "source": "The Verge",
+      "topic": "Tech",
+      "title": "Ember’s smallest self-heating mug is on sale for just $33",
+      "url": "https://www.theverge.com/gadgets/1027689/ember-cup-6-ounce-woot-kitchen-sale-deal",
+      "summary": "We’ve been fans of Ember’s temperature-controlled mugs for years, though given the price tag, we admit that they’re somewhat of a luxury purchase. Thankfully, if you&#8217;ve been looking for a more affordable option, Woot is selling the Ember Cup in black for $32.99 ($67 off) with a 90-day warranty",
+      "published": "2026-11-05T12:34:23-05:00"
+    },
+    {
+      "source": "The Verge",
+      "topic": "Tech",
+      "title": "TikTok launched a dedicated TikTok Shop app",
+      "url": "https://www.theverge.com/tech/1027772/tiktok-shop-app",
+      "summary": "TikTok has released a standalone app for TikTok Shop in a few countries, as spotted by social media consultant Matt Navarra. According to its App Store listing, the TikTok Shop app offers: - Personalized picks inspired by your interests - LIVE streams &#38; short videos to see products in action - A",
+      "published": "2026-11-05T12:27:36-05:00"
+    },
+    {
+      "source": "The Brick Fan",
+      "topic": "Lego",
+      "title": "LEGO Reindeer Make & Take – November 13",
+      "url": "https://www.thebrickfan.com/lego-reindeer-make-take-november-13/",
+      "summary": "<p><center><a href=\"https://click.linksynergy.com/deeplink?id=LNtsWdwRzsQ&#038;mid=13923&#038;murl=https%3a%2f%2fwww.lego.com%2fen-us%2fstores%2fevents%2flbr-26-make-and-take-reindeer\" target=\"_blank\"><img src=\"https://www.lego.com/cdn/cs/set/assets/blt0a2b76d4541e01c7/LBR2625_Holiday_Reindeer_M&#03",
+      "published": "Thu, 05 Nov 2026 15:52:19 +0000"
+    },
+    {
+      "source": "The Brick Fan",
+      "topic": "Lego",
+      "title": "LEGO Ideas Projects Currently Under Development – November 2026 Update",
+      "url": "https://www.thebrickfan.com/lego-ideas-projects-currently-under-development-november-2026-update/",
+      "summary": "<p><center><img src=\"https://ideascdn.lego.com/media/generate/lego_ci/d4d991f4-26fb-401d-ae5b-a9024cacf23f/resize:950:633/legacy\" width=\"600/\" /></center></p>\n<p>It&#8217;s been a few months since our last update for the LEGO Ideas projects that are still under development and there have been a lot ",
+      "published": "Wed, 04 Nov 2026 17:04:25 +0000"
+    },
+    {
+      "source": "The Brick Fan",
+      "topic": "Lego",
+      "title": "LEGO Ideas Godzilla (21375) Officially Announced",
+      "url": "https://www.thebrickfan.com/lego-ideas-godzilla-21375-officially-announced/",
+      "summary": "<p><center><a href=\"https://click.linksynergy.com/deeplink?id=LNtsWdwRzsQ&#038;mid=13923&#038;murl=https%3a%2f%2fwww.lego.com%2fen-us%2fproduct%2fgodzilla-21375\" target=\"_blank\"><img src=\"https://www.thebrickfan.com/wp-content/uploads/2026/11/LEGO-Ideas-Godzilla-21375.jpg\" width=\"600/\" /></a></cente",
+      "published": "Tue, 03 Nov 2026 14:01:12 +0000"
+    },
+    {
+      "source": "The Brick Fan",
+      "topic": "Lego",
+      "title": "LEGO Gabby’s Dollhouse and Doozie’s Doghouse (11227) Revealed",
+      "url": "https://www.thebrickfan.com/lego-gabbys-dollhouse-and-doozies-doghouse-11227-revealed/",
+      "summary": "<p><center><a href=\"https://click.linksynergy.com/deeplink?id=LNtsWdwRzsQ&#038;mid=13923&#038;murl=https%3a%2f%2fwww.lego.com%2fen-us%2fproduct%2fgabbys-dollhouse-and-doozies-doghouse-11227\" target=\"_blank\"><img src=\"https://www.thebrickfan.com/wp-content/uploads/2026/11/LEGO-Gabbys-Dollhouse-and-Do",
+      "published": "Mon, 02 Nov 2026 14:54:22 +0000"
+    },
+    {
+      "source": "The Brick Fan",
+      "topic": "Lego",
+      "title": "LEGO One Piece Battle at Drum Castle (75645) Review",
+      "url": "https://www.thebrickfan.com/lego-one-piece-battle-at-drum-castle-75645-review/",
+      "summary": "<p><center><a href=\"https://www.flickr.com/photos/tormentalous/55625815413/in/dateposted/\" target=\"_blank\" title=\"LEGO One Piece Battle at Drum Castle (75645)\"><img alt=\"LEGO One Piece Battle at Drum Castle (75645)\" height=\"640\" src=\"https://live.staticflickr.com/65535/55625815413_cab4045825_z.jpg\" ",
+      "published": "Sun, 01 Nov 2026 20:43:28 +0000"
+    },
+    {
+      "source": "Brickset",
+      "topic": "Lego",
+      "title": "Poll: Which is your favourite modular building?",
+      "url": "https://brickset.com/article/135935",
+      "summary": "<img alt=\"Poll: Which is your favourite modular building?\" src=\"https://images.brickset.com/news/thumbs/large/135935_mbc.jpg\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>It's approaching the time of year when the next modular building will be revealed, so ahead of that we are going to find out ",
+      "published": "Thu, 05 Nov 2026 14:00:00 GMT"
+    },
+    {
+      "source": "Brickset",
+      "topic": "Lego",
+      "title": "Random set of the day: FXX",
+      "url": "https://brickset.com/article/135928",
+      "summary": "<img alt=\"Random set of the day: FXX\" src=\"https://images.brickset.com/sets/small/30195-1.jpg\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Today's random set is <a href=\"https://brickset.com/sets/30195-1\">30195</a> FXX, released during 2012. It's one of <a href=\"https://brickset.com/sets/theme-",
+      "published": "Thu, 05 Nov 2026 03:01:02 GMT"
+    },
+    {
+      "source": "Brickset",
+      "topic": "Lego",
+      "title": "Random figure of the day: njo0812",
+      "url": "https://brickset.com/article/135927",
+      "summary": "<img alt=\"Random figure of the day: njo0812\" src=\"https://img.bricklink.com/ItemImage/MN/0/njo0812.png\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Today's random figure is <a href=\"https://brickset.com/minifigs/njo0812\">njo0812</a> <em>Lord Ras - Dark Red Robe, Pearl Gold Shoulder Armor</em>, ",
+      "published": "Thu, 05 Nov 2026 02:01:02 GMT"
+    },
+    {
+      "source": "Brickset",
+      "topic": "Lego",
+      "title": "BuWizz 4.0 launches on KickStarter",
+      "url": "https://brickset.com/article/135926",
+      "summary": "<img alt=\"BuWizz 4.0 launches on KickStarter\" src=\"https://images.brickset.com/news/thumbs/large/135926_IRP_6951.jpg\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Ten years after the original BuWizz brick was launched, the team are back with a new, more powerful version on <a href=\"https://www.k",
+      "published": "Wed, 04 Nov 2026 16:00:00 GMT"
+    },
+    {
+      "source": "Brickset",
+      "topic": "Lego",
+      "title": "Random set of the day: Volcano Supply Helicopter",
+      "url": "https://brickset.com/article/135916",
+      "summary": "<img alt=\"Random set of the day: Volcano Supply Helicopter\" src=\"https://images.brickset.com/sets/small/60123-1.jpg\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Today's random set is <a href=\"https://brickset.com/sets/60123-1\">60123</a> Volcano Supply Helicopter, released during 2016. It's one ",
+      "published": "Wed, 04 Nov 2026 03:01:03 GMT"
+    },
+    {
+      "source": "Brothers Brick",
+      "topic": "Lego",
+      "title": "Rounding up a year of The Legend of Zelda builds in preparation for Ocarina of Time",
+      "url": "https://www.brothers-brick.com/2026/11/04/rounding-up-a-year-of-the-legend-of-zelda-builds-in-preparation-for-ocarina-of-time/",
+      "summary": "<p>With the long-awaited remake of The Legend of Zelda: Ocarina of Time releasing this week, there&#8217;s no better time to take a look at just a handful of the incredible Zelda builds we&#8217;ve marveled at this year. Despite the franchise&#8217;s popularity, it&#8217;s been surprisingly under-re",
+      "published": "Wed, 04 Nov 2026 20:01:41 +0000"
+    },
+    {
+      "source": "Brothers Brick",
+      "topic": "Lego",
+      "title": "LEGO Ideas 21375 Godzilla: Size does matter [Review]",
+      "url": "https://www.brothers-brick.com/2026/11/04/lego-ideas-21375-godzilla-size-does-matter-review/",
+      "summary": "<p>Few movie monsters command a screen quite like Godzilla. There&#8217;s the colossal bulk, the jagged row of dorsal fins, and that blue-white atomic breath: an image so iconic it has been flattening cinema&#8217;s skylines, and its insurance premiums, for decades. Now the King of the Monsters arri",
+      "published": "Wed, 04 Nov 2026 14:30:12 +0000"
+    },
+    {
+      "source": "Brothers Brick",
+      "topic": "Lego",
+      "title": "The return of the King (of the Lizards): LEGO reveals 5,000-piece Godzilla set [News]",
+      "url": "https://www.brothers-brick.com/2026/11/03/the-return-of-the-king-of-the-lizards-lego-reveals-5000-piece-godzilla-set-news/",
+      "summary": "<p>Are you the owner of a LEGO town or cityscape, perhaps lovingly tended over years of collecting and building? If so, beware! There&#8217;s a new LEGO kaiju on the horizon &#8211; the kaiju, in fact. 21375 Godzilla is the next set to come from the LEGO Ideas platform. With 5,363 pieces, this new s",
+      "published": "Tue, 03 Nov 2026 14:00:43 +0000"
+    },
+    {
+      "source": "Brothers Brick",
+      "topic": "Lego",
+      "title": "This lean, mean, green LEGO machine will have you looking twice",
+      "url": "https://www.brothers-brick.com/2026/11/02/this-lean-mean-green-lego-machine-will-have-you-looking-twice/",
+      "summary": "<p>LEGO builder Vince Toulouse has been honing their style for years, perfecting the art of smooth, swooping curves and luxurious colors to create vehicles with a retro-futuristic flair. This latest build, an insect-inspired steampunk flying machine is jaw-dropping not only in scale, but also brilli",
+      "published": "Mon, 02 Nov 2026 14:00:54 +0000"
+    },
+    {
+      "source": "Brothers Brick",
+      "topic": "Lego",
+      "title": "LEGO Icons 11388 Venetian Neighbourhood & 40898 Venetian Water Taxi GWP [Review]",
+      "url": "https://www.brothers-brick.com/2026/11/01/lego-icons-11388-venetian-neighbourhood-40898-venetian-water-taxi-gwp-review/",
+      "summary": "<p>Tourists really are spoilt for choice when it comes to visiting Italy. Great food, wonderful nature, millennia of history that you can sometimes literally walk through &#8211; there are fantastic destinations all over the country. Even with this embarassment of riches, the city of Venice stands o",
+      "published": "Sun, 01 Nov 2026 20:00:24 +0000"
+    },
+    {
+      "source": "MIT Technology Review",
+      "topic": "Innovation",
+      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground ",
+      "published": "Thu, 05 Nov 2026 13:10:00 +0000"
+    },
+    {
+      "source": "MIT Technology Review",
+      "topic": "Innovation",
+      "title": "A new bill could change how the US builds energy infrastructure",
+      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+      "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan th",
+      "published": "Thu, 05 Nov 2026 10:00:00 +0000"
+    },
+    {
+      "source": "MIT Technology Review",
+      "topic": "Innovation",
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for govern",
+      "published": "Wed, 04 Nov 2026 18:50:55 +0000"
+    },
+    {
+      "source": "MIT Technology Review",
+      "topic": "Innovation",
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring pos",
+      "published": "Wed, 04 Nov 2026 18:21:40 +0000"
+    },
+    {
+      "source": "MIT Technology Review",
+      "topic": "Innovation",
+      "title": "What’s next for US energy policy after the midterm elections?",
+      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+      "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump’s victory two",
+      "published": "Wed, 04 Nov 2026 17:08:00 +0000"
+    },
+    {
+      "source": "Fast Company",
+      "topic": "Innovation",
+      "title": "7 ways the midterms may affect the AI boom",
+      "url": "https://www.fastcompany.com/91635796/7-ways-the-midterms-may-affect-the-ai-boom",
+      "summary": "<p class=\"wp-block-paragraph\"><em>Welcome to</em> <a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">AI</a> Decoded<em>, </em>Fast Company<em>&#8216;s weekly newsletter that breaks down the most important news in the world of AI. I&#8217;m Mark Sullivan, a senior writer",
+      "published": "2026-11-05T17:00:00"
+    },
+    {
+      "source": "Fast Company",
+      "topic": "Innovation",
+      "title": "Nintendo reports profit is up 11%, but sales slipped for the first half of the fiscal year",
+      "url": "https://www.fastcompany.com/91636371/nintendo-reports-profit-up-11-but-sales-slipped-first-half-fiscal-year",
+      "summary": "<p class=\"wp-block-paragraph\"><a href=\"https://www.fastcompany.com/91622966/why-nintendo-is-sticking-with-physical-video-games-for-now\">Japanese video-game maker Nintendo</a> reported Thursday an 11% improvement in its net profit in the first half of the fiscal year, although its sales declined duri",
+      "published": "2026-11-05T16:32:17"
+    },
+    {
+      "source": "Fast Company",
+      "topic": "Innovation",
+      "title": "100,000 polled voters delivered a midterm verdict on Trump’s economy. Here are 4 takeaways",
+      "url": "https://www.fastcompany.com/91636357/100000-polled-voters-delivered-midterm-verdict-trumps-economy-here-4-takeaways",
+      "summary": "<p class=\"wp-block-paragraph\">President Donald Trump was publicly <a href=\"https://www.fastcompany.com/91420903/trump-declares-inflation-defeated-but-many-americans-are-feeling-the-burden-of-high-prices\">humbled by inflation</a> in the <a href=\"https://www.fastcompany.com/91635441/how-trump-gop-lost",
+      "published": "2026-11-05T15:30:42"
+    },
+    {
+      "source": "Fast Company",
+      "topic": "Innovation",
+      "title": "Chase Sapphire Reserve is making a major change to its luxury travel perks in 2027",
+      "url": "https://www.fastcompany.com/91634577/chase-sapphire-reserve-is-making-a-major-change-to-its-luxury-travel-perks-in-2027",
+      "summary": "<p class=\"wp-block-paragraph\">Chase is giving its premium credit cardholders a new way to use their travel benefits for stays: vacation homes.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Starting January, Chase Travel will expand The Edit, its curated collection of luxury hotels and resorts, to include mor",
+      "published": "2026-11-05T15:13:15"
+    },
+    {
+      "source": "Fast Company",
+      "topic": "Innovation",
+      "title": "The blue heart is the unofficial emoji of libbing out",
+      "url": "https://www.fastcompany.com/91635781/the-blue-heart-is-the-unofficial-emoji-of-libbing-out",
+      "summary": "<p class=\"wp-block-paragraph\">The blue heart emoji is having a moment among those celebrating <a href=\"https://www.fastcompany.com/91635531/this-map-shows-just-how-big-democrats-won-the-midterms\" rel=\"noreferrer noopener\" target=\"_blank\">Democrats&#8217; midterm election results</a>, and while you c",
+      "published": "2026-11-05T14:30:09"
+    },
+    {
+      "source": "Wired",
+      "topic": "Innovation",
+      "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
+      "summary": "Alexis Ohanian is trying to figure out what’s next for user-generated content now that so much of the internet is “compromised.”",
+      "published": "Thu, 05 Nov 2026 16:26:57 +0000"
+    },
+    {
+      "source": "Wired",
+      "topic": "Innovation",
+      "title": "Area Man Feels Joy Online for First Time in Years",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-ben-collins-the-onion/",
+      "summary": "A day after the US midterm elections gave Democrats control of Congress, Onion CEO Ben Collins and comedian Patti Harrison spoke to WIRED about the salve of satire during politically fraught times.",
+      "published": "Thu, 05 Nov 2026 15:38:07 +0000"
+    },
+    {
+      "source": "Wired",
+      "topic": "Innovation",
+      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+      "url": "https://www.wired.com/story/aina-smart-ring/",
+      "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
+      "published": "Thu, 05 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "source": "Wired",
+      "topic": "Innovation",
+      "title": "Apple MacBook Pro OLED (2026) Review: The Best Comes at a Cost",
+      "url": "https://www.wired.com/review/apple-macbook-pro-oled-2026/",
+      "summary": "The new OLED MacBook Pro comes with an incredible-looking touchscreen display—and an equally eye-popping price.",
+      "published": "Thu, 05 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "source": "Wired",
+      "topic": "Innovation",
+      "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+      "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+      "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
+      "published": "Thu, 05 Nov 2026 13:00:00 +0000"
+    },
+    {
+      "source": "CleanTechnica",
+      "topic": "Ecology",
+      "title": "Electric Buses Need a Plan for the Next Operating Contract",
+      "url": "https://cleantechnica.com/2026/11/05/electric-bus-contract-depot-access-second-operator/",
+      "summary": "<p>Greater Manchester is entering a new stage of bus franchising. In September 2026, Go-Ahead announced that Go North West had won two Bee Network operating contracts covering 38 routes and approximately 60 buses, with service beginning in March 2027. Eighteen of those routes will operate from a new",
+      "published": "Thu, 05 Nov 2026 15:35:25 +0000"
+    },
+    {
+      "source": "CleanTechnica",
+      "topic": "Ecology",
+      "title": "Because Women: Rethinking What Freedom of Movement Can Feel Like",
+      "url": "https://cleantechnica.com/2026/11/05/because-women-rethinking-what-freedom-of-movement-can-feel-like/",
+      "summary": "<p>Most women know the unspoken checklist before getting into a car. They consider their surroundings, decide whether to chat or pretend to be on a phone call, and send a quick text to a friend with their live location, just in case. Getting from one place to another is rarely   ... [continued]</p>\n",
+      "published": "Thu, 05 Nov 2026 14:44:35 +0000"
+    },
+    {
+      "source": "CleanTechnica",
+      "topic": "Ecology",
+      "title": "The US Midterm Election Results Remind Us To Focus On The “Foundation Of Our Democracy”",
+      "url": "https://cleantechnica.com/2026/11/05/the-us-midterm-election-results-remind-us-to-focus-on-the-foundation-of-our-democracy/",
+      "summary": "<p>The country feels different as the US midterm election results come rolling in. When all of the votes are counted, Democrats are set to win the national popular vote in all House races by about 13 percentage points. The voters have spoken in huge numbers: they want leaders who make   ... [continu",
+      "published": "Thu, 05 Nov 2026 12:03:39 +0000"
+    },
+    {
+      "source": "CleanTechnica",
+      "topic": "Ecology",
+      "title": "Latin America EV Sales Report: With Over 200,000 Units Sold in Q3, EVs Now Stand at 12% Market Share!",
+      "url": "https://cleantechnica.com/2026/11/04/latin-america-ev-sales-report-with-over-200000-units-sold-in-q3-evs-now-stand-at-12-market-share/",
+      "summary": "<p>Through 2026, EVs have gained significant momentum all over the world (safe for the US), and Latin America has been no exception. Sales grew by almost 140% in the third quarter, and clock in at a very healthy 120% growth through 2026, bringing the yearly total to more than half   ... [continued]<",
+      "published": "Thu, 05 Nov 2026 04:57:51 +0000"
+    },
+    {
+      "source": "CleanTechnica",
+      "topic": "Ecology",
+      "title": "Elon Musk Threw Away $474 Million (Or More) … But May Benefit From Failing",
+      "url": "https://cleantechnica.com/2026/11/04/elon-musk-threw-away-474-million-or-more-but-may-benefit-from-failing/",
+      "summary": "<p>Some people think Elon Musk has lost his mind. Others think he&#8217;s always been a charlatan and has just had an insane amount of luck. Some people think he&#8217;s a genius and that everything he touches will turn to gold. And then there&#8217;s also a decent portion of folks who   ... [contin",
+      "published": "Thu, 05 Nov 2026 04:53:03 +0000"
+    },
+    {
+      "source": "Electrek",
+      "topic": "Ecology",
+      "title": "Tesla wants its sworn Cybercab answers to NHTSA kept entirely secret",
+      "url": "https://electrek.co/2026/11/05/tesla-cybercab-nhtsa-sworn-answers-confidential/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Tesla has answered NHTSA’s Special Order demanding it prove, under oath, that the Cybercab meets federal safet",
+      "published": "Thu, 05 Nov 2026 18:32:57 +0000"
+    },
+    {
+      "source": "Electrek",
+      "topic": "Ecology",
+      "title": "BYD’s newest EV is about as big as a Toyota Camry, but brings a lot more tech for $23K",
+      "url": "https://electrek.co/2026/11/05/byds-newest-ev-big-as-toyota-camry-a-lot-more-tech-for-23k/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-new-Seal-07-EV.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\"><a href=\"https://electrek.co/guides/byd/\">BYD</a> launched the new Seal 07 in China, where it starts at around",
+      "published": "Thu, 05 Nov 2026 17:52:20 +0000"
+    },
+    {
+      "source": "Electrek",
+      "topic": "Ecology",
+      "title": "Segway launches new electric motorcycle that’s so safe it has seatbelts",
+      "url": "https://electrek.co/2026/11/05/segway-launches-new-electric-motorcycle-thats-so-safe-it-has-seatbelts/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/segway-X-cruiser-scooters-head-1.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Segway came to EICMA this year with a surprisingly broad lineup of new electric motorcycles, rang",
+      "published": "Thu, 05 Nov 2026 17:13:27 +0000"
+    },
+    {
+      "source": "Electrek",
+      "topic": "Ecology",
+      "title": "New Jersey is putting 10 MW of community solar on warehouse roofs",
+      "url": "https://electrek.co/2026/11/05/new-jersey-is-putting-10-mw-of-community-solar-on-warehouse-roofs/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/Panel-Installation-Underway-at-Nevins-Road-Fairlawn-NJ.jpg?quality=82&#038;strip=all&#038;w=1449\" /></div><p class=\"wp-block-paragraph\" id=\"h-\">Warehouse roofs are prime real estate for solar, and Faropoint is p",
+      "published": "Thu, 05 Nov 2026 16:23:00 +0000"
+    },
+    {
+      "source": "Electrek",
+      "topic": "Ecology",
+      "title": "Toyota updates the 2027 RAV4 PHEV with an NACS port and up to 52 miles of EV range",
+      "url": "https://electrek.co/2026/11/05/toyota-updates-rav4-phev-nacs-port-52-miles-ev-range/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/Toyota-2027-RAV4-PHEV-NACS-price.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\">The 2027 <a href=\"https://electrek.co/guides/toyota/\">Toyota</a> RAV4 is bringing a few major up",
+      "published": "Thu, 05 Nov 2026 15:40:08 +0000"
+    },
+    {
+      "source": "Seeking Alpha",
+      "topic": "Investor",
+      "title": "Brilliant Earth Group, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+      "url": "https://seekingalpha.com/article/4963353-brilliant-earth-group-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+      "summary": "",
+      "published": "Thu, 05 Nov 2026 13:32:54 -0500"
+    },
+    {
+      "source": "Seeking Alpha",
+      "topic": "Investor",
+      "title": "CS Disco, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+      "url": "https://seekingalpha.com/article/4963352-cs-disco-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+      "summary": "",
+      "published": "Thu, 05 Nov 2026 13:30:58 -0500"
+    },
+    {
+      "source": "Seeking Alpha",
+      "topic": "Investor",
+      "title": "Sunoco: Long-Term Distribution Growth Makes Units Attractive (Rating Upgrade)",
+      "url": "https://seekingalpha.com/article/4963297-sunoco-long-term-distribution-growth-makes-units-attractive-upgrade?source=feed_all_articles",
+      "summary": "",
+      "published": "Thu, 05 Nov 2026 13:28:07 -0500"
+    },
+    {
+      "source": "Seeking Alpha",
+      "topic": "Investor",
+      "title": "CrowdStrike: Flawless Execution, But The Price Of Admission Is High",
+      "url": "https://seekingalpha.com/article/4963296-crowdstrike-flawless-execution-but-the-price-of-admission-is-high?source=feed_all_articles",
+      "summary": "",
+      "published": "Thu, 05 Nov 2026 13:27:05 -0500"
+    },
+    {
+      "source": "Seeking Alpha",
+      "topic": "Investor",
+      "title": "Gold Royalty Corp. (GROY) Q3 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4963283-gold-royalty-corp-groy-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "summary": "",
+      "published": "Thu, 05 Nov 2026 13:25:02 -0500"
+    },
+    {
+      "source": "Bloomberg Markets",
+      "topic": "Investor",
+      "title": "Hedge Fund Adviser LB Macro Sees US Midterms Boosting Dollar",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-05/hedge-fund-adviser-lb-macro-sees-us-midterms-boosting-the-dollar",
+      "summary": "Dollar bears may be misinterpreting the impact of US President Donald Trump’s setback in the midterm elections, according to a former head of strategy at Brevan Howard Asset Management.",
+      "published": "Thu, 05 Nov 2026 13:27:17 GMT"
+    },
+    {
+      "source": "Bloomberg Markets",
+      "topic": "Investor",
+      "title": "S&P 500 Sinks 4% as AI Washout Rattles Wall Street: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates",
+      "summary": "A post-election slide in chipmakers snowballed as investors bailed from technology shares on speculation that congressional Democrats will clamp down on the artificial-intelligence industry.",
+      "published": "Wed, 04 Nov 2026 22:15:04 GMT"
+    },
+    {
+      "source": "Bloomberg Markets",
+      "topic": "Investor",
+      "title": "US Selloff Deepens as Democrat Sweep Sparks AI Exposure Worries",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day",
+      "summary": "Technology stocks plunged on Thursday as traders assessed the implication of a Democratic sweep in the US midterm elections on artificial intelligence.",
+      "published": "Thu, 05 Nov 2026 12:54:02 GMT"
+    },
+    {
+      "source": "Bloomberg Markets",
+      "topic": "Investor",
+      "title": "Argentina Bonds Drop as Market Flags Intervention in Peso Debt",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-05/argentina-bonds-drop-as-market-flags-intervention-in-peso-debt",
+      "summary": "Argentina’s sovereign peso bonds fell Thursday after a surge in trading and prices the day before raised speculation that the government was intervening to push down borrowing costs ahead of key Treasury auctions.",
+      "published": "Thu, 05 Nov 2026 18:17:34 GMT"
+    },
+    {
+      "source": "Bloomberg Markets",
+      "topic": "Investor",
+      "title": "Treasuries Soar as Tech-Stock Selloff Stokes Haven Demand",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-05/treasuries-extend-advance-as-technology-shares-resume-slide",
+      "summary": "Treasuries surged as a Democratic sweep in the US midterms led to a selloff in shares of large US technology companies, stoking demand for havens.",
+      "published": "Thu, 05 Nov 2026 15:54:44 GMT"
+    }
+  ]
+}
