@@ -1,0 +1,1303 @@
+{
+  "date": "2026-11-08",
+  "generated": "2026-11-08T16:58:29.020750Z",
+  "total_posts": 80,
+  "by_topic": {
+    "Marketing": [
+      {
+        "source": "HubSpot Marketing",
+        "topic": "Marketing",
+        "title": "Obstacles in marketing automation and how to fix them [2026]",
+        "url": "https://blog.hubspot.com/marketing/marketing-automation-challenges",
+        "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/marketing-automation-challenges\" title=\"\"> <img alt=\"obstacles in marketing automation\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/blogbot/problems-with-marketing-a",
+        "published": "Fri, 06 Nov 2026 15:45:05 GMT"
+      },
+      {
+        "source": "HubSpot Marketing",
+        "topic": "Marketing",
+        "title": "Scrunch vs. Ahrefs: AI visibility tracking comparison",
+        "url": "https://blog.hubspot.com/marketing/scrunch-vs-ahrefs",
+        "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/scrunch-vs-ahrefs\" title=\"\"> <img alt=\"semrush vs. ahrefs ai visibility tools\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/scrunch-vs-ahrefs-1-20260722-2359226.webp\"",
+        "published": "Fri, 06 Nov 2026 15:35:04 GMT"
+      },
+      {
+        "source": "HubSpot Marketing",
+        "topic": "Marketing",
+        "title": "What is RAG in AI? A plain-English guide for marketers",
+        "url": "https://blog.hubspot.com/marketing/rag-in-ai",
+        "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/rag-in-ai\" title=\"\"> <img alt=\"what is retrieval augmented generation (rag) and why should marketers care\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/blogbot/what-i",
+        "published": "Thu, 05 Nov 2026 16:15:05 GMT"
+      },
+      {
+        "source": "HubSpot Marketing",
+        "topic": "Marketing",
+        "title": "How to find and fix your AEO keywords gap",
+        "url": "https://blog.hubspot.com/marketing/aeo-keyword-gap-analysis",
+        "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/aeo-keyword-gap-analysis\" title=\"\"> <img alt=\"aeo keyword gap\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/blogbot/aeo-keywords-gap-featured-5331406.webp\" style=\"wid",
+        "published": "Wed, 04 Nov 2026 14:50:06 GMT"
+      },
+      {
+        "source": "HubSpot Marketing",
+        "topic": "Marketing",
+        "title": "How do I benchmark my AI search performance against my industry?",
+        "url": "https://blog.hubspot.com/marketing/ai-search-industry-benchmarks",
+        "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/ai-search-industry-benchmarks\" title=\"\"> <img alt=\"ai search benchmarks\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/blogbot/how-do-i-benchmark-my-ai-search-performa",
+        "published": "Wed, 04 Nov 2026 14:40:07 GMT"
+      },
+      {
+        "source": "Neil Patel",
+        "topic": "Marketing",
+        "title": "Trending Keywords in AnswerThePublic: Find What’s Rising on Google and YouTube",
+        "url": "https://neilpatel.com/blog/answerthepublic-trending-keywords/",
+        "summary": "Key Takeaways A keyword shows up in your research tool with a clean volume number next to it. You write the article. You publish it. And it lands on a results page that already has a dozen strong pages on it, because everyone else&#8217;s tool showed them the same number around the same time. That [",
+        "published": "Fri, 06 Nov 2026 20:00:00 +0000"
+      },
+      {
+        "source": "Neil Patel",
+        "topic": "Marketing",
+        "title": "XML Sitemap Optimization: How to Improve Crawlability",
+        "url": "https://neilpatel.com/blog/xml-sitemap/",
+        "summary": "Key Takeaways Most websites have an XML sitemap. A lot of those sitemaps aren’t optimized, though.&#160; That means site owners are missing a golden opportunity to improve their SEO and gain an edge over competing brands. Your sitemap gives search engines a roadmap to the content you want them to fi",
+        "published": "Wed, 04 Nov 2026 20:00:00 +0000"
+      },
+      {
+        "source": "Neil Patel",
+        "topic": "Marketing",
+        "title": "Answer Engine Optimization: How to Improve AI Visibility",
+        "url": "https://neilpatel.com/blog/answer-engine-optimization/",
+        "summary": "Key Takeaways More than half of searches in 2025 don’t lead anywhere. People get answers from ChatGPT, Perplexity, Google AI Overviews, and Gemini without clicking a single link. Google’s AI Mode takes this even further. It turns search into a full conversation and already has more than 1 billion mo",
+        "published": "Fri, 30 Oct 2026 07:00:00 +0000"
+      },
+      {
+        "source": "Neil Patel",
+        "topic": "Marketing",
+        "title": "How to Teach Content Strategy to Stakeholders Who Don’t Speak Marketing",
+        "url": "https://neilpatel.com/blog/teach-content-strategy-to-stakeholders/",
+        "summary": "Key Takeaways Most content strategies don&#8217;t fail on their merits. They stall out because content strategy buy-in never arrives from the person who funds the work, approves it, or executes part of it. That might be a client-side VP, your own executive team, a sales director, or a legal reviewer",
+        "published": "Wed, 28 Oct 2026 16:00:00 +0000"
+      },
+      {
+        "source": "Neil Patel",
+        "topic": "Marketing",
+        "title": "Ubersuggest Now Lives Inside Claude. Here’s What It Can Actually Do",
+        "url": "https://neilpatel.com/blog/ubersuggest-inside-claude/",
+        "summary": "Key Takeaways You already use Claude to write, think, and plan. You draft the content brief, outline the client report, work through a strategy question out loud. But the moment you need a real number: search volume, a competitor&#8217;s ranking keywords, what&#8217;s actually broken on a site, you ",
+        "published": "Mon, 26 Oct 2026 16:00:00 +0000"
+      }
+    ],
+    "Design": [
+      {
+        "source": "Smashing Magazine",
+        "topic": "Design",
+        "title": "A New Community For In-House UX People",
+        "url": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
+        "summary": "We’ve been working on something new! We’ve teamed up for a **new small community** for people doing UX-inside organizations &mdash; with weekly calls and a shared library of the business cases, templates, and research plans that have actually worked for other folks. [Jump to details](https://uxinsid",
+        "published": "Fri, 06 Nov 2026 08:00:00 GMT"
+      },
+      {
+        "source": "Smashing Magazine",
+        "topic": "Design",
+        "title": "Making Immersive LLM Chat Experiences More Accessible",
+        "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+        "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more acce",
+        "published": "Thu, 05 Nov 2026 13:00:00 GMT"
+      },
+      {
+        "source": "Smashing Magazine",
+        "topic": "Design",
+        "title": "Modern CSS Might Make Your Front-End More Complex",
+        "url": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
+        "summary": "Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migrati",
+        "published": "Tue, 03 Nov 2026 10:00:00 GMT"
+      },
+      {
+        "source": "Smashing Magazine",
+        "topic": "Design",
+        "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
+        "url": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
+        "summary": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
+        "published": "Sat, 31 Oct 2026 08:00:00 GMT"
+      },
+      {
+        "source": "Smashing Magazine",
+        "topic": "Design",
+        "title": "Accordion Icons: Which Work Best?",
+        "url": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
+        "summary": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](ht",
+        "published": "Fri, 23 Oct 2026 13:00:00 GMT"
+      },
+      {
+        "source": "Creative Bloq",
+        "topic": "Design",
+        "title": "The ergonomic chair that got a rare 5-star Creative Bloq review is 10% cheaper for Black Friday",
+        "url": "https://www.creativebloq.com/deals/the-ergonomic-chair-that-got-a-rare-5-star-creative-bloq-review-is-10-percent-cheaper-for-black-friday",
+        "summary": "With its ergonomic features, it's the best chair deal I can find right now.",
+        "published": "Sun, 08 Nov 2026 14:00:00 +0000"
+      },
+      {
+        "source": "Creative Bloq",
+        "topic": "Design",
+        "title": "How to make a detailed 3D landscape using Photoshop, Cinema 4D and ZBrush",
+        "url": "https://www.creativebloq.com/how-to/how-to-make-a-detailed-3d-landscape-using-photoshop-with-cinema-4d-and-zbrush",
+        "summary": "Sci-fi and fantasy artist Calder Moore breaks down his process for creating a dark fantasy landscape into clear manageable tasks.",
+        "published": "Sun, 08 Nov 2026 12:00:00 +0000"
+      },
+      {
+        "source": "Creative Bloq",
+        "topic": "Design",
+        "title": "The cleverest GTA VI adverts don't even show the game",
+        "url": "https://www.creativebloq.com/news/the-cleverest-gta-vi-adverts-dont-even-show-the-game",
+        "summary": "The game's parody brands have taken over Miami.",
+        "published": "Sun, 08 Nov 2026 10:00:00 +0000"
+      },
+      {
+        "source": "Creative Bloq",
+        "topic": "Design",
+        "title": "Apple’s plan to scrap the Action Button makes me anxious",
+        "url": "https://www.creativebloq.com/news/apples-plan-to-scrap-the-action-button-makes-me-anxious",
+        "summary": "I will finally have to make peace with Camera Control, and I’m not happy.",
+        "published": "Sun, 08 Nov 2026 09:00:00 +0000"
+      },
+      {
+        "source": "Creative Bloq",
+        "topic": "Design",
+        "title": "These are the best laptops to buy right now, wether you're a professional or student",
+        "url": "https://www.creativebloq.com/buying-guides/these-are-the-best-laptops-to-buy-right-now-wether-youre-a-professional-or-student",
+        "summary": "From design work to watching movies, these are the best laptops for every kind of past time.",
+        "published": "Sun, 08 Nov 2026 08:30:36 +0000"
+      }
+    ],
+    "Tech": [
+      {
+        "source": "TechCrunch",
+        "topic": "Tech",
+        "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+        "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+        "summary": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
+        "published": "Sun, 08 Nov 2026 15:00:00 +0000"
+      },
+      {
+        "source": "TechCrunch",
+        "topic": "Tech",
+        "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+        "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+        "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+        "published": "Sat, 07 Nov 2026 22:07:22 +0000"
+      },
+      {
+        "source": "TechCrunch",
+        "topic": "Tech",
+        "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+        "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+        "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+        "published": "Sat, 07 Nov 2026 21:17:08 +0000"
+      },
+      {
+        "source": "TechCrunch",
+        "topic": "Tech",
+        "title": "Parents want safer phones for kids. These companies are answering the call.",
+        "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+        "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+        "published": "Sat, 07 Nov 2026 19:00:00 +0000"
+      },
+      {
+        "source": "TechCrunch",
+        "topic": "Tech",
+        "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+        "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+        "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+        "published": "Sat, 07 Nov 2026 17:24:07 +0000"
+      },
+      {
+        "source": "The Verge",
+        "topic": "Tech",
+        "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
+        "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+        "summary": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features Apple’s M5 processor, 16GB of RAM, and 512GB of storage — often sold for ",
+        "published": "2026-11-08T11:00:00-05:00"
+      },
+      {
+        "source": "The Verge",
+        "topic": "Tech",
+        "title": "Chatbots might be coming to Apple’s HomeView",
+        "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+        "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could",
+        "published": "2026-11-08T10:00:30-05:00"
+      },
+      {
+        "source": "The Verge",
+        "topic": "Tech",
+        "title": "There’s no slowing down media’s pivot-to-video 2.0",
+        "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Almost ",
+        "published": "2026-11-08T08:00:00-05:00"
+      },
+      {
+        "source": "The Verge",
+        "topic": "Tech",
+        "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+        "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+        "summary": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Half an hour later, I felt exhausted, dizz",
+        "published": "2026-11-07T12:00:00-05:00"
+      },
+      {
+        "source": "The Verge",
+        "topic": "Tech",
+        "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+        "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+        "summary": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Considering an annual Costco membership ru",
+        "published": "2026-11-07T11:00:00-05:00"
+      }
+    ],
+    "Lego": [
+      {
+        "source": "The Brick Fan",
+        "topic": "Lego",
+        "title": "Last Day for LEGO Ideas Build, Paint and Play! (40889) GWP",
+        "url": "https://www.thebrickfan.com/last-day-for-lego-ideas-build-paint-and-play-40889-gwp/",
+        "summary": "<p><center><a href=\"https://click.linksynergy.com/deeplink?id=LNtsWdwRzsQ&#038;mid=13923&#038;murl=https%3A%2F%2Fwww.lego.com%2Fen-us\" target=\"new\"><img src=\"https://www.thebrickfan.com/wp-content/uploads/2026/10/LEGO-Ideas-Build-Paint-and-Play-40889.jpg\" width=\"600/\" /></a></center></p>\n<p>Today is",
+        "published": "Sun, 08 Nov 2026 15:05:28 +0000"
+      },
+      {
+        "source": "The Brick Fan",
+        "topic": "Lego",
+        "title": "LEGO Ideas November 7 Update",
+        "url": "https://www.thebrickfan.com/lego-ideas-november-7-update/",
+        "summary": "<p><center><img src=\"https://ideascdn.lego.com/media/generate/lego_ci/06af4b97-db5a-425c-ae86-1b4a3d9b04e3/original:0:0/webp\" width=\"600/\" /></center></p>\n<p>Our first LEGO Ideas update for November brings us six more projects that have reached the 10,000 supporter goal for the <a href=\"https://beta",
+        "published": "Sat, 07 Nov 2026 15:27:42 +0000"
+      },
+      {
+        "source": "The Brick Fan",
+        "topic": "Lego",
+        "title": "LEGO Ninjago Embers + Ashes Teaser Trailer",
+        "url": "https://www.thebrickfan.com/lego-ninjago-embers-ashes-teaser-trailer/",
+        "summary": "<p><center><img src=\"https://www.thebrickfan.com/wp-content/uploads/2026/11/LEGO-Ninjago-Legends-Embers-Ashes.jpg\" width=\"600/\" /></center></p>\n<p>A new era of LEGO Ninjago is here with a first teaser of Embers + Ashes that will be coming in 2027. It is a continuation of the original Ninjago series ",
+        "published": "Fri, 06 Nov 2026 15:41:13 +0000"
+      },
+      {
+        "source": "The Brick Fan",
+        "topic": "Lego",
+        "title": "More LEGO Botanicals 2027 Sets Revealed",
+        "url": "https://www.thebrickfan.com/more-lego-botanicals-2027-sets-revealed/",
+        "summary": "<p><center><a href=\"https://click.linksynergy.com/deeplink?id=LNtsWdwRzsQ&#038;mid=13923&#038;murl=https%3a%2f%2fwww.lego.com%2fen-us%2fproduct%2fnasturtium-flowers-11536\" target=\"_blank\"><img src=\"https://www.thebrickfan.com/wp-content/uploads/2026/11/LEGO-Botanicals-Nasturtium-Flowers-11536.jpg\" w",
+        "published": "Fri, 06 Nov 2026 15:17:51 +0000"
+      },
+      {
+        "source": "The Brick Fan",
+        "topic": "Lego",
+        "title": "LEGO Chinese Traditional Festival 2027 Sets Announced",
+        "url": "https://www.thebrickfan.com/lego-chinese-traditional-festival-2027-sets-announced/",
+        "summary": "<p><center><a href=\"https://click.linksynergy.com/deeplink?id=LNtsWdwRzsQ&#038;mid=13923&#038;murl=https%3a%2f%2fwww.lego.com%2fen-us%2fproduct%2fspring-festival-voyage-80123\" target=\"_blank\"><img src=\"https://www.thebrickfan.com/wp-content/uploads/2026/11/LEGO-Chinese-Traditional-Festival-Spring-Fe",
+        "published": "Fri, 06 Nov 2026 14:53:09 +0000"
+      },
+      {
+        "source": "Brickset",
+        "topic": "Lego",
+        "title": "This week's top news articles",
+        "url": "https://brickset.com/article/135996",
+        "summary": "<img alt=\"This week's top news articles\" src=\"https://brickset.com/assets/images/logo/logo.png\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>These are the most read articles that we've posted during the last fortnight:</p><table class=\"neattable\"><tr><th>Article</th><th>Date</th><th>Views</th><t",
+        "published": "Sun, 08 Nov 2026 10:01:02 GMT"
+      },
+      {
+        "source": "Brickset",
+        "topic": "Lego",
+        "title": "Random set of the day: Hydraxon",
+        "url": "https://brickset.com/article/135993",
+        "summary": "<img alt=\"Random set of the day: Hydraxon\" src=\"https://images.brickset.com/sets/small/8923-1.jpg\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Today's random set is <a href=\"https://brickset.com/sets/8923-1\">8923</a> Hydraxon, released during 2007. It's one of <a href=\"https://brickset.com/sets",
+        "published": "Sun, 08 Nov 2026 03:01:02 GMT"
+      },
+      {
+        "source": "Brickset",
+        "topic": "Lego",
+        "title": "Random figure of the day: twn290",
+        "url": "https://brickset.com/article/135992",
+        "summary": "<img alt=\"Random figure of the day: twn290\" src=\"https://img.bricklink.com/ItemImage/MN/0/twn290.png\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Today's random figure is <a href=\"https://brickset.com/minifigs/twn290\">twn290</a> <em>Mom, Medium Lavender Jacket over Lavender Shirt, Dark Tan Legs",
+        "published": "Sun, 08 Nov 2026 02:01:03 GMT"
+      },
+      {
+        "source": "Brickset",
+        "topic": "Lego",
+        "title": "What's hot this week",
+        "url": "https://brickset.com/article/135991",
+        "summary": "<img alt=\"What's hot this week\" src=\"https://brickset.com/assets/images/logo/logo.png\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>These are the sets that have been viewed the most this week:</p><table class=\"neattable\"><tr><th class=\"textcenter\">TW</th><th class=\"textcenter\">LW</th><th></th><t",
+        "published": "Sat, 07 Nov 2026 23:01:02 GMT"
+      },
+      {
+        "source": "Brickset",
+        "topic": "Lego",
+        "title": "Review: 72161 Drone Search for Mythical Mew",
+        "url": "https://brickset.com/article/133777",
+        "summary": "<img alt=\"Review: 72161 Drone Search for Mythical Mew\" src=\"https://images.brickset.com/news/thumbs/large/133777_72161-005_0348.jpg\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Long before Grogu, another cute, rare, powerful, and seemingly ageless creature was sought after for its special prope",
+        "published": "Sat, 07 Nov 2026 14:00:00 GMT"
+      },
+      {
+        "source": "Brothers Brick",
+        "topic": "Lego",
+        "title": "Rounding up a year of The Legend of Zelda builds in preparation for Ocarina of Time",
+        "url": "https://www.brothers-brick.com/2026/11/04/rounding-up-a-year-of-the-legend-of-zelda-builds-in-preparation-for-ocarina-of-time/",
+        "summary": "<p>With the long-awaited remake of The Legend of Zelda: Ocarina of Time releasing this week, there&#8217;s no better time to take a look at just a handful of the incredible Zelda builds we&#8217;ve marveled at this year. Despite the franchise&#8217;s popularity, it&#8217;s been surprisingly under-re",
+        "published": "Wed, 04 Nov 2026 20:01:41 +0000"
+      },
+      {
+        "source": "Brothers Brick",
+        "topic": "Lego",
+        "title": "LEGO Ideas 21375 Godzilla: Size does matter [Review]",
+        "url": "https://www.brothers-brick.com/2026/11/04/lego-ideas-21375-godzilla-size-does-matter-review/",
+        "summary": "<p>Few movie monsters command a screen quite like Godzilla. There&#8217;s the colossal bulk, the jagged row of dorsal fins, and that blue-white atomic breath: an image so iconic it has been flattening cinema&#8217;s skylines, and its insurance premiums, for decades. Now the King of the Monsters arri",
+        "published": "Wed, 04 Nov 2026 14:30:12 +0000"
+      },
+      {
+        "source": "Brothers Brick",
+        "topic": "Lego",
+        "title": "The return of the King (of the Lizards): LEGO reveals 5,000-piece Godzilla set [News]",
+        "url": "https://www.brothers-brick.com/2026/11/03/the-return-of-the-king-of-the-lizards-lego-reveals-5000-piece-godzilla-set-news/",
+        "summary": "<p>Are you the owner of a LEGO town or cityscape, perhaps lovingly tended over years of collecting and building? If so, beware! There&#8217;s a new LEGO kaiju on the horizon &#8211; the kaiju, in fact. 21375 Godzilla is the next set to come from the LEGO Ideas platform. With 5,363 pieces, this new s",
+        "published": "Tue, 03 Nov 2026 14:00:43 +0000"
+      },
+      {
+        "source": "Brothers Brick",
+        "topic": "Lego",
+        "title": "This lean, mean, green LEGO machine will have you looking twice",
+        "url": "https://www.brothers-brick.com/2026/11/02/this-lean-mean-green-lego-machine-will-have-you-looking-twice/",
+        "summary": "<p>LEGO builder Vince Toulouse has been honing their style for years, perfecting the art of smooth, swooping curves and luxurious colors to create vehicles with a retro-futuristic flair. This latest build, an insect-inspired steampunk flying machine is jaw-dropping not only in scale, but also brilli",
+        "published": "Mon, 02 Nov 2026 14:00:54 +0000"
+      },
+      {
+        "source": "Brothers Brick",
+        "topic": "Lego",
+        "title": "LEGO Icons 11388 Venetian Neighbourhood & 40898 Venetian Water Taxi GWP [Review]",
+        "url": "https://www.brothers-brick.com/2026/11/01/lego-icons-11388-venetian-neighbourhood-40898-venetian-water-taxi-gwp-review/",
+        "summary": "<p>Tourists really are spoilt for choice when it comes to visiting Italy. Great food, wonderful nature, millennia of history that you can sometimes literally walk through &#8211; there are fantastic destinations all over the country. Even with this embarassment of riches, the city of Venice stands o",
+        "published": "Sun, 01 Nov 2026 20:00:24 +0000"
+      }
+    ],
+    "Innovation": [
+      {
+        "source": "MIT Technology Review",
+        "topic": "Innovation",
+        "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+        "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot clea",
+        "published": "Fri, 06 Nov 2026 13:10:00 +0000"
+      },
+      {
+        "source": "MIT Technology Review",
+        "topic": "Innovation",
+        "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+        "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+        "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;",
+        "published": "Fri, 06 Nov 2026 10:00:00 +0000"
+      },
+      {
+        "source": "MIT Technology Review",
+        "topic": "Innovation",
+        "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+        "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground ",
+        "published": "Thu, 05 Nov 2026 13:10:00 +0000"
+      },
+      {
+        "source": "MIT Technology Review",
+        "topic": "Innovation",
+        "title": "A new bill could change how the US builds energy infrastructure",
+        "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+        "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan th",
+        "published": "Thu, 05 Nov 2026 10:00:00 +0000"
+      },
+      {
+        "source": "MIT Technology Review",
+        "topic": "Innovation",
+        "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+        "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+        "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for govern",
+        "published": "Wed, 04 Nov 2026 18:50:55 +0000"
+      },
+      {
+        "source": "Fast Company",
+        "topic": "Innovation",
+        "title": "Enterprise AI is waiting for its Transformer moment",
+        "url": "https://www.fastcompany.com/91634049/enterprise-ai-waiting-transformer-moment",
+        "summary": "<p class=\"wp-block-paragraph\" id=\"h-as-a-professor-of-innovation-there-s-a-slide-in-my-deck-i-use-every-time-i-start-a-session-on-artificial-intelligence-a-fragment-of-the-first-page-from-the-attention-is-all-you-need-paper-from-2017-i-use-just-a-fragment-because-i-don-t-want-the-students-to-read-it",
+        "published": "2026-11-08T13:00:00"
+      },
+      {
+        "source": "Fast Company",
+        "topic": "Innovation",
+        "title": "5 books to calm AI-induced existential dread",
+        "url": "https://www.fastcompany.com/91635138/5-books-to-calm-ai-induced-existential-dread",
+        "summary": "<p class=\"wp-block-paragraph\"><a href=\"https://nextbigideaclub.com/magazine/topics/technology\" rel=\"noreferrer noopener\" target=\"_blank\"></a><a href=\"https://www.fastcompany.com/section/artificial-intelligence\" rel=\"noreferrer noopener\" target=\"_blank\">Artificial intelligence</a> is transforming how",
+        "published": "2026-11-08T09:00:00"
+      },
+      {
+        "source": "Fast Company",
+        "topic": "Innovation",
+        "title": "This election demonstrated something important about decision-making",
+        "url": "https://www.fastcompany.com/91637367/this-election-demonstrated-something-important-about-decision-making",
+        "summary": "<p class=\"wp-block-paragraph\">Six months ago, the outcome of the November 3 <a href=\"https://www.fastcompany.com/section/midterms\" rel=\"noreferrer noopener\" target=\"_blank\">midterm elections</a> would have seemed impossible. Most states and regions were highly polarized politically. So-called purple",
+        "published": "2026-11-08T08:00:00"
+      },
+      {
+        "source": "Fast Company",
+        "topic": "Innovation",
+        "title": "Minimum wage, the gender wage gap, and more: How Democrats could pressure Trump on workplace issues",
+        "url": "https://www.fastcompany.com/91636658/minimum-wage-the-gender-wage-gap-and-more-how-democrats-could-pressure-trump-on-workplace-issues",
+        "summary": "<p class=\"wp-block-paragraph\">While Democrats’ legislative agenda for the incoming Congress is still taking shape, early indications suggest workplace and labor issues will have a prominent role.</p>\n\n\n\n<p class=\"wp-block-paragraph\">And while the Senate filibuster and President Donald Trump’s veto p",
+        "published": "2026-11-08T07:00:00"
+      },
+      {
+        "source": "Fast Company",
+        "topic": "Innovation",
+        "title": "The GOP went all in on Trump. It’s a cautionary tale about leadership",
+        "url": "https://www.fastcompany.com/91637362/the-gop-went-all-in-on-trump-its-a-cautionary-tale-about-leadership",
+        "summary": "<p class=\"wp-block-paragraph\">Republicans hitched their wagon to a single leader. And they lost in the midterms. Bigly.</p>\n\n\n\n<p class=\"wp-block-paragraph\">In what turned out to be a historic and unprecedented <a href=\"https://www.fastcompany.com/91635531/this-map-shows-just-how-big-democrats-won-t",
+        "published": "2026-11-08T07:00:00"
+      },
+      {
+        "source": "Wired",
+        "topic": "Innovation",
+        "title": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
+        "url": "https://www.wired.com/gallery/best-computer-speakers/",
+        "summary": "After testing 30 pairs of computer speakers, these are the best computer speakers—from stereo speakers to subwoofers to surround sound systems.",
+        "published": "Sun, 08 Nov 2026 12:00:00 +0000"
+      },
+      {
+        "source": "Wired",
+        "topic": "Innovation",
+        "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+        "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+        "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+        "published": "Sun, 08 Nov 2026 12:00:00 +0000"
+      },
+      {
+        "source": "Wired",
+        "topic": "Innovation",
+        "title": "Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory",
+        "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+        "summary": "More evidence that magnets are magical.",
+        "published": "Sun, 08 Nov 2026 11:30:00 +0000"
+      },
+      {
+        "source": "Wired",
+        "topic": "Innovation",
+        "title": "How to Remind Your Boss of Your PTO Without Pissing Them Off",
+        "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
+        "summary": "The next time you take paid time off, your boss and coworkers will remember if you follow this advice.",
+        "published": "Sun, 08 Nov 2026 11:00:00 +0000"
+      },
+      {
+        "source": "Wired",
+        "topic": "Innovation",
+        "title": "A 55-Year-Old Math Problem Was Solved—This Time by Humans",
+        "url": "https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/",
+        "summary": "A group of young mathematicians found the solution to the long unanswered conjecture, first inspired by juggling, through randomness and friendship.",
+        "published": "Sun, 08 Nov 2026 10:30:00 +0000"
+      }
+    ],
+    "Ecology": [
+      {
+        "source": "CleanTechnica",
+        "topic": "Ecology",
+        "title": "Even California’s Biggest Ports Aren’t Betting On Hydrogen For Ships",
+        "url": "https://cleantechnica.com/2026/11/08/california-biggest-ports-not-betting-hydrogen-ships/",
+        "summary": "<p>California has been one of hydrogen&#8217;s most enthusiastic supporters for two decades. The state has subsidized hydrogen vehicles, backed refueling networks, supported fuel-cell buses and trucks, invested in hydrogen production and kept the technology prominent in its zero-emission transportat",
+        "published": "Sun, 08 Nov 2026 16:04:03 +0000"
+      },
+      {
+        "source": "CleanTechnica",
+        "topic": "Ecology",
+        "title": "Tesla Hasn’t Had A Successful New Product Launch Since JB Straubel Stepped Down As CTO",
+        "url": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
+        "summary": "<p>As has been widely reported, Tesla is about to end Cybertruck production. The Cybertruck has been a shocking failure. I&#8217;m sure there are more detailed analyses out there somewhere, but this short response on X from Ben McCombe that Tina Casey included in her article on the matter sums it   ",
+        "published": "Sun, 08 Nov 2026 04:57:46 +0000"
+      },
+      {
+        "source": "CleanTechnica",
+        "topic": "Ecology",
+        "title": "A New $1.5 Billion Wind Farm Will Play In Peoria",
+        "url": "https://cleantechnica.com/2026/11/07/wind-farms-us-energy-policy-lawsuits-trump/",
+        "summary": "<p>The global energy developer Repsol is on track to construct a 500-megawatt wind farm in Peoria County, Illinois, regardless of last year's sharp U-turn in federal energy policy.</p>\n<p>The post <a href=\"https://cleantechnica.com/2026/11/07/wind-farms-us-energy-policy-lawsuits-trump/\">A New $1.5 B",
+        "published": "Sun, 08 Nov 2026 00:24:20 +0000"
+      },
+      {
+        "source": "CleanTechnica",
+        "topic": "Ecology",
+        "title": "BMW Pitches Free EV Charging And You Ain’t Seen Nothing Yet",
+        "url": "https://cleantechnica.com/2026/11/07/ev-charging-credit-bmw-free-hours-us-market/",
+        "summary": "<p>BMW is sweetening the EV charging pot with a $500 charging credit on its 2027 i5, i7, and iX3 electric cars in the US, a move that dovetails with the rise of \"free hours\" electricity rates. </p>\n<p>The post <a href=\"https://cleantechnica.com/2026/11/07/ev-charging-credit-bmw-free-hours-us-market/",
+        "published": "Sat, 07 Nov 2026 21:56:33 +0000"
+      },
+      {
+        "source": "CleanTechnica",
+        "topic": "Ecology",
+        "title": "REDD — Picking Up Our New Tesla Model Y",
+        "url": "https://cleantechnica.com/2026/11/07/redd-picking-up-our-new-tesla-model-y/",
+        "summary": "<p>REDD, the name for our new Tesla Model Y (Standard Range ’26 build, ’27 model), was inspired by the movie of the same name – Retired, Extremely Dangerous Drivers (the wife and I, of course). As mentioned previously, there is nothing wrong with our beloved 2019 Model 3. It is   ... [continued]</p>",
+        "published": "Sat, 07 Nov 2026 20:42:56 +0000"
+      },
+      {
+        "source": "Electrek",
+        "topic": "Ecology",
+        "title": "New ID. AURA is the mainstream EV VW needs – but its software is the real story",
+        "url": "https://electrek.co/2026/11/08/new-id-aura-is-the-mainstream-ev-vw-needs-but-its-software-is-the-real-story/",
+        "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/id-aura_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Volkswagen built its global empire on the promise of affordable, accessible transportation, embodied by the iconic Ty",
+        "published": "Sun, 08 Nov 2026 13:42:16 +0000"
+      },
+      {
+        "source": "Electrek",
+        "topic": "Ecology",
+        "title": "Everyone wants an electric pickup truck. I want more electric 125cc motorcycles",
+        "url": "https://electrek.co/2026/11/08/everyone-wants-an-electric-pickup-truck-i-want-more-electric-125cc-motorcycles/",
+        "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/motorcycle-vs-truck-header-1.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">If you follow the EV industry in North America, you’d be forgiven for thinking that the future of tra",
+        "published": "Sun, 08 Nov 2026 09:37:36 +0000"
+      },
+      {
+        "source": "Electrek",
+        "topic": "Ecology",
+        "title": "Tesla deemed liable for fraud after Solar Roof ‘experiment’ on a home",
+        "url": "https://electrek.co/2026/11/07/tesla-solar-roof-fraud-liable-experiment-lawsuit/",
+        "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2019/08/Tesla-Solar-Roof-quote.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">A California judge has deemed Tesla liable for fraud in a Solar Roof lawsuit, after the company repeatedly ",
+        "published": "Sat, 07 Nov 2026 16:01:23 +0000"
+      },
+      {
+        "source": "Electrek",
+        "topic": "Ecology",
+        "title": "Harbinger scores another $240M in latest investment round",
+        "url": "https://electrek.co/2026/11/07/harbinger-scores-another-240m-in-latest-investment-round/",
+        "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/harbinger_EV.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Electric truck maker Harbinger has been racking up wins in recent months, and after scoring a $300 million order from",
+        "published": "Sat, 07 Nov 2026 12:53:45 +0000"
+      },
+      {
+        "source": "Electrek",
+        "topic": "Ecology",
+        "title": "Yamaha’s new electric scooter takes aim at Europe’s 125cc commuters",
+        "url": "https://electrek.co/2026/11/07/yamahas-new-electric-scooter-takes-aim-at-europes-125cc-commuters/",
+        "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/XENTER-E-yamaha-electric-scooter-charging-header.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Yamaha is expanding its electric scooter lineup with the new XENTER E, a 125cc-eq",
+        "published": "Sat, 07 Nov 2026 12:30:10 +0000"
+      }
+    ],
+    "Investor": [
+      {
+        "source": "Seeking Alpha",
+        "topic": "Investor",
+        "title": "Wall Street Brunch: Anthropic IPO Goes On The Road",
+        "url": "https://seekingalpha.com/article/4964841-wall-street-brunch-anthropic-ipo-goes-on-the-road?source=feed_all_articles",
+        "summary": "",
+        "published": "Sun, 08 Nov 2026 11:50:00 -0500"
+      },
+      {
+        "source": "Seeking Alpha",
+        "topic": "Investor",
+        "title": "Light & Wonder, Inc. (LNWO) Q3 2026 Earnings Call Transcript",
+        "url": "https://seekingalpha.com/article/4964843-light-and-wonder-inc-lnwo-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "summary": "",
+        "published": "Sun, 08 Nov 2026 11:44:36 -0500"
+      },
+      {
+        "source": "Seeking Alpha",
+        "topic": "Investor",
+        "title": "FIGS, Inc. (FIGS) Q3 2026 Earnings Call Transcript",
+        "url": "https://seekingalpha.com/article/4964842-figs-inc-figs-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "summary": "",
+        "published": "Sun, 08 Nov 2026 11:44:32 -0500"
+      },
+      {
+        "source": "Seeking Alpha",
+        "topic": "Investor",
+        "title": "Quebecor Inc. (QBR.A:CA) Q3 2026 Earnings Call Transcript",
+        "url": "https://seekingalpha.com/article/4964840-quebecor-inc-qbr-a-ca-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "summary": "",
+        "published": "Sun, 08 Nov 2026 11:34:39 -0500"
+      },
+      {
+        "source": "Seeking Alpha",
+        "topic": "Investor",
+        "title": "Liberty Latin America Ltd. (LILA) Q3 2026 Earnings Call Transcript",
+        "url": "https://seekingalpha.com/article/4964839-liberty-latin-america-ltd-lila-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "summary": "",
+        "published": "Sun, 08 Nov 2026 11:34:37 -0500"
+      },
+      {
+        "source": "Bloomberg Markets",
+        "topic": "Investor",
+        "title": "Bookmarked: News Stories On Our Reading List",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-08/bookmarked-news-stories-on-our-reading-list-video",
+        "summary": "The Met Gala announces a 'normie' theme, the end of floppy disks, lawsuit over McRib contents, and the Hall of Fame of Toys: Join hosts David Gura, Christina Ruffini and Lisa Mateo on Bloomberg This Weekend for Bookmarked, where they share stories that caught their attention over the past week. (Sou",
+        "published": "Sun, 08 Nov 2026 16:30:18 GMT"
+      },
+      {
+        "source": "Bloomberg Markets",
+        "topic": "Investor",
+        "title": "By The Way: Headlines You May Have Missed",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-08/by-the-way-headlines-you-may-have-missed-video",
+        "summary": "Choosing who to give Christmas presents to, a Christmas themed cruise, students making a deposit for college and then not attending, and the SATs and AP tests tackle AI cheating: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source:",
+        "published": "Sun, 08 Nov 2026 16:23:12 GMT"
+      },
+      {
+        "source": "Bloomberg Markets",
+        "topic": "Investor",
+        "title": "Markets Brace for Washington Policy Battles",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-08/markets-brace-for-washington-policy-battles-video",
+        "summary": "On Bloomberg This Weekend, SMBC Nikko Securities Chief Economist Joe Lavorgna says affordability helped drive the midterm results but argues the underlying US economy remains healthy and major policy changes may be limited by divided government. Speaking with hosts David Gura and Christina Ruffini, ",
+        "published": "Sun, 08 Nov 2026 16:17:03 GMT"
+      },
+      {
+        "source": "Bloomberg Markets",
+        "topic": "Investor",
+        "title": "Israel’s Election Fight Shifts to Coalition Building",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-08/israel-s-election-fight-shifts-to-coalition-building-video",
+        "summary": "On Bloomberg This Weekend, Bloomberg Middle East reporter Dan Williams explains why Gadi Eisenkot has been given the first opportunity to form Israel’s next government despite Benjamin Netanyahu’s bloc winning more seats. Speaking with hosts David Gura and Christina Ruffini, Williams discusses the r",
+        "published": "Sun, 08 Nov 2026 15:49:43 GMT"
+      },
+      {
+        "source": "Bloomberg Markets",
+        "topic": "Investor",
+        "title": "Can Europe Afford Its Welfare State?",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-08/can-europe-afford-its-welfare-state-video",
+        "summary": "Europe’s postwar welfare state was built for a younger, growing population. Today, aging communities are putting pensions, health care and public finances under mounting strain. As governments try to fund defense, infrastructure and education at the same time, the fight over who pays is spilling int",
+        "published": "Sun, 08 Nov 2026 15:02:58 GMT"
+      }
+    ]
+  },
+  "all_posts": [
+    {
+      "source": "HubSpot Marketing",
+      "topic": "Marketing",
+      "title": "Obstacles in marketing automation and how to fix them [2026]",
+      "url": "https://blog.hubspot.com/marketing/marketing-automation-challenges",
+      "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/marketing-automation-challenges\" title=\"\"> <img alt=\"obstacles in marketing automation\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/blogbot/problems-with-marketing-a",
+      "published": "Fri, 06 Nov 2026 15:45:05 GMT"
+    },
+    {
+      "source": "HubSpot Marketing",
+      "topic": "Marketing",
+      "title": "Scrunch vs. Ahrefs: AI visibility tracking comparison",
+      "url": "https://blog.hubspot.com/marketing/scrunch-vs-ahrefs",
+      "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/scrunch-vs-ahrefs\" title=\"\"> <img alt=\"semrush vs. ahrefs ai visibility tools\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/scrunch-vs-ahrefs-1-20260722-2359226.webp\"",
+      "published": "Fri, 06 Nov 2026 15:35:04 GMT"
+    },
+    {
+      "source": "HubSpot Marketing",
+      "topic": "Marketing",
+      "title": "What is RAG in AI? A plain-English guide for marketers",
+      "url": "https://blog.hubspot.com/marketing/rag-in-ai",
+      "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/rag-in-ai\" title=\"\"> <img alt=\"what is retrieval augmented generation (rag) and why should marketers care\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/blogbot/what-i",
+      "published": "Thu, 05 Nov 2026 16:15:05 GMT"
+    },
+    {
+      "source": "HubSpot Marketing",
+      "topic": "Marketing",
+      "title": "How to find and fix your AEO keywords gap",
+      "url": "https://blog.hubspot.com/marketing/aeo-keyword-gap-analysis",
+      "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/aeo-keyword-gap-analysis\" title=\"\"> <img alt=\"aeo keyword gap\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/blogbot/aeo-keywords-gap-featured-5331406.webp\" style=\"wid",
+      "published": "Wed, 04 Nov 2026 14:50:06 GMT"
+    },
+    {
+      "source": "HubSpot Marketing",
+      "topic": "Marketing",
+      "title": "How do I benchmark my AI search performance against my industry?",
+      "url": "https://blog.hubspot.com/marketing/ai-search-industry-benchmarks",
+      "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://blog.hubspot.com/marketing/ai-search-industry-benchmarks\" title=\"\"> <img alt=\"ai search benchmarks\" class=\"hs-featured-image\" src=\"https://blog.hubspot.com/hubfs/blogbot/how-do-i-benchmark-my-ai-search-performa",
+      "published": "Wed, 04 Nov 2026 14:40:07 GMT"
+    },
+    {
+      "source": "Neil Patel",
+      "topic": "Marketing",
+      "title": "Trending Keywords in AnswerThePublic: Find What’s Rising on Google and YouTube",
+      "url": "https://neilpatel.com/blog/answerthepublic-trending-keywords/",
+      "summary": "Key Takeaways A keyword shows up in your research tool with a clean volume number next to it. You write the article. You publish it. And it lands on a results page that already has a dozen strong pages on it, because everyone else&#8217;s tool showed them the same number around the same time. That [",
+      "published": "Fri, 06 Nov 2026 20:00:00 +0000"
+    },
+    {
+      "source": "Neil Patel",
+      "topic": "Marketing",
+      "title": "XML Sitemap Optimization: How to Improve Crawlability",
+      "url": "https://neilpatel.com/blog/xml-sitemap/",
+      "summary": "Key Takeaways Most websites have an XML sitemap. A lot of those sitemaps aren’t optimized, though.&#160; That means site owners are missing a golden opportunity to improve their SEO and gain an edge over competing brands. Your sitemap gives search engines a roadmap to the content you want them to fi",
+      "published": "Wed, 04 Nov 2026 20:00:00 +0000"
+    },
+    {
+      "source": "Neil Patel",
+      "topic": "Marketing",
+      "title": "Answer Engine Optimization: How to Improve AI Visibility",
+      "url": "https://neilpatel.com/blog/answer-engine-optimization/",
+      "summary": "Key Takeaways More than half of searches in 2025 don’t lead anywhere. People get answers from ChatGPT, Perplexity, Google AI Overviews, and Gemini without clicking a single link. Google’s AI Mode takes this even further. It turns search into a full conversation and already has more than 1 billion mo",
+      "published": "Fri, 30 Oct 2026 07:00:00 +0000"
+    },
+    {
+      "source": "Neil Patel",
+      "topic": "Marketing",
+      "title": "How to Teach Content Strategy to Stakeholders Who Don’t Speak Marketing",
+      "url": "https://neilpatel.com/blog/teach-content-strategy-to-stakeholders/",
+      "summary": "Key Takeaways Most content strategies don&#8217;t fail on their merits. They stall out because content strategy buy-in never arrives from the person who funds the work, approves it, or executes part of it. That might be a client-side VP, your own executive team, a sales director, or a legal reviewer",
+      "published": "Wed, 28 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "source": "Neil Patel",
+      "topic": "Marketing",
+      "title": "Ubersuggest Now Lives Inside Claude. Here’s What It Can Actually Do",
+      "url": "https://neilpatel.com/blog/ubersuggest-inside-claude/",
+      "summary": "Key Takeaways You already use Claude to write, think, and plan. You draft the content brief, outline the client report, work through a strategy question out loud. But the moment you need a real number: search volume, a competitor&#8217;s ranking keywords, what&#8217;s actually broken on a site, you ",
+      "published": "Mon, 26 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "source": "Smashing Magazine",
+      "topic": "Design",
+      "title": "A New Community For In-House UX People",
+      "url": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
+      "summary": "We’ve been working on something new! We’ve teamed up for a **new small community** for people doing UX-inside organizations &mdash; with weekly calls and a shared library of the business cases, templates, and research plans that have actually worked for other folks. [Jump to details](https://uxinsid",
+      "published": "Fri, 06 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Smashing Magazine",
+      "topic": "Design",
+      "title": "Making Immersive LLM Chat Experiences More Accessible",
+      "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+      "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more acce",
+      "published": "Thu, 05 Nov 2026 13:00:00 GMT"
+    },
+    {
+      "source": "Smashing Magazine",
+      "topic": "Design",
+      "title": "Modern CSS Might Make Your Front-End More Complex",
+      "url": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
+      "summary": "Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migrati",
+      "published": "Tue, 03 Nov 2026 10:00:00 GMT"
+    },
+    {
+      "source": "Smashing Magazine",
+      "topic": "Design",
+      "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
+      "url": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
+      "summary": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
+      "published": "Sat, 31 Oct 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Smashing Magazine",
+      "topic": "Design",
+      "title": "Accordion Icons: Which Work Best?",
+      "url": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
+      "summary": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](ht",
+      "published": "Fri, 23 Oct 2026 13:00:00 GMT"
+    },
+    {
+      "source": "Creative Bloq",
+      "topic": "Design",
+      "title": "The ergonomic chair that got a rare 5-star Creative Bloq review is 10% cheaper for Black Friday",
+      "url": "https://www.creativebloq.com/deals/the-ergonomic-chair-that-got-a-rare-5-star-creative-bloq-review-is-10-percent-cheaper-for-black-friday",
+      "summary": "With its ergonomic features, it's the best chair deal I can find right now.",
+      "published": "Sun, 08 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "source": "Creative Bloq",
+      "topic": "Design",
+      "title": "How to make a detailed 3D landscape using Photoshop, Cinema 4D and ZBrush",
+      "url": "https://www.creativebloq.com/how-to/how-to-make-a-detailed-3d-landscape-using-photoshop-with-cinema-4d-and-zbrush",
+      "summary": "Sci-fi and fantasy artist Calder Moore breaks down his process for creating a dark fantasy landscape into clear manageable tasks.",
+      "published": "Sun, 08 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "source": "Creative Bloq",
+      "topic": "Design",
+      "title": "The cleverest GTA VI adverts don't even show the game",
+      "url": "https://www.creativebloq.com/news/the-cleverest-gta-vi-adverts-dont-even-show-the-game",
+      "summary": "The game's parody brands have taken over Miami.",
+      "published": "Sun, 08 Nov 2026 10:00:00 +0000"
+    },
+    {
+      "source": "Creative Bloq",
+      "topic": "Design",
+      "title": "Apple’s plan to scrap the Action Button makes me anxious",
+      "url": "https://www.creativebloq.com/news/apples-plan-to-scrap-the-action-button-makes-me-anxious",
+      "summary": "I will finally have to make peace with Camera Control, and I’m not happy.",
+      "published": "Sun, 08 Nov 2026 09:00:00 +0000"
+    },
+    {
+      "source": "Creative Bloq",
+      "topic": "Design",
+      "title": "These are the best laptops to buy right now, wether you're a professional or student",
+      "url": "https://www.creativebloq.com/buying-guides/these-are-the-best-laptops-to-buy-right-now-wether-youre-a-professional-or-student",
+      "summary": "From design work to watching movies, these are the best laptops for every kind of past time.",
+      "published": "Sun, 08 Nov 2026 08:30:36 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "topic": "Tech",
+      "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+      "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+      "summary": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
+      "published": "Sun, 08 Nov 2026 15:00:00 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "topic": "Tech",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "published": "Sat, 07 Nov 2026 22:07:22 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "topic": "Tech",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "published": "Sat, 07 Nov 2026 21:17:08 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "topic": "Tech",
+      "title": "Parents want safer phones for kids. These companies are answering the call.",
+      "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+      "published": "Sat, 07 Nov 2026 19:00:00 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "topic": "Tech",
+      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+      "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+      "published": "Sat, 07 Nov 2026 17:24:07 +0000"
+    },
+    {
+      "source": "The Verge",
+      "topic": "Tech",
+      "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
+      "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+      "summary": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features Apple’s M5 processor, 16GB of RAM, and 512GB of storage — often sold for ",
+      "published": "2026-11-08T11:00:00-05:00"
+    },
+    {
+      "source": "The Verge",
+      "topic": "Tech",
+      "title": "Chatbots might be coming to Apple’s HomeView",
+      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could",
+      "published": "2026-11-08T10:00:30-05:00"
+    },
+    {
+      "source": "The Verge",
+      "topic": "Tech",
+      "title": "There’s no slowing down media’s pivot-to-video 2.0",
+      "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Almost ",
+      "published": "2026-11-08T08:00:00-05:00"
+    },
+    {
+      "source": "The Verge",
+      "topic": "Tech",
+      "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+      "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+      "summary": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Half an hour later, I felt exhausted, dizz",
+      "published": "2026-11-07T12:00:00-05:00"
+    },
+    {
+      "source": "The Verge",
+      "topic": "Tech",
+      "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+      "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+      "summary": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Considering an annual Costco membership ru",
+      "published": "2026-11-07T11:00:00-05:00"
+    },
+    {
+      "source": "The Brick Fan",
+      "topic": "Lego",
+      "title": "Last Day for LEGO Ideas Build, Paint and Play! (40889) GWP",
+      "url": "https://www.thebrickfan.com/last-day-for-lego-ideas-build-paint-and-play-40889-gwp/",
+      "summary": "<p><center><a href=\"https://click.linksynergy.com/deeplink?id=LNtsWdwRzsQ&#038;mid=13923&#038;murl=https%3A%2F%2Fwww.lego.com%2Fen-us\" target=\"new\"><img src=\"https://www.thebrickfan.com/wp-content/uploads/2026/10/LEGO-Ideas-Build-Paint-and-Play-40889.jpg\" width=\"600/\" /></a></center></p>\n<p>Today is",
+      "published": "Sun, 08 Nov 2026 15:05:28 +0000"
+    },
+    {
+      "source": "The Brick Fan",
+      "topic": "Lego",
+      "title": "LEGO Ideas November 7 Update",
+      "url": "https://www.thebrickfan.com/lego-ideas-november-7-update/",
+      "summary": "<p><center><img src=\"https://ideascdn.lego.com/media/generate/lego_ci/06af4b97-db5a-425c-ae86-1b4a3d9b04e3/original:0:0/webp\" width=\"600/\" /></center></p>\n<p>Our first LEGO Ideas update for November brings us six more projects that have reached the 10,000 supporter goal for the <a href=\"https://beta",
+      "published": "Sat, 07 Nov 2026 15:27:42 +0000"
+    },
+    {
+      "source": "The Brick Fan",
+      "topic": "Lego",
+      "title": "LEGO Ninjago Embers + Ashes Teaser Trailer",
+      "url": "https://www.thebrickfan.com/lego-ninjago-embers-ashes-teaser-trailer/",
+      "summary": "<p><center><img src=\"https://www.thebrickfan.com/wp-content/uploads/2026/11/LEGO-Ninjago-Legends-Embers-Ashes.jpg\" width=\"600/\" /></center></p>\n<p>A new era of LEGO Ninjago is here with a first teaser of Embers + Ashes that will be coming in 2027. It is a continuation of the original Ninjago series ",
+      "published": "Fri, 06 Nov 2026 15:41:13 +0000"
+    },
+    {
+      "source": "The Brick Fan",
+      "topic": "Lego",
+      "title": "More LEGO Botanicals 2027 Sets Revealed",
+      "url": "https://www.thebrickfan.com/more-lego-botanicals-2027-sets-revealed/",
+      "summary": "<p><center><a href=\"https://click.linksynergy.com/deeplink?id=LNtsWdwRzsQ&#038;mid=13923&#038;murl=https%3a%2f%2fwww.lego.com%2fen-us%2fproduct%2fnasturtium-flowers-11536\" target=\"_blank\"><img src=\"https://www.thebrickfan.com/wp-content/uploads/2026/11/LEGO-Botanicals-Nasturtium-Flowers-11536.jpg\" w",
+      "published": "Fri, 06 Nov 2026 15:17:51 +0000"
+    },
+    {
+      "source": "The Brick Fan",
+      "topic": "Lego",
+      "title": "LEGO Chinese Traditional Festival 2027 Sets Announced",
+      "url": "https://www.thebrickfan.com/lego-chinese-traditional-festival-2027-sets-announced/",
+      "summary": "<p><center><a href=\"https://click.linksynergy.com/deeplink?id=LNtsWdwRzsQ&#038;mid=13923&#038;murl=https%3a%2f%2fwww.lego.com%2fen-us%2fproduct%2fspring-festival-voyage-80123\" target=\"_blank\"><img src=\"https://www.thebrickfan.com/wp-content/uploads/2026/11/LEGO-Chinese-Traditional-Festival-Spring-Fe",
+      "published": "Fri, 06 Nov 2026 14:53:09 +0000"
+    },
+    {
+      "source": "Brickset",
+      "topic": "Lego",
+      "title": "This week's top news articles",
+      "url": "https://brickset.com/article/135996",
+      "summary": "<img alt=\"This week's top news articles\" src=\"https://brickset.com/assets/images/logo/logo.png\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>These are the most read articles that we've posted during the last fortnight:</p><table class=\"neattable\"><tr><th>Article</th><th>Date</th><th>Views</th><t",
+      "published": "Sun, 08 Nov 2026 10:01:02 GMT"
+    },
+    {
+      "source": "Brickset",
+      "topic": "Lego",
+      "title": "Random set of the day: Hydraxon",
+      "url": "https://brickset.com/article/135993",
+      "summary": "<img alt=\"Random set of the day: Hydraxon\" src=\"https://images.brickset.com/sets/small/8923-1.jpg\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Today's random set is <a href=\"https://brickset.com/sets/8923-1\">8923</a> Hydraxon, released during 2007. It's one of <a href=\"https://brickset.com/sets",
+      "published": "Sun, 08 Nov 2026 03:01:02 GMT"
+    },
+    {
+      "source": "Brickset",
+      "topic": "Lego",
+      "title": "Random figure of the day: twn290",
+      "url": "https://brickset.com/article/135992",
+      "summary": "<img alt=\"Random figure of the day: twn290\" src=\"https://img.bricklink.com/ItemImage/MN/0/twn290.png\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Today's random figure is <a href=\"https://brickset.com/minifigs/twn290\">twn290</a> <em>Mom, Medium Lavender Jacket over Lavender Shirt, Dark Tan Legs",
+      "published": "Sun, 08 Nov 2026 02:01:03 GMT"
+    },
+    {
+      "source": "Brickset",
+      "topic": "Lego",
+      "title": "What's hot this week",
+      "url": "https://brickset.com/article/135991",
+      "summary": "<img alt=\"What's hot this week\" src=\"https://brickset.com/assets/images/logo/logo.png\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>These are the sets that have been viewed the most this week:</p><table class=\"neattable\"><tr><th class=\"textcenter\">TW</th><th class=\"textcenter\">LW</th><th></th><t",
+      "published": "Sat, 07 Nov 2026 23:01:02 GMT"
+    },
+    {
+      "source": "Brickset",
+      "topic": "Lego",
+      "title": "Review: 72161 Drone Search for Mythical Mew",
+      "url": "https://brickset.com/article/133777",
+      "summary": "<img alt=\"Review: 72161 Drone Search for Mythical Mew\" src=\"https://images.brickset.com/news/thumbs/large/133777_72161-005_0348.jpg\" style=\"float: left; margin: 0 10px 10px 0;\" /><p>Long before Grogu, another cute, rare, powerful, and seemingly ageless creature was sought after for its special prope",
+      "published": "Sat, 07 Nov 2026 14:00:00 GMT"
+    },
+    {
+      "source": "Brothers Brick",
+      "topic": "Lego",
+      "title": "Rounding up a year of The Legend of Zelda builds in preparation for Ocarina of Time",
+      "url": "https://www.brothers-brick.com/2026/11/04/rounding-up-a-year-of-the-legend-of-zelda-builds-in-preparation-for-ocarina-of-time/",
+      "summary": "<p>With the long-awaited remake of The Legend of Zelda: Ocarina of Time releasing this week, there&#8217;s no better time to take a look at just a handful of the incredible Zelda builds we&#8217;ve marveled at this year. Despite the franchise&#8217;s popularity, it&#8217;s been surprisingly under-re",
+      "published": "Wed, 04 Nov 2026 20:01:41 +0000"
+    },
+    {
+      "source": "Brothers Brick",
+      "topic": "Lego",
+      "title": "LEGO Ideas 21375 Godzilla: Size does matter [Review]",
+      "url": "https://www.brothers-brick.com/2026/11/04/lego-ideas-21375-godzilla-size-does-matter-review/",
+      "summary": "<p>Few movie monsters command a screen quite like Godzilla. There&#8217;s the colossal bulk, the jagged row of dorsal fins, and that blue-white atomic breath: an image so iconic it has been flattening cinema&#8217;s skylines, and its insurance premiums, for decades. Now the King of the Monsters arri",
+      "published": "Wed, 04 Nov 2026 14:30:12 +0000"
+    },
+    {
+      "source": "Brothers Brick",
+      "topic": "Lego",
+      "title": "The return of the King (of the Lizards): LEGO reveals 5,000-piece Godzilla set [News]",
+      "url": "https://www.brothers-brick.com/2026/11/03/the-return-of-the-king-of-the-lizards-lego-reveals-5000-piece-godzilla-set-news/",
+      "summary": "<p>Are you the owner of a LEGO town or cityscape, perhaps lovingly tended over years of collecting and building? If so, beware! There&#8217;s a new LEGO kaiju on the horizon &#8211; the kaiju, in fact. 21375 Godzilla is the next set to come from the LEGO Ideas platform. With 5,363 pieces, this new s",
+      "published": "Tue, 03 Nov 2026 14:00:43 +0000"
+    },
+    {
+      "source": "Brothers Brick",
+      "topic": "Lego",
+      "title": "This lean, mean, green LEGO machine will have you looking twice",
+      "url": "https://www.brothers-brick.com/2026/11/02/this-lean-mean-green-lego-machine-will-have-you-looking-twice/",
+      "summary": "<p>LEGO builder Vince Toulouse has been honing their style for years, perfecting the art of smooth, swooping curves and luxurious colors to create vehicles with a retro-futuristic flair. This latest build, an insect-inspired steampunk flying machine is jaw-dropping not only in scale, but also brilli",
+      "published": "Mon, 02 Nov 2026 14:00:54 +0000"
+    },
+    {
+      "source": "Brothers Brick",
+      "topic": "Lego",
+      "title": "LEGO Icons 11388 Venetian Neighbourhood & 40898 Venetian Water Taxi GWP [Review]",
+      "url": "https://www.brothers-brick.com/2026/11/01/lego-icons-11388-venetian-neighbourhood-40898-venetian-water-taxi-gwp-review/",
+      "summary": "<p>Tourists really are spoilt for choice when it comes to visiting Italy. Great food, wonderful nature, millennia of history that you can sometimes literally walk through &#8211; there are fantastic destinations all over the country. Even with this embarassment of riches, the city of Venice stands o",
+      "published": "Sun, 01 Nov 2026 20:00:24 +0000"
+    },
+    {
+      "source": "MIT Technology Review",
+      "topic": "Innovation",
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot clea",
+      "published": "Fri, 06 Nov 2026 13:10:00 +0000"
+    },
+    {
+      "source": "MIT Technology Review",
+      "topic": "Innovation",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;",
+      "published": "Fri, 06 Nov 2026 10:00:00 +0000"
+    },
+    {
+      "source": "MIT Technology Review",
+      "topic": "Innovation",
+      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground ",
+      "published": "Thu, 05 Nov 2026 13:10:00 +0000"
+    },
+    {
+      "source": "MIT Technology Review",
+      "topic": "Innovation",
+      "title": "A new bill could change how the US builds energy infrastructure",
+      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+      "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan th",
+      "published": "Thu, 05 Nov 2026 10:00:00 +0000"
+    },
+    {
+      "source": "MIT Technology Review",
+      "topic": "Innovation",
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for govern",
+      "published": "Wed, 04 Nov 2026 18:50:55 +0000"
+    },
+    {
+      "source": "Fast Company",
+      "topic": "Innovation",
+      "title": "Enterprise AI is waiting for its Transformer moment",
+      "url": "https://www.fastcompany.com/91634049/enterprise-ai-waiting-transformer-moment",
+      "summary": "<p class=\"wp-block-paragraph\" id=\"h-as-a-professor-of-innovation-there-s-a-slide-in-my-deck-i-use-every-time-i-start-a-session-on-artificial-intelligence-a-fragment-of-the-first-page-from-the-attention-is-all-you-need-paper-from-2017-i-use-just-a-fragment-because-i-don-t-want-the-students-to-read-it",
+      "published": "2026-11-08T13:00:00"
+    },
+    {
+      "source": "Fast Company",
+      "topic": "Innovation",
+      "title": "5 books to calm AI-induced existential dread",
+      "url": "https://www.fastcompany.com/91635138/5-books-to-calm-ai-induced-existential-dread",
+      "summary": "<p class=\"wp-block-paragraph\"><a href=\"https://nextbigideaclub.com/magazine/topics/technology\" rel=\"noreferrer noopener\" target=\"_blank\"></a><a href=\"https://www.fastcompany.com/section/artificial-intelligence\" rel=\"noreferrer noopener\" target=\"_blank\">Artificial intelligence</a> is transforming how",
+      "published": "2026-11-08T09:00:00"
+    },
+    {
+      "source": "Fast Company",
+      "topic": "Innovation",
+      "title": "This election demonstrated something important about decision-making",
+      "url": "https://www.fastcompany.com/91637367/this-election-demonstrated-something-important-about-decision-making",
+      "summary": "<p class=\"wp-block-paragraph\">Six months ago, the outcome of the November 3 <a href=\"https://www.fastcompany.com/section/midterms\" rel=\"noreferrer noopener\" target=\"_blank\">midterm elections</a> would have seemed impossible. Most states and regions were highly polarized politically. So-called purple",
+      "published": "2026-11-08T08:00:00"
+    },
+    {
+      "source": "Fast Company",
+      "topic": "Innovation",
+      "title": "Minimum wage, the gender wage gap, and more: How Democrats could pressure Trump on workplace issues",
+      "url": "https://www.fastcompany.com/91636658/minimum-wage-the-gender-wage-gap-and-more-how-democrats-could-pressure-trump-on-workplace-issues",
+      "summary": "<p class=\"wp-block-paragraph\">While Democrats’ legislative agenda for the incoming Congress is still taking shape, early indications suggest workplace and labor issues will have a prominent role.</p>\n\n\n\n<p class=\"wp-block-paragraph\">And while the Senate filibuster and President Donald Trump’s veto p",
+      "published": "2026-11-08T07:00:00"
+    },
+    {
+      "source": "Fast Company",
+      "topic": "Innovation",
+      "title": "The GOP went all in on Trump. It’s a cautionary tale about leadership",
+      "url": "https://www.fastcompany.com/91637362/the-gop-went-all-in-on-trump-its-a-cautionary-tale-about-leadership",
+      "summary": "<p class=\"wp-block-paragraph\">Republicans hitched their wagon to a single leader. And they lost in the midterms. Bigly.</p>\n\n\n\n<p class=\"wp-block-paragraph\">In what turned out to be a historic and unprecedented <a href=\"https://www.fastcompany.com/91635531/this-map-shows-just-how-big-democrats-won-t",
+      "published": "2026-11-08T07:00:00"
+    },
+    {
+      "source": "Wired",
+      "topic": "Innovation",
+      "title": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
+      "url": "https://www.wired.com/gallery/best-computer-speakers/",
+      "summary": "After testing 30 pairs of computer speakers, these are the best computer speakers—from stereo speakers to subwoofers to surround sound systems.",
+      "published": "Sun, 08 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "source": "Wired",
+      "topic": "Innovation",
+      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+      "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+      "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+      "published": "Sun, 08 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "source": "Wired",
+      "topic": "Innovation",
+      "title": "Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory",
+      "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+      "summary": "More evidence that magnets are magical.",
+      "published": "Sun, 08 Nov 2026 11:30:00 +0000"
+    },
+    {
+      "source": "Wired",
+      "topic": "Innovation",
+      "title": "How to Remind Your Boss of Your PTO Without Pissing Them Off",
+      "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
+      "summary": "The next time you take paid time off, your boss and coworkers will remember if you follow this advice.",
+      "published": "Sun, 08 Nov 2026 11:00:00 +0000"
+    },
+    {
+      "source": "Wired",
+      "topic": "Innovation",
+      "title": "A 55-Year-Old Math Problem Was Solved—This Time by Humans",
+      "url": "https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/",
+      "summary": "A group of young mathematicians found the solution to the long unanswered conjecture, first inspired by juggling, through randomness and friendship.",
+      "published": "Sun, 08 Nov 2026 10:30:00 +0000"
+    },
+    {
+      "source": "CleanTechnica",
+      "topic": "Ecology",
+      "title": "Even California’s Biggest Ports Aren’t Betting On Hydrogen For Ships",
+      "url": "https://cleantechnica.com/2026/11/08/california-biggest-ports-not-betting-hydrogen-ships/",
+      "summary": "<p>California has been one of hydrogen&#8217;s most enthusiastic supporters for two decades. The state has subsidized hydrogen vehicles, backed refueling networks, supported fuel-cell buses and trucks, invested in hydrogen production and kept the technology prominent in its zero-emission transportat",
+      "published": "Sun, 08 Nov 2026 16:04:03 +0000"
+    },
+    {
+      "source": "CleanTechnica",
+      "topic": "Ecology",
+      "title": "Tesla Hasn’t Had A Successful New Product Launch Since JB Straubel Stepped Down As CTO",
+      "url": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
+      "summary": "<p>As has been widely reported, Tesla is about to end Cybertruck production. The Cybertruck has been a shocking failure. I&#8217;m sure there are more detailed analyses out there somewhere, but this short response on X from Ben McCombe that Tina Casey included in her article on the matter sums it   ",
+      "published": "Sun, 08 Nov 2026 04:57:46 +0000"
+    },
+    {
+      "source": "CleanTechnica",
+      "topic": "Ecology",
+      "title": "A New $1.5 Billion Wind Farm Will Play In Peoria",
+      "url": "https://cleantechnica.com/2026/11/07/wind-farms-us-energy-policy-lawsuits-trump/",
+      "summary": "<p>The global energy developer Repsol is on track to construct a 500-megawatt wind farm in Peoria County, Illinois, regardless of last year's sharp U-turn in federal energy policy.</p>\n<p>The post <a href=\"https://cleantechnica.com/2026/11/07/wind-farms-us-energy-policy-lawsuits-trump/\">A New $1.5 B",
+      "published": "Sun, 08 Nov 2026 00:24:20 +0000"
+    },
+    {
+      "source": "CleanTechnica",
+      "topic": "Ecology",
+      "title": "BMW Pitches Free EV Charging And You Ain’t Seen Nothing Yet",
+      "url": "https://cleantechnica.com/2026/11/07/ev-charging-credit-bmw-free-hours-us-market/",
+      "summary": "<p>BMW is sweetening the EV charging pot with a $500 charging credit on its 2027 i5, i7, and iX3 electric cars in the US, a move that dovetails with the rise of \"free hours\" electricity rates. </p>\n<p>The post <a href=\"https://cleantechnica.com/2026/11/07/ev-charging-credit-bmw-free-hours-us-market/",
+      "published": "Sat, 07 Nov 2026 21:56:33 +0000"
+    },
+    {
+      "source": "CleanTechnica",
+      "topic": "Ecology",
+      "title": "REDD — Picking Up Our New Tesla Model Y",
+      "url": "https://cleantechnica.com/2026/11/07/redd-picking-up-our-new-tesla-model-y/",
+      "summary": "<p>REDD, the name for our new Tesla Model Y (Standard Range ’26 build, ’27 model), was inspired by the movie of the same name – Retired, Extremely Dangerous Drivers (the wife and I, of course). As mentioned previously, there is nothing wrong with our beloved 2019 Model 3. It is   ... [continued]</p>",
+      "published": "Sat, 07 Nov 2026 20:42:56 +0000"
+    },
+    {
+      "source": "Electrek",
+      "topic": "Ecology",
+      "title": "New ID. AURA is the mainstream EV VW needs – but its software is the real story",
+      "url": "https://electrek.co/2026/11/08/new-id-aura-is-the-mainstream-ev-vw-needs-but-its-software-is-the-real-story/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/id-aura_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Volkswagen built its global empire on the promise of affordable, accessible transportation, embodied by the iconic Ty",
+      "published": "Sun, 08 Nov 2026 13:42:16 +0000"
+    },
+    {
+      "source": "Electrek",
+      "topic": "Ecology",
+      "title": "Everyone wants an electric pickup truck. I want more electric 125cc motorcycles",
+      "url": "https://electrek.co/2026/11/08/everyone-wants-an-electric-pickup-truck-i-want-more-electric-125cc-motorcycles/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/motorcycle-vs-truck-header-1.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">If you follow the EV industry in North America, you’d be forgiven for thinking that the future of tra",
+      "published": "Sun, 08 Nov 2026 09:37:36 +0000"
+    },
+    {
+      "source": "Electrek",
+      "topic": "Ecology",
+      "title": "Tesla deemed liable for fraud after Solar Roof ‘experiment’ on a home",
+      "url": "https://electrek.co/2026/11/07/tesla-solar-roof-fraud-liable-experiment-lawsuit/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2019/08/Tesla-Solar-Roof-quote.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">A California judge has deemed Tesla liable for fraud in a Solar Roof lawsuit, after the company repeatedly ",
+      "published": "Sat, 07 Nov 2026 16:01:23 +0000"
+    },
+    {
+      "source": "Electrek",
+      "topic": "Ecology",
+      "title": "Harbinger scores another $240M in latest investment round",
+      "url": "https://electrek.co/2026/11/07/harbinger-scores-another-240m-in-latest-investment-round/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/harbinger_EV.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Electric truck maker Harbinger has been racking up wins in recent months, and after scoring a $300 million order from",
+      "published": "Sat, 07 Nov 2026 12:53:45 +0000"
+    },
+    {
+      "source": "Electrek",
+      "topic": "Ecology",
+      "title": "Yamaha’s new electric scooter takes aim at Europe’s 125cc commuters",
+      "url": "https://electrek.co/2026/11/07/yamahas-new-electric-scooter-takes-aim-at-europes-125cc-commuters/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/XENTER-E-yamaha-electric-scooter-charging-header.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Yamaha is expanding its electric scooter lineup with the new XENTER E, a 125cc-eq",
+      "published": "Sat, 07 Nov 2026 12:30:10 +0000"
+    },
+    {
+      "source": "Seeking Alpha",
+      "topic": "Investor",
+      "title": "Wall Street Brunch: Anthropic IPO Goes On The Road",
+      "url": "https://seekingalpha.com/article/4964841-wall-street-brunch-anthropic-ipo-goes-on-the-road?source=feed_all_articles",
+      "summary": "",
+      "published": "Sun, 08 Nov 2026 11:50:00 -0500"
+    },
+    {
+      "source": "Seeking Alpha",
+      "topic": "Investor",
+      "title": "Light & Wonder, Inc. (LNWO) Q3 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4964843-light-and-wonder-inc-lnwo-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "summary": "",
+      "published": "Sun, 08 Nov 2026 11:44:36 -0500"
+    },
+    {
+      "source": "Seeking Alpha",
+      "topic": "Investor",
+      "title": "FIGS, Inc. (FIGS) Q3 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4964842-figs-inc-figs-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "summary": "",
+      "published": "Sun, 08 Nov 2026 11:44:32 -0500"
+    },
+    {
+      "source": "Seeking Alpha",
+      "topic": "Investor",
+      "title": "Quebecor Inc. (QBR.A:CA) Q3 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4964840-quebecor-inc-qbr-a-ca-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "summary": "",
+      "published": "Sun, 08 Nov 2026 11:34:39 -0500"
+    },
+    {
+      "source": "Seeking Alpha",
+      "topic": "Investor",
+      "title": "Liberty Latin America Ltd. (LILA) Q3 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4964839-liberty-latin-america-ltd-lila-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "summary": "",
+      "published": "Sun, 08 Nov 2026 11:34:37 -0500"
+    },
+    {
+      "source": "Bloomberg Markets",
+      "topic": "Investor",
+      "title": "Bookmarked: News Stories On Our Reading List",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-08/bookmarked-news-stories-on-our-reading-list-video",
+      "summary": "The Met Gala announces a 'normie' theme, the end of floppy disks, lawsuit over McRib contents, and the Hall of Fame of Toys: Join hosts David Gura, Christina Ruffini and Lisa Mateo on Bloomberg This Weekend for Bookmarked, where they share stories that caught their attention over the past week. (Sou",
+      "published": "Sun, 08 Nov 2026 16:30:18 GMT"
+    },
+    {
+      "source": "Bloomberg Markets",
+      "topic": "Investor",
+      "title": "By The Way: Headlines You May Have Missed",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-08/by-the-way-headlines-you-may-have-missed-video",
+      "summary": "Choosing who to give Christmas presents to, a Christmas themed cruise, students making a deposit for college and then not attending, and the SATs and AP tests tackle AI cheating: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source:",
+      "published": "Sun, 08 Nov 2026 16:23:12 GMT"
+    },
+    {
+      "source": "Bloomberg Markets",
+      "topic": "Investor",
+      "title": "Markets Brace for Washington Policy Battles",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-08/markets-brace-for-washington-policy-battles-video",
+      "summary": "On Bloomberg This Weekend, SMBC Nikko Securities Chief Economist Joe Lavorgna says affordability helped drive the midterm results but argues the underlying US economy remains healthy and major policy changes may be limited by divided government. Speaking with hosts David Gura and Christina Ruffini, ",
+      "published": "Sun, 08 Nov 2026 16:17:03 GMT"
+    },
+    {
+      "source": "Bloomberg Markets",
+      "topic": "Investor",
+      "title": "Israel’s Election Fight Shifts to Coalition Building",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-08/israel-s-election-fight-shifts-to-coalition-building-video",
+      "summary": "On Bloomberg This Weekend, Bloomberg Middle East reporter Dan Williams explains why Gadi Eisenkot has been given the first opportunity to form Israel’s next government despite Benjamin Netanyahu’s bloc winning more seats. Speaking with hosts David Gura and Christina Ruffini, Williams discusses the r",
+      "published": "Sun, 08 Nov 2026 15:49:43 GMT"
+    },
+    {
+      "source": "Bloomberg Markets",
+      "topic": "Investor",
+      "title": "Can Europe Afford Its Welfare State?",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-08/can-europe-afford-its-welfare-state-video",
+      "summary": "Europe’s postwar welfare state was built for a younger, growing population. Today, aging communities are putting pensions, health care and public finances under mounting strain. As governments try to fund defense, infrastructure and education at the same time, the fight over who pays is spilling int",
+      "published": "Sun, 08 Nov 2026 15:02:58 GMT"
+    }
+  ]
+}
